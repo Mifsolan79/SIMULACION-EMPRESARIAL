@@ -112,8 +112,11 @@ function loadQuestion() {
     const question = state.quizData[qIndex];
 
     elements.questionText.textContent = question.question;
-    // elements.questionCounter.textContent = `Pregunta ${state.currentQuestionIndex + 1} de ${state.totalQuestions}`;
     elements.optionsContainer.innerHTML = '';
+
+    // Check if already answered
+    const existingResult = state.results.find(r => r.qIndex === qIndex);
+
     elements.feedbackContainer.classList.add('hidden');
     elements.feedbackContainer.innerHTML = '';
 
@@ -126,29 +129,86 @@ function loadQuestion() {
         input.name = 'answer';
         input.value = idx;
         input.id = `opt${idx}`;
+        input.disabled = !!existingResult; // Disable if already answered
 
         const label = document.createElement('label');
         label.htmlFor = `opt${idx}`;
         label.textContent = opt;
 
         div.append(input, label);
-        div.addEventListener('click', (e) => {
-            if (e.target !== input && !input.disabled) {
-                input.checked = true;
-                document.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));
-                div.classList.add('selected');
-            }
-        });
+
+        if (!existingResult) {
+            div.addEventListener('click', (e) => {
+                if (e.target !== input && !input.disabled) {
+                    input.checked = true;
+                    document.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));
+                    div.classList.add('selected');
+                }
+            });
+        }
 
         elements.optionsContainer.appendChild(div);
     });
 
-    // Reset Buttons
-    elements.submitBtn.classList.remove('hidden');
-    elements.submitBtn.disabled = false;
-    elements.skipBtn.classList.remove('hidden');
-    elements.skipBtn.disabled = false;
-    elements.nextBtn.classList.add('hidden');
+    if (existingResult) {
+        // Restore State
+        if (existingResult.chosen !== null) {
+            const chosenInput = document.getElementById(`opt${existingResult.chosen}`);
+            if (chosenInput) {
+                chosenInput.checked = true;
+                chosenInput.closest('.option').classList.add('selected');
+            }
+        }
+
+        // Show feedback immediately
+        const isCorrect = existingResult.outcome === 'ok';
+        const isSkipped = existingResult.outcome === 'sk';
+        showFeedback(isCorrect, question, existingResult.chosen, isSkipped);
+
+        // Hide Submit/Skip, show Next only if not last (actually logic in showFeedback handles buttons)
+        // But we might want to ensure 'Next' is visible to move forward
+        elements.submitBtn.classList.add('hidden');
+        elements.skipBtn.classList.add('hidden');
+        elements.nextBtn.classList.remove('hidden');
+
+    } else {
+        // New Question State
+        elements.submitBtn.classList.remove('hidden');
+        elements.submitBtn.disabled = false;
+        elements.skipBtn.classList.remove('hidden');
+        elements.skipBtn.disabled = false;
+        elements.nextBtn.classList.add('hidden');
+    }
+
+    updateMiniNav();
+}
+
+// ... helper ...
+
+function updateMiniNav() {
+    if (!elements.miniNav) return;
+    elements.miniNav.innerHTML = '';
+    state.order.forEach((qIdx, i) => {
+        const pill = document.createElement('div');
+        pill.className = 'pill';
+        pill.textContent = i + 1;
+        pill.style.cursor = 'pointer'; // Make it look clickable
+
+        const res = state.results.find(r => r.qIndex === qIdx);
+        if (res) {
+            pill.classList.add(res.outcome); // ok, ko, sk
+        }
+
+        if (i === state.currentQuestionIndex) pill.classList.add('cur');
+
+        // Add click listener to jump
+        pill.addEventListener('click', () => {
+            state.currentQuestionIndex = i;
+            loadQuestion();
+        });
+
+        elements.miniNav.appendChild(pill);
+    });
 }
 
 function submitAnswer() {
