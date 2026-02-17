@@ -61,10 +61,12 @@ async function init() {
     let themeValue = params.get('tema') || params.get('exam'); // '1' or 'tema_1'
 
     if (!themeValue) {
+        console.error('No exam ID found in URL parameters.');
         alert('No se ha especificado un examen.');
         window.location.href = 'index.html';
         return;
     }
+    console.log('Loading exam:', themeValue);
 
     // Normalize: if it's just a number, make it 'tema_N'. If it's 'tema_N', keep it.
     if (!themeValue.startsWith('tema_')) {

@@ -70,6 +70,8 @@ main {
     justify-content: center;
     align-items: flex-start;
     width: 100%;
+    overflow-x: hidden;
+    /* Prevent horizontal scroll */
 }
 
 @media (min-width: 980px) {
@@ -308,6 +310,10 @@ h1 {
     transition: .2s;
     position: relative;
     margin-bottom: 12px;
+    width: 100%;
+    /* Force full width */
+    box-sizing: border-box;
+    /* Include padding in width */
 }
 
 .option:hover {
