@@ -152,6 +152,7 @@ function loadQuestion() {
 
     if (existingResult) {
         // Restore State
+        console.log('Restoring result for Q:', qIndex, existingResult);
         if (existingResult.chosen !== null) {
             const chosenInput = document.getElementById(`opt${existingResult.chosen}`);
             if (chosenInput) {
@@ -202,10 +203,11 @@ function updateMiniNav() {
         if (i === state.currentQuestionIndex) pill.classList.add('cur');
 
         // Add click listener to jump
-        pill.addEventListener('click', () => {
+        pill.onclick = () => {
+            console.log('Clicked pill:', i + 1);
             state.currentQuestionIndex = i;
             loadQuestion();
-        });
+        };
 
         elements.miniNav.appendChild(pill);
     });
