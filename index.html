@@ -2,115 +2,232 @@
 <html lang="es">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>SIMULACIÓN EMPRESARIAL</title>
-    <link rel="stylesheet" href="css/style.css">
     <style>
-        /* Inline overrides for specific layout tweaks if needed, 
-           but mostly relying on css/style.css */
-        a {
+        :root {
+            /* Updated to Gold/Red Theme (Neon Business) */
+            --bg: #0f100a;
+            /* Dark warm bg */
+            /* Slate 900 modified */
+            --panel: rgba(30, 20, 10, 0.95);
+            /* Slate 800 modified */
+            --text: #fefce8;
+            /* Yellow 50 */
+            --muted: #a1a1aa;
+            /* Gray 400 */
+            --neon-main: #EAB308;
+            /* Yellow 500 */
+            --neon-alt: #DC2626;
+            /* Red 600 */
+            --border: #292524;
+            /* Stone 800 */
+            --shadow: 0 6px 16px rgba(234, 179, 8, 0.25);
+            --radius: 10px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        html,
+        body {
+            height: 100%;
+            overflow-y: scroll;
+            scrollbar-width: none;
+        }
+
+        body::-webkit-scrollbar {
+            display: none;
+        }
+
+        body {
+            font-family: system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial;
+            color: var(--text);
+            background: var(--bg);
+        }
+
+        canvas#bgCanvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background: var(--bg);
+        }
+
+        .wrap {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        header.app {
+            text-align: center;
+            margin: 18px 0 14px;
+        }
+
+        header.app h1 {
+            margin: 0;
+            font-size: clamp(1.2rem, 4vw, 2.2rem);
+            color: var(--neon-main);
+            text-shadow: 0 0 8px rgba(234, 179, 8, 0.35), 0 0 14px rgba(220, 38, 38, 0.25);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 14px;
+            margin-top: 20px;
+        }
+
+        .card {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px 14px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            background: rgba(15, 23, 42, 0.85);
             text-decoration: none;
+            color: var(--text);
+            box-shadow: var(--shadow);
+            transition: all .2s ease-in-out;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .card:hover {
+            transform: translateY(-3px) scale(1.02);
+            border-color: var(--neon-main);
+            box-shadow: 0 0 8px var(--neon-main), 0 0 16px var(--neon-alt), 0 0 30px rgba(234, 179, 8, 0.4);
+        }
+
+        .card .kicker {
+            font-size: .9rem;
+            font-weight: 700;
+            color: var(--neon-main);
+            margin-bottom: 6px;
+            letter-spacing: .4px;
+        }
+
+        .card strong {
+            font-size: .95rem;
+            letter-spacing: .4px;
+            color: var(--text);
+        }
+
+        .badge {
+            margin-top: 8px;
+            font-size: .75rem;
+            padding: 4px 8px;
+            border-radius: 999px;
+            border: 1px solid #1e293b;
+            background: #0f172a;
+            color: var(--muted);
+        }
+
+        .card.disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            border-color: #292524;
+        }
+
+        .card.disabled:hover {
+            transform: none;
+            box-shadow: none;
         }
     </style>
 </head>
 
 <body>
-    <main style="display: block; width: 100%; max-width: 1200px; margin: 0 auto; padding: 20px;">
-        <h1 style="font-size: 2.5rem; margin-top: 20px; margin-bottom: 40px; text-align: center; color: var(--gold);">
-            SIMULACIÓN EMPRESARIAL</h1>
+    <canvas id="bgCanvas"></canvas>
 
-        <div class="grid" id="topic-grid">
-            <!-- Tema 1 -->
-            <a href="exam.html?tema=1" class="topic-card">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🏢</div>
-                <h3>TEMA 1</h3>
-                <p>La iniciativa emprendedora</p>
-            </a>
+    <div class="wrap" id="app">
+        <header class="app">
+            <h1>SIMULACIÓN EMPRESARIAL</h1>
+        </header>
 
-            <!-- Tema 2 -->
-            <a href="exam.html?tema=2" class="topic-card">
-                <div style="font-size: 2rem; margin-bottom: 10px;">💡</div>
-                <h3>TEMA 2</h3>
-                <p>La idea de negocio</p>
-            </a>
+        <section class="grid" id="grid"></section>
+    </div>
 
-            <!-- Tema 3 -->
-            <a href="exam.html?tema=3" class="topic-card">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🌍</div>
-                <h3>TEMA 3</h3>
-                <p>El entorno y el sector</p>
-            </a>
+    <script>
+        // Fondo dinámico Gold
+        const canvas = document.getElementById("bgCanvas");
+        const ctx = canvas.getContext("2d");
+        let particles = [];
 
-            <!-- Tema 4 -->
-            <a href="exam.html?tema=4" class="topic-card">
-                <div style="font-size: 2rem; margin-bottom: 10px;">📊</div>
-                <h3>TEMA 4</h3>
-                <p>El mercado y los clientes</p>
-            </a>
+        function resize() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+            particles = Array.from({ length: 100 }, () => ({
+                x: Math.random() * canvas.width,
+                y: Math.random() * canvas.height,
+                r: Math.random() * 2 + 1,
+                dx: (Math.random() - 0.5) * 0.6,
+                dy: (Math.random() - 0.5) * 0.6
+            }));
+        }
+        function draw() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.fillStyle = "#EAB308"; /* Yellow 500 */
+            particles.forEach(p => {
+                ctx.beginPath();
+                ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+                ctx.fill();
+                p.x += p.dx;
+                p.y += p.dy;
+                if (p.x < 0 || p.x > canvas.width) p.dx *= -1;
+                if (p.y < 0 || p.y > canvas.height) p.dy *= -1;
+            });
+            requestAnimationFrame(draw);
+        }
+        window.addEventListener("resize", resize);
+        resize();
+        draw();
 
-            <!-- Temas 5-15 (No disponibles) -->
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 5</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 6</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 7</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 8</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 9</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 10</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 11</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 12</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 13</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 14</h3>
-                <p>No disponible</p>
-            </div>
-            <div class="topic-card disabled">
-                <div style="font-size: 2rem; margin-bottom: 10px;">🔒</div>
-                <h3>TEMA 15</h3>
-                <p>No disponible</p>
-            </div>
-        </div>
+        // Script de temas
+        (function () {
+            // Títulos específicos para los primeros 4 temas
+            const titulos = {
+                1: "INNOVACIÓN EMPRESARIAL",
+                2: "LA IDEA DE NEGOCIO",
+                3: "ENTORNO Y SECTOR",
+                4: "MERCADO Y CLIENTES"
+            };
 
-        <footer style="margin-top: 40px; color: var(--muted); font-size: 0.9rem; text-align: center;">
-            &copy; 2026 Simulación Empresarial - Examen Online
-        </footer>
-    </main>
+            const temas = Array.from({ length: 15 }, (_, i) => {
+                const n = i + 1;
+                const tituloEspecifico = titulos[n] ? titulos[n] : `TEMA ${n}`;
+                const disponible = n <= 4;
+
+                return {
+                    numero: n,
+                    titulo: tituloEspecifico,
+                    href: disponible ? `exam.html?tema=${n}` : '#',
+                    disponible: disponible
+                };
+            });
+
+            const grid = document.getElementById('grid');
+
+            grid.innerHTML = temas.map(it => `
+                <a class="card ${it.disponible ? '' : 'disabled'}" href="${it.href}">
+                    <div class="kicker">EXAMEN</div>
+                    <strong>${it.titulo}</strong>
+                    <span class="badge">Tema ${it.numero}</span>
+                    ${!it.disponible ? '<span class="badge" style="background:#331; color:#fc0; margin-top:4px;">🔒 Bloqueado</span>' : ''}
+                </a>
+            `).join('');
+        })();
+    </script>
 </body>
 
 </html>
