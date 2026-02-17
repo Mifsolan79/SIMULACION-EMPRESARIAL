@@ -1,0 +1,335 @@
+{
+    "title": "SIMULACION EMPRESARIAL - TEMA 4",
+    "items": [
+        {
+            "question": "¿Cómo se define el estudio de mercado según el texto?",
+            "options": [
+                "El proceso de búsqueda, análisis e interpretación de información que afecta al mercado.",
+                "La evaluación exclusiva de la competencia directa en un entorno local.",
+                "Un informe contable sobre la viabilidad de la empresa a largo plazo.",
+                "La creación de una base de datos de proveedores nacionales."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El estudio de mercado se define como el proceso de búsqueda de información, análisis de los datos recogidos e interpretación de información que afecta al mercado. (Fuente: Página 5, Sección: 2. El estudio de mercado. Concepto y Objetivos)"
+        },
+        {
+            "question": "Dentro de la información de un estudio de mercado, ¿qué representa un indicador cuantitativo?",
+            "options": [
+                "La diferenciación del producto.",
+                "La estimación de cuántos clientes vamos a tener y las ventas.",
+                "La definición del público objetivo.",
+                "La imagen y posicionamiento de la empresa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los indicadores cuantitativos incluyen la estimación de cuántos clientes se tendrán, las ventas e ingresos previstos. (Fuente: Página 6, Sección: 3. Necesidad y utilidad del análisis de mercado)"
+        },
+        {
+            "question": "¿Qué elemento cualitativo define las razones por las que los clientes elegirán nuestro producto frente a la competencia?",
+            "options": [
+                "Márgenes comerciales.",
+                "Segmentación demográfica.",
+                "Diferenciación de mi producto.",
+                "Estructura de costes."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La diferenciación consiste en definir el valor añadido y las razones por las que los clientes elegirán nuestros productos. (Fuente: Página 6, Sección: 3. Necesidad y utilidad del análisis de mercado)"
+        },
+        {
+            "question": "En las etapas de un estudio de mercado, ¿en qué fase se realiza el análisis de los clientes y la definición de la idea de negocio?",
+            "options": [
+                "Fase 2: Búsqueda de información.",
+                "Fase 3: Aplicación de técnicas de investigación.",
+                "Fase 4: Interpretación de resultados.",
+                "Fase 1: Análisis de la información que necesitamos."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La Fase 1 incluye la definición de la idea de negocio, del mercado, análisis de clientes y de la competencia. (Fuente: Página 7, Sección: 4. Etapas de un estudio de mercado)"
+        },
+        {
+            "question": "¿Cuál es la principal característica de la información primaria?",
+            "options": [
+                "Es información ya elaborada por la administración pública.",
+                "Es información de elaboración propia obtenida directamente del mercado.",
+                "Se obtiene exclusivamente a través de libros y revistas especializadas.",
+                "Es siempre gratuita y rápida de obtener."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La información primaria es de elaboración propia, obtenida directamente del mercado. (Fuente: Página 8, Sección: 5. La fuente de Información: concepto y clases)"
+        },
+        {
+            "question": "¿Cuál de los siguientes organismos es citado como una fuente de información secundaria?",
+            "options": [
+                "Un grupo de discusión propio.",
+                "Un cuestionario online de la empresa.",
+                "El Instituto Nacional de Estadística (INE).",
+                "La observación directa de clientes."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El INE es una de las fuentes de información secundaria mencionadas, al ser un organismo que publica estadísticas. (Fuente: Página 8, Sección: 5. La fuente de Información: concepto y clases)"
+        },
+        {
+            "question": "Comparando fuentes primarias y secundarias, ¿qué ventaja presentan las secundarias?",
+            "options": [
+                "Tienen un coste alto pero son muy precisas.",
+                "Su dificultad es muy compleja.",
+                "Requieren un tiempo de obtención largo.",
+                "Su coste es bajo y su obtención es rápida y fácil."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Según la Tabla 1, las fuentes secundarias tienen un coste bajo y su obtención es rápida y fácil. (Fuente: Página 8, Sección: 5. La fuente de Información: concepto y clases)"
+        },
+        {
+            "question": "¿Qué técnica cuantitativa de obtención de datos primarios es la más utilizada?",
+            "options": [
+                "La encuesta.",
+                "La entrevista en profundidad.",
+                "El grupo de discusión.",
+                "La observación directa."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La encuesta es la técnica más utilizada y recoge opiniones de clientes o potenciales clientes. (Fuente: Página 9, Sección: 7. Principales métodos de obtención de datos)"
+        },
+        {
+            "question": "¿Cuál es el objetivo principal de las técnicas cualitativas?",
+            "options": [
+                "Obtener datos numéricos para análisis estadísticos.",
+                "Suministrar márgenes comerciales exactos.",
+                "Obtener información sobre motivaciones, comportamientos y actitudes.",
+                "Calcular la cuota de mercado mediante fórmulas matemáticas."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las técnicas cualitativas pretenden obtener información sobre las motivaciones, comportamiento y actitudes de los consumidores. (Fuente: Página 9, Sección: 6. Obtención de datos de fuentes primarias)"
+        },
+        {
+            "question": "En un grupo de discusión o focus group, ¿cuál es el número normal de participantes?",
+            "options": [
+                "De 2 a 4 personas.",
+                "De 6 a 8 personas.",
+                "Más de 20 personas.",
+                "Exactamente 100 personas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Un panel o grupo de discusión trata de reunir a una muestra normalmente de 6 a 8 personas. (Fuente: Página 10, Sección: 7. Principales métodos de obtención de datos)"
+        },
+        {
+            "question": "¿Qué técnica consiste en hacerse pasar por cliente para evaluar el proceso de compra?",
+            "options": [
+                "Panel de detallistas.",
+                "Cliente misterioso.",
+                "Entrevista en profundidad.",
+                "Experimento de laboratorio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El cliente misterioso consiste en hacerse pasar por cliente con el fin de evaluar el proceso de compra. (Fuente: Página 9, Sección: 7. Principales métodos de obtención de datos)"
+        },
+        {
+            "question": "¿En qué consiste la técnica de 'la observación personal'?",
+            "options": [
+                "En un diálogo estructurado entre entrevistador y entrevistado.",
+                "En someter a un grupo a probar un producto.",
+                "En obtener información precisa sobre personas sin que estas sean advertidas.",
+                "En recopilar datos contables internos de la propia empresa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Se define como aquella a través de la que un individuo obtiene información sobre personas y situaciones sin que estas sean advertidas. (Fuente: Página 10, Sección: 7. Principales métodos de obtención de datos)"
+        },
+        {
+            "question": "¿Qué ventaja tiene la experimentación como técnica de investigación?",
+            "options": [
+                "Es la más barata de todas las técnicas primarias.",
+                "Permite recoger opiniones tras someter a clientes a probar un producto.",
+                "No requiere la participación de personas reales.",
+                "Se basa exclusivamente en datos del Registro Mercantil."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La experimentación trata de someter a un grupo de posibles clientes a probar un determinado producto y recoger sus opiniones. (Fuente: Página 10, Sección: 7. Principales métodos de obtención de datos)"
+        },
+        {
+            "question": "¿Cuál es una fuente de información secundaria interna?",
+            "options": [
+                "El censo de organismos públicos.",
+                "Facturas de venta e informes de vendedores.",
+                "Revistas especializadas del sector.",
+                "Bases de datos de sindicatos y universidades."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ejemplos de información secundaria interna son las facturas de venta, informes de vendedores y estudios de mercado previos. (Fuente: Página 11, Sección: 9. Obtención de datos de fuentes secundarias)"
+        },
+        {
+            "question": "Los paneles de detallistas se caracterizan por ser muestras permanentes de:",
+            "options": [
+                "Hogares que facilitan información de consumo.",
+                "Consumidores de televisión.",
+                "Expertos en logopedia infantil.",
+                "Puntos de ventas que permiten conocer cuotas de mercado e inventario."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Los paneles de detallistas son muestras permanentes de puntos de ventas. (Fuente: Página 12, Sección: 9. Obtención de datos de fuentes secundarias)"
+        },
+        {
+            "question": "¿Qué herramienta se utiliza actualmente para estudiar a los clientes basándose en sus emociones?",
+            "options": [
+                "Fórmula de la media aritmética.",
+                "Mapa de empatía.",
+                "Censo del INE.",
+                "Registro Mercantil."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La tendencia actual es estudiar a los clientes atendiendo a las emociones usando el mapa de empatía. (Fuente: Página 12, Sección: 10. Comportamiento del consumidor y segmentación del mercado)"
+        },
+        {
+            "question": "En el estudio de mercado, ¿cómo se define al 'mercado potencial'?",
+            "options": [
+                "Los consumidores que compran a la empresa en este momento.",
+                "Aquellos que ya compran productos similares, pero de la competencia.",
+                "El segmento exacto al que se dirige el producto.",
+                "Los proveedores que suministran la materia prima."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El mercado potencial son aquellos que ya compran o consumen productos similares, pero de la competencia. (Fuente: Página 13, Sección: 10. Comportamiento del consumidor y segmentación del mercado)"
+        },
+        {
+            "question": "¿Cuál es la fórmula para calcular la cuota de mercado?",
+            "options": [
+                "Cuota de mercado = (Mercado potencial / Mercado total) x 100",
+                "Cuota de mercado = (Ventas competencia / Ventas propias) x 100",
+                "Cuota de mercado = (Mercado actual / Mercado total) x 100",
+                "Cuota de mercado = (Precio venta / Coste total) x 100"
+            ],
+            "correctAnswer": 2,
+            "explanation": "La fórmula indicada es Mercado actual dividido por Mercado total multiplicado por 100. (Fuente: Página 13, Sección: 10.1. Cuota de mercado)"
+        },
+        {
+            "question": "Dentro de los pasos para elaborar una encuesta, ¿qué es la 'tabulación'?",
+            "options": [
+                "Elegir si la encuesta será telefónica o presencial.",
+                "Resumir la información obtenida en tablas estadísticas.",
+                "Redactar el informe final con los resultados negativos.",
+                "Identificar el problema que se quiere investigar."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La tabulación tiene como objetivo resumir la información obtenida en tablas estadísticas para que sea útil. (Fuente: Página 14, Sección: 11. La obtención de información a través de encuestas)"
+        },
+        {
+            "question": "¿Qué medida de tendencia central se calcula sumando todos los valores y dividiendo por el número de valores?",
+            "options": [
+                "Moda.",
+                "Mediana.",
+                "Desviación estándar.",
+                "Media."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La media se calcula sumando todos los valores y dividiendo el resultado entre el número de valores del conjunto. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+        },
+        {
+            "question": "¿Qué representa la 'moda' en un conjunto de datos estadísticos?",
+            "options": [
+                "El valor que ocupa el lugar central.",
+                "El número que más veces aparece.",
+                "La diferencia entre el valor máximo y el mínimo.",
+                "El promedio de todos los datos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La moda es el número que más aparece en un conjunto de datos. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+        },
+        {
+            "question": "Los percentiles, cuartiles y deciles se clasifican como:",
+            "options": [
+                "Medidas de tendencia central.",
+                "Medidas de posición.",
+                "Medidas de dispersión.",
+                "Medidas de probabilidad."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los más usuales (percentiles, cuartiles, deciles) son medidas de posición. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+        },
+        {
+            "question": "¿Cuál es una de las medidas de dispersión mencionadas en el texto?",
+            "options": [
+                "El rango.",
+                "La media aritmética.",
+                "La moda.",
+                "El quintil."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Las medidas de dispersión más utilizadas son la varianza, la desviación estándar y el rango. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+        },
+        {
+            "question": "¿Qué tecnología se menciona que cambiará la forma en que los datos son obtenidos y compartidos al permitir validarlos a tiempo real?",
+            "options": [
+                "Big Data.",
+                "Inteligencia Artificial.",
+                "Blockchain.",
+                "Neuromarketing."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La tecnología blockchain se configura como una base de datos donde se puede validar información a tiempo real. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+        },
+        {
+            "question": "En el caso práctico de la empresa de logopedia, ¿quiénes son los 'prescriptores'?",
+            "options": [
+                "Los niños que reciben el tratamiento.",
+                "Los padres que pagan el servicio.",
+                "Profesionales como pediatras o escuelas que recomiendan el servicio.",
+                "Los portales online donde se compran los bonos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Los prescriptores pueden ser escuelas infantiles, pediatras o psicólogos que recomiendan el servicio. (Fuente: Página 17, Sección: 14. Resumen y resolución del caso práctico)"
+        },
+        {
+            "question": "En el mismo caso de logopedia, ¿por qué los padres se consideran 'clientes'?",
+            "options": [
+                "Porque son quienes padecen el problema de lenguaje.",
+                "Porque son quienes deciden, compran y pagan el servicio.",
+                "Porque son los intermediarios digitales.",
+                "Porque actúan como competencia directa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los clientes son los padres porque van a decidir acudir a los servicios, tomaran la decisión de compra y pagarán. (Fuente: Página 17, Sección: 14. Resumen y resolución del caso práctico)"
+        },
+        {
+            "question": "¿Cuál es el objetivo principal del estudio de mercado?",
+            "options": [
+                "Tomar decisiones sobre las estrategias comerciales.",
+                "Contratar al personal de ventas.",
+                "Diseñar el logotipo de la empresa.",
+                "Calcular los impuestos del ejercicio."
+            ],
+            "correctAnswer": 0,
+            "explanation": "El objetivo principal del estudio de mercado es tomar decisiones sobre las estrategias comerciales que se van a seguir. (Fuente: Página 5, Sección: 2. El estudio de mercado. Concepto y Objetivos)"
+        },
+        {
+            "question": "¿Qué se debe hacer primero en un estudio de mercado según el texto?",
+            "options": [
+                "Comprar el mobiliario de la oficina.",
+                "Analizar el target o público objetivo.",
+                "Contratar una agencia de publicidad externa.",
+                "Solicitar un préstamo bancario."
+            ],
+            "correctAnswer": 1,
+            "explanation": "En el estudio de mercado lo primero que debemos hacer es analizar nuestro target o público objetivo. (Fuente: Página 5, Sección: 2. El estudio de mercado. Concepto y Objetivos)"
+        },
+        {
+            "question": "En la Fase 2 de un estudio de mercado, ¿qué tarea se realiza?",
+            "options": [
+                "Ejecución de las tareas de campo.",
+                "Análisis de las fuentes de información y elección de las adecuadas.",
+                "Tabulación estadística de los datos.",
+                "Definición de la idea de negocio."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La Fase 2 incluye el análisis de las fuentes de información y la elección de las fuentes adecuadas. (Fuente: Página 7, Sección: 4. Etapas de un estudio de mercado)"
+        },
+        {
+            "question": "¿Qué caracteriza a una entrevista en profundidad?",
+            "options": [
+                "Es un cuestionario de preguntas cerradas para mil personas.",
+                "Es un diálogo entre dos personas (entrevistador y entrevistado).",
+                "Se basa en la observación sin contacto directo.",
+                "Es una técnica exclusivamente cuantitativa."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La entrevista en profundidad es un diálogo entre dos personas: entrevistador y entrevistado. (Fuente: Página 9, Sección: 7. Principales métodos de obtención de datos)"
+        }
+    ]
+}

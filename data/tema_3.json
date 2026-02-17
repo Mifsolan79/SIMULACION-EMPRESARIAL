@@ -1,0 +1,335 @@
+{
+    "title": "SIMULACIÓN EMPRESARIAL - TEMA 3: ANÁLISIS DEL ENTORNO Y DEL SECTOR",
+    "items": [
+        {
+            "question": "¿En qué tipo de planificación se determina la misión, la visión y los valores, así como las estrategias y políticas de la organización?",
+            "options": [
+                "Planificación estratégica",
+                "Planificación táctica",
+                "Planificación operativa",
+                "Planificación funcional"
+            ],
+            "correctAnswer": 0,
+            "explanation": "La planificación estratégica es el proceso donde se determina la misión, la visión y los valores, además de las estrategias y políticas. (Fuente: Página 5, Sección: 2. Análisis en el marco de la planificación estratégica)"
+        },
+        {
+            "question": "Según el texto, ¿en qué consiste la función administrativa de 'Organizar'?",
+            "options": [
+                "Determinar lo que se va a hacer y fijar logros.",
+                "Agrupar las actividades necesarias y establecer las relaciones del equipo.",
+                "Dar instrucciones precisas y marcar las acciones a seguir.",
+                "Obtener los recursos económicos y financieros necesarios."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Organizar consiste en agrupar las actividades que se van a necesitar para desarrollar los planes y establecer las relaciones del equipo. (Fuente: Página 5, Sección: 2. Análisis en el marco de la planificación estratégica)"
+        },
+        {
+            "question": "¿Qué factores forman parte del entorno general o macroentorno de una empresa?",
+            "options": [
+                "Clientes, proveedores y competencia.",
+                "Recursos humanos y financieros del balance.",
+                "Factores socioeconómicos, legales, políticos y demográficos.",
+                "Misión, visión y valores corporativos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El macroentorno incluye factores socioeconómicos, legales, políticos, demográficos, etc., que afectan a todas las empresas. (Fuente: Página 6, Sección: 3. Análisis externo: entorno general y específico)"
+        },
+        {
+            "question": "En el análisis del microentorno, ¿cuál es el objetivo primordial?",
+            "options": [
+                "Analizar la legislación nacional aplicable.",
+                "Estudiar el perfil de clientes, proveedores y competencia.",
+                "Evaluar la tasa de crecimiento y tipos de interés.",
+                "Medir los avances tecnológicos del sector productivo."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Con el análisis del microentorno se pretende conocer el entorno comercial: clientes, proveedores y competencia. (Fuente: Página 6, Sección: 3. Análisis externo: entorno general y específico)"
+        },
+        {
+            "question": "¿Qué significan las siglas del análisis PEST?",
+            "options": [
+                "Producción, Economía, Sociedad, Trabajo.",
+                "Políticos, Económicos, Sociales, Tecnológicos.",
+                "Políticas, Empleo, Seguridad, Transparencia.",
+                "Planificación, Estrategia, Segmentación, Técnica."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El análisis PEST contempla cuatro factores externos: políticos, económicos, sociales y tecnológicos. (Fuente: Página 7, Sección: 4. Análisis del entorno PEST)"
+        },
+        {
+            "question": "Dentro del análisis PEST, ¿qué factor incluye el estudio de la distribución por sexo y edad, estilos de vida y educación?",
+            "options": [
+                "Económicos",
+                "Políticos",
+                "Sociales",
+                "Tecnológicos"
+            ],
+            "correctAnswer": 2,
+            "explanation": "En los factores sociales se estudian la distribución por sexo y edad, los nuevos estilos de vida, la salud y la educación. (Fuente: Página 7, Sección: 4. Análisis del entorno PEST)"
+        },
+        {
+            "question": "¿Cuál es el primer paso indicado para realizar un análisis PEST?",
+            "options": [
+                "Identificar las amenazas.",
+                "Entender los factores PEST.",
+                "Tomar las medidas adecuadas.",
+                "Identificar las oportunidades."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El primer paso para hacer un análisis PEST es entender los factores (políticos, económicos, sociales y tecnológicos). (Fuente: Página 7, Sección: 4. Análisis del entorno PEST)"
+        },
+        {
+            "question": "¿Cómo se define el concepto de 'segmentación del mercado' según el caso práctico del bar de copas?",
+            "options": [
+                "La identificación de los posibles clientes o clientes potenciales.",
+                "La localización física del establecimiento comercial.",
+                "El análisis de la competencia directa en la zona.",
+                "El cálculo de los beneficios esperados por cliente."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La identificación de los posibles clientes es lo que se denomina segmentación del mercado. (Fuente: Página 8, Sección: 5. Caso práctico 1: “Análisis de la clientela de un bar de copas”)"
+        },
+        {
+            "question": "¿Qué tipo de recursos son la maquinaria, el mobiliario y las herramientas en una empresa?",
+            "options": [
+                "Recursos intangibles.",
+                "Recursos humanos.",
+                "Recursos de apoyo.",
+                "Recursos tangibles."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Los recursos tangibles son los activos con los que se cuentan, como maquinaria, mobiliario y herramientas. (Fuente: Página 9, Sección: 6. Análisis interno. La cadena de valor)"
+        },
+        {
+            "question": "A diferencia de los recursos tangibles, los intangibles se caracterizan por:",
+            "options": [
+                "No tener soporte físico y poder ganar valor con el tiempo.",
+                "Aparecer detallados en el balance inicial contable.",
+                "Sufrir un desgaste constante por el uso diario.",
+                "Ser fácilmente medibles y cuantificables económicamente."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Los recursos intangibles no tienen soporte físico y pueden ir ganando valor y calidad al no desgastarse por el uso. (Fuente: Página 9, Sección: 6. Análisis interno. La cadena de valor)"
+        },
+        {
+            "question": "En la cadena de valor de Porter, ¿qué son las actividades primarias?",
+            "options": [
+                "Las que sirven de soporte a la infraestructura de la empresa.",
+                "Las que proporcionan valor de forma directa al cliente.",
+                "Las relacionadas exclusivamente con la gestión de recursos humanos.",
+                "Las que se encargan del aprovisionamiento y tecnología."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las actividades primarias son las que proporcionan valor de forma directa al cliente. (Fuente: Página 9, Sección: 6. Análisis interno. La cadena de valor)"
+        },
+        {
+            "question": "¿Qué eje de la matriz DAFO se refiere a factores internos que afectan negativamente a la capacidad de crecimiento?",
+            "options": [
+                "Amenazas",
+                "Oportunidades",
+                "Fortalezas",
+                "Debilidades"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Las debilidades son puntos débiles que pertenecen al ámbito interno y afectan a la capacidad de crecimiento. (Fuente: Página 10, Sección: 7. Análisis DAFO)"
+        },
+        {
+            "question": "La combinación de debilidades internas con oportunidades externas da lugar a estrategias de tipo:",
+            "options": [
+                "Defensivas",
+                "Adaptativas",
+                "Ofensivas",
+                "Supervivencia"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las estrategias adaptativas resultan de combinar oportunidades con debilidades. (Fuente: Página 10, Sección: 7. Análisis DAFO)"
+        },
+        {
+            "question": "Si una empresa combina sus fortalezas internas con oportunidades externas futuras, está aplicando una estrategia:",
+            "options": [
+                "Ofensiva",
+                "De supervivencia",
+                "Defensiva",
+                "Táctica"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Las estrategias ofensivas combinan fortalezas internas presentes con oportunidades externas futuras. (Fuente: Página 10, Sección: 7. Análisis DAFO)"
+        },
+        {
+            "question": "¿Qué porcentaje del tejido empresarial de la Unión Europea representan las Pymes?",
+            "options": [
+                "50 %",
+                "75 %",
+                "99 %",
+                "66 %"
+            ],
+            "correctAnswer": 2,
+            "explanation": "En la Unión Europea las Pymes y microempresas suman el 99 % del total del tejido empresarial. (Fuente: Página 11, Sección: 8. La influencia de la Unión Europea)"
+        },
+        {
+            "question": "¿Cuál de los siguientes es uno de los tres ejes de la estrategia de la UE para facilitar el crecimiento de las Pymes?",
+            "options": [
+                "Aumento de aranceles exteriores.",
+                "Transición sostenible y digital.",
+                "Fomento del empleo público masivo.",
+                "Limitación de la competencia emergente."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La estrategia de la UE se basa en tres ejes, siendo uno de ellos la transición sostenible y digital. (Fuente: Página 11, Sección: 8. La influencia de la Unión Europea)"
+        },
+        {
+            "question": "¿Qué programa de la UE permite a nuevos emprendedores aprender de empresarios con experiencia en otro país?",
+            "options": [
+                "Horizonte 2030",
+                "Erasmus para Jóvenes Emprendedores",
+                "Plan Pyme Digital",
+                "Euro-Emprende"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El programa Erasmus para Jóvenes Emprendedores ofrece la posibilidad de trabajar y aprender de un empresario con experiencia en otro país de la UE. (Fuente: Página 11, Sección: 8. La influencia de la Unión Europea)"
+        },
+        {
+            "question": "¿Cómo se define la 'visión' de una empresa?",
+            "options": [
+                "Es el conjunto de principios éticos y creencias.",
+                "Comunica qué es lo que hace la empresa en la actualidad.",
+                "Marca las metas que se quieren alcanzar en un futuro.",
+                "Define la política de precios y costes actuales."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La visión marcará las metas que se quieren alcanzar en un futuro y definirá la ruta a seguir. (Fuente: Página 12, Sección: 9. Objetivos empresariales. Misión, visión y valores)"
+        },
+        {
+            "question": "En el marco de los elementos de la empresa, ¿quiénes son los encargados de la toma de decisiones?",
+            "options": [
+                "Los trabajadores.",
+                "Los proveedores.",
+                "Los clientes.",
+                "Los directivos."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Los directivos ocupan los puestos encargados de la toma de decisiones. (Fuente: Página 13, Sección: 11. Elementos que caracterizan sector empresarial y la actividad empresarial)"
+        },
+        {
+            "question": "Dentro de los elementos materiales, ¿qué constituye el 'Capital corriente'?",
+            "options": [
+                "Los locales, instalaciones y maquinaria.",
+                "Elementos en continuo movimiento como materias primas y dinero en caja.",
+                "La organización y la cultura empresarial.",
+                "El prestigio y la marca de la compañía."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El capital corriente son los elementos cambiantes que están en continuo movimiento: materias primas, dinero en caja, etc. (Fuente: Página 13, Sección: 11. Elementos que caracterizan sector empresarial y la actividad empresarial)"
+        },
+        {
+            "question": "¿Qué elemento inmaterial define el comportamiento de las personas mediante valores y creencias comunes?",
+            "options": [
+                "La cultura.",
+                "La imagen.",
+                "La marca.",
+                "El organigrama."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La cultura es el conjunto de valores y creencias de una empresa que definirán el comportamiento de las personas que la conforman. (Fuente: Página 13, Sección: 11. Elementos que caracterizan sector empresarial y la actividad empresarial)"
+        },
+        {
+            "question": "Según su finalidad, ¿cómo se clasifican los productos industriales?",
+            "options": [
+                "Bienes duraderos y fungibles.",
+                "Bienes tangibles e intangibles.",
+                "Materias primas, componentes y equipo de producción.",
+                "Servicios públicos y privados."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Los productos industriales se clasifican en materias primas, componentes y equipo de producción. (Fuente: Página 14, Sección: 12. Características del producto/servicio)"
+        },
+        {
+            "question": "¿Qué característica de los servicios indica que no pueden ser almacenados para su venta posterior?",
+            "options": [
+                "Intangibilidad",
+                "Caducidad",
+                "Variabilidad",
+                "Inseparabilidad"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La caducidad significa que los servicios no pueden ser almacenados para su utilización o venta. (Fuente: Página 14, Sección: 12. Características del producto/servicio)"
+        },
+        {
+            "question": "La estrategia competitiva de Porter que consiste en producir de forma más eficiente y a menor coste que la competencia se denomina:",
+            "options": [
+                "Diferenciación de productos.",
+                "Ámbito competitivo.",
+                "Liderazgo de costes.",
+                "Enfoque de mercado."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La estrategia de liderazgo de costes consiste en producir a menor coste que la competencia y más eficientemente. (Fuente: Página 14, Sección: 12. Características del producto/servicio)"
+        },
+        {
+            "question": "¿Qué documento de la Comisión Europea impulsó inicialmente las políticas de RSE en 2001?",
+            "options": [
+                "Libro Blanco de la Industria.",
+                "Tratado de Funcionamiento de la UE.",
+                "Directiva de Responsabilidad Civil.",
+                "Libro Verde."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La publicación del Libro Verde de la Comisión Europea en 2001 constituyó un primer impulso a las políticas de RSE. (Fuente: Página 15, Sección: 13. La responsabilidad social corporativa)"
+        },
+        {
+            "question": "Adoptar medidas de reducción de emisiones de CO2 forma parte de la:",
+            "options": [
+                "Responsabilidad con el mercado.",
+                "Responsabilidad medioambiental.",
+                "Responsabilidad con las personas empleadas.",
+                "Responsabilidad política."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La responsabilidad medioambiental implica aplicar medidas que minimicen el impacto, como la reducción de emisiones de CO2. (Fuente: Página 15, Sección: 13. La responsabilidad social corporativa)"
+        },
+        {
+            "question": "Fomentar el aprendizaje, el reciclaje y la conciliación familiar entre la plantilla se engloba en la responsabilidad:",
+            "options": [
+                "Respecto al mercado.",
+                "Respecto al entorno social.",
+                "Respecto a las personas empleadas.",
+                "De buen gobierno corporativo."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las empresas son responsables respecto a los empleados al tomar medidas de conciliación y fomentar el aprendizaje. (Fuente: Página 15, Sección: 13. La responsabilidad social corporativa)"
+        },
+        {
+            "question": "¿Qué objetivos promulgados por Naciones Unidas en 2015 deben considerar las empresas en sus estrategias de RSC?",
+            "options": [
+                "Objetivos de Crecimiento Rápido.",
+                "Objetivos del Milenio.",
+                "Objetivos de Desarrollo Sostenible (ODS).",
+                "Normas ISO 9001."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Los objetivos de la agenda 2030 (Objetivos del Desarrollo Sostenible) son una oportunidad para las empresas y sus estrategias de RSC. (Fuente: Página 15, Sección: 13. La responsabilidad social corporativa)"
+        },
+        {
+            "question": "Según el resumen del tema, ¿qué herramientas son muy útiles para realizar el estudio del entorno?",
+            "options": [
+                "Balance y Cuenta de Resultados.",
+                "Análisis DAFO y PEST.",
+                "Organigrama y Diagrama de Flujo.",
+                "Encuestas de satisfacción y Rapports."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El análisis DAFO y el PEST son dos herramientas muy útiles para encarar el estudio del entorno. (Fuente: Página 16, Sección: 14. Resumen y resolución del caso práctico de la unidad)"
+        },
+        {
+            "question": "En la resolución del caso práctico final, ¿cuál de los siguientes es un 'Valor' de la gestoría?",
+            "options": [
+                "Ser un referente en la ciudad.",
+                "Ayudar a los clientes a gestionar con éxito.",
+                "Compromiso y gestión ética.",
+                "Ofrecer servicios de alta tecnología."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Entre los valores definidos para la gestoría se encuentran el compromiso, gestión ética, calidad y confianza. (Fuente: Página 16, Sección: 14. Resumen y resolución del caso práctico de la unidad)"
+        }
+    ]
+}

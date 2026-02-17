@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SIMULACION EMPRESARIAL - TEMA 4 · Examen Online</title>
+  <style>:root{--bg:#1a3b2a;--panel:rgba(20,40,30,.88);--text:#d1f5e5;--muted:#b1d3c3;--cyan:#aed581;--magenta:#9ccc65;--violet:#8bc34a;--blue:#7cb342;--amber:#dce775;--orange:#ffee58;--green:#c5e1a5;--red:#ef9a9a;--shadow:0 0 15px rgba(174,213,129,.3),0 0 25px rgba(139,195,74,.4);} body{background: repeating-linear-gradient( -45deg, #2a4b3a, #2a4b3a 5px, transparent 5px, transparent 25px ); background-attachment:fixed;}
+    html{scrollbar-width:none;scroll-behavior:smooth}
+    body::-webkit-scrollbar{display:none}
+    body{margin:0;padding:12px;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;min-height:100vh;display:flex;flex-direction:column;gap:18px;overflow-x:hidden}
+    aside#dashboard{order:2;background:var(--panel);border:1px solid rgba(255,255,255,.2);border-radius:14px;box-shadow:var(--shadow);backdrop-filter:blur(6px);padding:16px;display:flex;flex-direction:column;gap:14px}
+    aside#dashboard{scrollbar-width:thin;scrollbar-color:var(--cyan) rgba(10,8,30,.6)}aside#dashboard::-webkit-scrollbar{width:8px}aside#dashboard::-webkit-scrollbar-track{background:rgba(10,8,30,.6);border-radius:10px}aside#dashboard::-webkit-scrollbar-thumb{background-color:var(--cyan);border-radius:10px;border:2px solid transparent;background-clip:content-box}aside#dashboard::-webkit-scrollbar-thumb:hover{background-color:var(--violet)}
+    .card{border:1px solid rgba(255,255,255,.12);border-radius:12px;padding:12px;background:rgba(10,8,30,.6)}
+    .row{display:flex;gap:10px;align-items:center;justify-content:space-between}
+    .muted{color:var(--muted);font-size:.9rem}
+    .ring{width:120px;height:120px;margin:4px auto;position:relative}
+    .ring svg{transform:rotate(-90deg);width:120px;height:120px;display:block}
+    .ring .label{position:absolute;inset:0;display:grid;place-items:center;font-weight:800}
+    .stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    .badge{border-radius:8px;padding:8px 10px;text-align:center;font-weight:800}
+    .ok{color:var(--green);border:1px solid rgba(0,255,127,.5);text-shadow:0 0 6px rgba(0,255,127,.6)}
+    .ko{color:var(--red);border:1px solid rgba(255,69,0,.5);text-shadow:0 0 6px rgba(255,69,0,.6)}
+    .sk{color:var(--amber);border:1px solid rgba(255,215,0,.5);text-shadow:0 0 6px rgba(255,215,0,.6)}
+    .sc{color:var(--cyan);border:1px solid rgba(0,255,255,.5);text-shadow:0 0 6px rgba(0,255,255,.6)}
+    .controls{display:none !important} .settings{display:none!important}
+    button{padding:10px 14px;font-size:.98rem;font-weight:800;border:none;border-radius:10px;color:#fff;cursor:pointer;transition:transform .15s,box-shadow .2s;text-shadow:0 0 5px rgba(255,255,255,.7);background:linear-gradient(145deg,#4a00e0,#8e2de2);box-shadow:0 4px 0 rgba(30,0,60,.8),0 6px 15px rgba(0,0,0,.4)}
+    button:hover{transform:translateY(-2px);box-shadow:0 4px 0 rgba(30,0,60,.8),0 6px 20px rgba(0,0,0,.5),0 0 15px var(--magenta),0 0 25px var(--magenta)}
+    .btn-blue{background:linear-gradient(145deg,#00bfff,#1e90ff)}.btn-amber{background:linear-gradient(145deg,#ff8c00,#ffa500)}.btn-red{background:linear-gradient(145deg,#ff4b2b,#ff416c)}
+    main{order:1;display:flex;justify-content:center;align-items:flex-start}
+    #quiz-container{background:var(--panel);padding:18px 14px;border-radius:15px;box-shadow:var(--shadow);border:1px solid rgba(255,255,255,.3);width:100%;backdrop-filter:blur(6px);box-sizing:border-box}
+    h1{text-align:center;color:#fff;margin:0 0 8px;font-weight:900;letter-spacing:.4px;text-shadow:0 0 8px var(--primary-shadow,.7),0 0 12px var(--primary-shadow,.5);font-size:1.5rem;}
+    #live-stats-container{display:flex;flex-wrap:wrap;justify-content:space-around;gap:8px;border:1px solid rgba(255,255,255,.15);border-radius:8px;background:rgba(10,8,30,.7);padding:8px;margin-bottom:16px;font-size:.9rem}
+    #question-counter{font-size:.95rem;color:var(--cyan);text-align:right;margin:6px 0 10px;text-shadow:0 0 5px rgba(0,255,255,.5)}
+    #question-text{font-size:1.1rem;font-weight:800;margin-bottom:12px;color:#f5f5f5;text-shadow:1px 1px 2px rgba(0,0,0,.5)}
+    #options-container{display:grid;gap:10px;margin-bottom:10px}
+    .option{display:flex;align-items:center;gap:10px;padding:12px 14px;border:1px solid rgba(75,0,130,.7);border-radius:10px;cursor:pointer;background:rgba(48,43,99,.6);transition:.2s; position: relative;}
+    .option:hover{background:rgba(75,0,130,.7);border-color:var(--cyan);box-shadow:0 0 8px rgba(0,255,255,.4)}
+    .option input[type=radio]{accent-color:var(--cyan);transform:scale(1.2)}
+    
+    /* FEEDBACK STYLES */
+    .option.revealed-correct {
+        border: 2px solid var(--green) !important;
+        background: rgba(0, 255, 127, 0.15) !important;
+        box-shadow: 0 0 10px rgba(0, 255, 127, 0.3) !important;
+    }
+    .option.revealed-correct::after {
+        content: "✅ Correcta";
+        position: absolute;
+        right: 12px;
+        color: var(--green);
+        font-weight: 800;
+        font-size: 0.9rem;
+    }
+    .option.revealed-wrong {
+        border: 2px solid var(--red) !important;
+        background: rgba(255, 69, 0, 0.15) !important;
+    }
+    .option.revealed-wrong::after {
+        content: "❌ Tu respuesta";
+        position: absolute;
+        right: 12px;
+        color: var(--red);
+        font-weight: 800;
+        font-size: 0.9rem;
+    }
+
+    #timer-bar{height:6px;border-radius:6px;background:rgba(255,255,255,.15);overflow:hidden;margin:6px 0 0}
+    #timer-fill{height:100%;width:100%;background:linear-gradient(90deg,var(--cyan),var(--green));box-shadow:0 0 10px rgba(0,255,255,.6)}
+    #feedback-container{margin-top:10px;padding:14px;border-radius:10px;font-weight:800;border:2px solid transparent;box-shadow:0 0 10px rgba(255,255,255,.15)}
+    .feedback-correct{background:rgba(0,255,127,.12);border-color:var(--green);color:var(--green)}
+    .feedback-incorrect{background:rgba(255,69,0,.12);border-color:var(--red);color:var(--red)}
+    .feedback-skipped{background:rgba(255,215,0,.12);border-color:var(--amber);color:var(--amber)}
+    .feedback-explanation{font-weight:600;margin-top:10px;font-size:.95rem;color:#f0f0f0;text-shadow:none}
+    .feedback-fundamento{display:block;margin-top:6px}
+    #navigation-buttons{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:14px}
+    .hidden{display:none!important}
+    .option.disabled{cursor:default;background:rgba(60,60,60,.6)!important;color:#aaa!important;border-color:#555!important;box-shadow:none!important}
+    #score-container{text-align:center;font-size:1.05rem;margin-top:10px;padding:18px;background:rgba(15,12,41,.9);border-radius:14px;border:1px solid var(--violet);box-shadow:0 0 15px rgba(142,45,226,.35)}
+    
+    /* BREAKDOWN STYLES */
+    #score-breakdown{margin-top:20px;text-align:left;font-size:.95rem;max-height:60vh;overflow-y:auto;border:1px solid rgba(255,255,255,.12);border-radius:8px;padding:12px;background:rgba(0,0,0,0.25);}
+    .review-item { margin-bottom: 16px; padding: 14px; border: 1px solid rgba(255,255,255,0.1); background: rgba(30,30,40,0.4); border-radius: 10px; }
+    .review-item.is-wrong { border-left: 4px solid var(--red); }
+    .review-item.is-skipped { border-left: 4px solid var(--amber); }
+    .review-q { font-weight: 800; margin-bottom: 8px; color: #fff; line-height: 1.4; }
+    .review-row { display: flex; flex-direction: column; gap: 4px; font-size: 0.95rem; }
+    .review-my-ans { color: var(--red); }
+    .review-my-ans.skipped { color: var(--amber); }
+    .review-correct-ans { color: var(--green); font-weight: 700; }
+    .review-exp { margin-top: 10px; font-size: 0.9rem; color: #d1d5db; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 8px; line-height: 1.5; font-style: italic; }
+
+    .navigator{display:grid;grid-template-columns:repeat(auto-fill,minmax(36px,1fr));gap:6px;margin:8px 0 12px}
+    .pill{font-size:.9rem;padding:6px;border-radius:8px;text-align:center;border:1px solid rgba(255,255,255,.12);background:rgba(20,16,48,.6);color:var(--muted)}
+    .pill.ok{color:var(--green);border-color:rgba(0,255,127,.4)}.pill.ko{color:var(--red);border-color:rgba(255,69,0,.4)}.pill.sk{color:var(--amber);border-color:rgba(255,215,0,.4)}.pill.cur{outline:2px solid var(--cyan);color:#fff}
+    .toast{position:fixed;bottom:16px;right:16px;background:rgba(20,16,48,.95);color:var(--text);border:1px solid rgba(0,255,255,.35);border-radius:10px;padding:10px 12px;box-shadow:var(--shadow);z-index:99}
+    #final-overlay{position:fixed;inset:0;background:radial-gradient(1200px 600px at 50% 10%,rgba(0,255,255,.25),transparent 60%),radial-gradient(1200px 600px at 50% 90%,rgba(193,53,132,.25),transparent 60%),rgba(8,6,24,.96);display:grid;place-items:center;z-index:200;padding:12px}
+    #final-card{border:1px solid rgba(0,255,255,.5);border-radius:18px;padding:24px 16px;background:rgba(15,12,41,.88);box-shadow:0 0 30px rgba(0,255,255,.2),0 0 45px rgba(193,53,132,.18);text-align:center;max-width:720px;width:min(92%,720px)}
+    #final-title{font-size:1.8rem;font-weight:900;letter-spacing:.4px;text-shadow:0 0 12px rgba(0,255,255,.7)}
+    #final-score-big{font-size:3.5rem;font-weight:900;margin:6px 0 12px}
+    #final-msg{color:var(--muted);margin-bottom:14px}
+    #final-actions{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
+    .grade-green{color:var(--green);text-shadow:0 0 18px rgba(0,255,127,.6)}.grade-cyan{color:var(--cyan);text-shadow:0 0 18px rgba(0,255,255,.6)}.grade-amber{color:var(--amber);text-shadow:0 0 18px rgba(255,215,0,.6)}.grade-red{color:var(--red);text-shadow:0 0 18px rgba(255,69,0,.6)}
+    .confetti{position:fixed;top:-10px;width:8px;height:14px;opacity:.9;transform:rotate(15deg);z-index:201}
+    @keyframes fallConfetti{to{transform:translateY(110vh) rotate(360deg)}}
+    
+    @media (min-width:980px){
+        body{padding:18px;height:100vh;overflow:hidden;display:grid;grid-template-columns:320px 1fr}
+        aside#dashboard{order:initial;overflow-y:auto}
+        main{order:initial}
+        #quiz-container{padding:22px 18px}
+        h1{font-size:1.7rem}
+        #question-text{font-size:1.2rem}
+        #final-card{padding:28px 24px}
+        #final-title{font-size:2.2rem}
+        #final-score-big{font-size:4rem}
+    }
+    
+    @media print{body{background:none;display:block;padding:0}aside#dashboard{display:none}#quiz-container{box-shadow:none;border:0}#final-overlay{display:none!important}}
+  </style>
+</head>
+<body>
+  <aside id="dashboard" aria-label="Panel de control del examen">
+    <div class="card">
+      <div class="ring" aria-hidden="true">
+        <svg viewBox="0 0 120 120">
+          <circle cx="60" cy="60" r="52" fill="none" stroke="rgba(255,255,255,.1)" stroke-width="10"></circle>
+          <circle id="ring-progress" cx="60" cy="60" r="52" fill="none" stroke="var(--cyan)" stroke-width="10" stroke-linecap="round" stroke-dasharray="327" stroke-dashoffset="327" style="filter:drop-shadow(0 0 6px rgba(0,255,255,.8))"></circle>
+        </svg>
+        <div class="label"><span id="ring-label">0%</span></div>
+      </div>
+      <div class="row"><span class="muted">Pregunta</span><strong id="ring-step">1 / 0</strong></div>
+      <div class="row"><span class="muted">Precisión</span><strong id="ring-acc">0%</strong></div>
+      <div class="row"><span class="muted">Penalización T</span><strong id="ring-T">3</strong></div>
+      <div class="row"><span class="muted">Tiempo</span><strong id="ring-time">—</strong></div>
+    </div>
+    <div class="card">
+      <div class="stat-grid">
+        <div class="badge ok">Aciertos <span id="s-ok">0</span></div>
+        <div class="badge ko">Fallos <span id="s-ko">0</span></div>
+        <div class="badge sk">Omitidas <span id="s-sk">0</span></div>
+        <div class="badge sc">Puntuación <span id="s-sc">0.00</span>/10</div>
+      </div>
+    </div>
+    <div class="card">
+      <div id="mini-nav" class="navigator" aria-label="Estado de preguntas"></div>
+    </div>
+  </aside>
+
+  <main>
+    <section id="quiz-container" role="region" aria-label="Examen">
+      <h1>SIMULACION EMPRESARIAL - TEMA 4</h1>
+      <div id="live-stats-container" aria-live="polite">
+        <span class="stat-item">Aciertos: <strong id="live-correct" class="stat-correct">0</strong></span>
+        <span class="stat-item">Fallos: <strong id="live-incorrect" class="stat-incorrect">0</strong></span>
+        <span class="stat-item">Omitidas: <strong id="live-skipped" class="stat-skipped">0</strong></span>
+        <span class="stat-item">Puntuación: <strong id="live-score" class="stat-score">0.00</strong></span>
+      </div>
+      
+      <!-- Exam Elements -->
+      <div id="question-counter"></div>
+      <div id="question-text"></div>
+      <div id="options-container" role="radiogroup" aria-label="Opciones de respuesta"></div>
+      <div id="timer-bar" class="hidden"><div id="timer-fill"></div></div>
+      <div id="feedback-container" class="hidden" aria-live="polite"></div>
+      <div id="navigation-buttons">
+        <button id="submit-btn">Responder</button>
+        <button id="skip-btn" class="btn-amber">Pasar Pregunta</button>
+        <button id="next-btn" class="hidden btn-blue">Siguiente Pregunta</button>
+        <button id="restart-btn" class="hidden btn-blue">Reiniciar Examen</button>
+      </div>
+
+      <!-- Score Elements (Hidden by default) -->
+      <div id="score-container" class="hidden" aria-live="polite">
+        <h2>¡Examen finalizado!</h2>
+        <div style="display:flex; justify-content:center; gap:16px; margin:16px 0;">
+            <p>Aciertos: <strong id="counts-correct" style="color:var(--green)">0</strong></p>
+            <p>Fallos: <strong id="counts-incorrect" style="color:var(--red)">0</strong></p>
+            <p>Omitidas: <strong id="counts-skipped" style="color:var(--amber)">0</strong></p>
+        </div>
+        <p>Tu puntuación final es: <strong id="final-score" style="font-size:1.4em;">0.00</strong> / 10</p>
+        
+        <h3 style="margin-top:24px; color:var(--cyan); border-bottom:1px solid rgba(255,255,255,0.1); padding-bottom:8px;">Repaso de Errores</h3>
+        <div id="score-breakdown"></div>
+        
+        <div style="margin-top:20px; display:flex; gap:12px; justify-content:center; flex-wrap:wrap">
+          <button id="restart-btn-2">Reiniciar Examen</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="final-overlay" class="hidden" role="dialog" aria-modal="true">
+    <div id="final-card">
+      <div id="final-title">Resultado del examen</div>
+      <div id="final-score-big" class="grade-cyan">0.00</div>
+      <div id="final-msg"></div>
+      <div id="final-actions">
+        <button id="ovl-restart" class="btn-red">Reiniciar</button>
+        <button id="ovl-close">Cerrar</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast hidden" role="status"></div>
+
+<script type="application/json" id="quiz-data">{
+  "title": "SIMULACION EMPRESARIAL - TEMA 4",
+  "items": [
+    {
+      "question": "¿Cómo se define el estudio de mercado según el texto?",
+      "options": [
+        "El proceso de búsqueda, análisis e interpretación de información que afecta al mercado.",
+        "La evaluación exclusiva de la competencia directa en un entorno local.",
+        "Un informe contable sobre la viabilidad de la empresa a largo plazo.",
+        "La creación de una base de datos de proveedores nacionales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estudio de mercado se define como el proceso de búsqueda de información, análisis de los datos recogidos e interpretación de información que afecta al mercado. (Fuente: Página 5, Sección: 2. El estudio de mercado. Concepto y Objetivos)"
+    },
+    {
+      "question": "Dentro de la información de un estudio de mercado, ¿qué representa un indicador cuantitativo?",
+      "options": [
+        "La diferenciación del producto.",
+        "La estimación de cuántos clientes vamos a tener y las ventas.",
+        "La definición del público objetivo.",
+        "La imagen y posicionamiento de la empresa."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los indicadores cuantitativos incluyen la estimación de cuántos clientes se tendrán, las ventas e ingresos previstos. (Fuente: Página 6, Sección: 3. Necesidad y utilidad del análisis de mercado)"
+    },
+    {
+      "question": "¿Qué elemento cualitativo define las razones por las que los clientes elegirán nuestro producto frente a la competencia?",
+      "options": [
+        "Márgenes comerciales.",
+        "Segmentación demográfica.",
+        "Diferenciación de mi producto.",
+        "Estructura de costes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La diferenciación consiste en definir el valor añadido y las razones por las que los clientes elegirán nuestros productos. (Fuente: Página 6, Sección: 3. Necesidad y utilidad del análisis de mercado)"
+    },
+    {
+      "question": "En las etapas de un estudio de mercado, ¿en qué fase se realiza el análisis de los clientes y la definición de la idea de negocio?",
+      "options": [
+        "Fase 2: Búsqueda de información.",
+        "Fase 3: Aplicación de técnicas de investigación.",
+        "Fase 4: Interpretación de resultados.",
+        "Fase 1: Análisis de la información que necesitamos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Fase 1 incluye la definición de la idea de negocio, del mercado, análisis de clientes y de la competencia. (Fuente: Página 7, Sección: 4. Etapas de un estudio de mercado)"
+    },
+    {
+      "question": "¿Cuál es la principal característica de la información primaria?",
+      "options": [
+        "Es información ya elaborada por la administración pública.",
+        "Es información de elaboración propia obtenida directamente del mercado.",
+        "Se obtiene exclusivamente a través de libros y revistas especializadas.",
+        "Es siempre gratuita y rápida de obtener."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La información primaria es de elaboración propia, obtenida directamente del mercado. (Fuente: Página 8, Sección: 5. La fuente de Información: concepto y clases)"
+    },
+    {
+      "question": "¿Cuál de los siguientes organismos es citado como una fuente de información secundaria?",
+      "options": [
+        "Un grupo de discusión propio.",
+        "Un cuestionario online de la empresa.",
+        "El Instituto Nacional de Estadística (INE).",
+        "La observación directa de clientes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "El INE es una de las fuentes de información secundaria mencionadas, al ser un organismo que publica estadísticas. (Fuente: Página 8, Sección: 5. La fuente de Información: concepto y clases)"
+    },
+    {
+      "question": "Comparando fuentes primarias y secundarias, ¿qué ventaja presentan las secundarias?",
+      "options": [
+        "Tienen un coste alto pero son muy precisas.",
+        "Su dificultad es muy compleja.",
+        "Requieren un tiempo de obtención largo.",
+        "Su coste es bajo y su obtención es rápida y fácil."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según la Tabla 1, las fuentes secundarias tienen un coste bajo y su obtención es rápida y fácil. (Fuente: Página 8, Sección: 5. La fuente de Información: concepto y clases)"
+    },
+    {
+      "question": "¿Qué técnica cuantitativa de obtención de datos primarios es la más utilizada?",
+      "options": [
+        "La encuesta.",
+        "La entrevista en profundidad.",
+        "El grupo de discusión.",
+        "La observación directa."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La encuesta es la técnica más utilizada y recoge opiniones de clientes o potenciales clientes. (Fuente: Página 9, Sección: 7. Principales métodos de obtención de datos)"
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de las técnicas cualitativas?",
+      "options": [
+        "Obtener datos numéricos para análisis estadísticos.",
+        "Suministrar márgenes comerciales exactos.",
+        "Obtener información sobre motivaciones, comportamientos y actitudes.",
+        "Calcular la cuota de mercado mediante fórmulas matemáticas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las técnicas cualitativas pretenden obtener información sobre las motivaciones, comportamiento y actitudes de los consumidores. (Fuente: Página 9, Sección: 6. Obtención de datos de fuentes primarias)"
+    },
+    {
+      "question": "En un grupo de discusión o focus group, ¿cuál es el número normal de participantes?",
+      "options": [
+        "De 2 a 4 personas.",
+        "De 6 a 8 personas.",
+        "Más de 20 personas.",
+        "Exactamente 100 personas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un panel o grupo de discusión trata de reunir a una muestra normalmente de 6 a 8 personas. (Fuente: Página 10, Sección: 7. Principales métodos de obtención de datos)"
+    },
+    {
+      "question": "¿Qué técnica consiste en hacerse pasar por cliente para evaluar el proceso de compra?",
+      "options": [
+        "Panel de detallistas.",
+        "Cliente misterioso.",
+        "Entrevista en profundidad.",
+        "Experimento de laboratorio."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cliente misterioso consiste en hacerse pasar por cliente con el fin de evaluar el proceso de compra. (Fuente: Página 9, Sección: 7. Principales métodos de obtención de datos)"
+    },
+    {
+      "question": "¿En qué consiste la técnica de 'la observación personal'?",
+      "options": [
+        "En un diálogo estructurado entre entrevistador y entrevistado.",
+        "En someter a un grupo a probar un producto.",
+        "En obtener información precisa sobre personas sin que estas sean advertidas.",
+        "En recopilar datos contables internos de la propia empresa."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se define como aquella a través de la que un individuo obtiene información sobre personas y situaciones sin que estas sean advertidas. (Fuente: Página 10, Sección: 7. Principales métodos de obtención de datos)"
+    },
+    {
+      "question": "¿Qué ventaja tiene la experimentación como técnica de investigación?",
+      "options": [
+        "Es la más barata de todas las técnicas primarias.",
+        "Permite recoger opiniones tras someter a clientes a probar un producto.",
+        "No requiere la participación de personas reales.",
+        "Se basa exclusivamente en datos del Registro Mercantil."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La experimentación trata de someter a un grupo de posibles clientes a probar un determinado producto y recoger sus opiniones. (Fuente: Página 10, Sección: 7. Principales métodos de obtención de datos)"
+    },
+    {
+      "question": "¿Cuál es una fuente de información secundaria interna?",
+      "options": [
+        "El censo de organismos públicos.",
+        "Facturas de venta e informes de vendedores.",
+        "Revistas especializadas del sector.",
+        "Bases de datos de sindicatos y universidades."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ejemplos de información secundaria interna son las facturas de venta, informes de vendedores y estudios de mercado previos. (Fuente: Página 11, Sección: 9. Obtención de datos de fuentes secundarias)"
+    },
+    {
+      "question": "Los paneles de detallistas se caracterizan por ser muestras permanentes de:",
+      "options": [
+        "Hogares que facilitan información de consumo.",
+        "Consumidores de televisión.",
+        "Expertos en logopedia infantil.",
+        "Puntos de ventas que permiten conocer cuotas de mercado e inventario."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los paneles de detallistas son muestras permanentes de puntos de ventas. (Fuente: Página 12, Sección: 9. Obtención de datos de fuentes secundarias)"
+    },
+    {
+      "question": "¿Qué herramienta se utiliza actualmente para estudiar a los clientes basándose en sus emociones?",
+      "options": [
+        "Fórmula de la media aritmética.",
+        "Mapa de empatía.",
+        "Censo del INE.",
+        "Registro Mercantil."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tendencia actual es estudiar a los clientes atendiendo a las emociones usando el mapa de empatía. (Fuente: Página 12, Sección: 10. Comportamiento del consumidor y segmentación del mercado)"
+    },
+    {
+      "question": "En el estudio de mercado, ¿cómo se define al 'mercado potencial'?",
+      "options": [
+        "Los consumidores que compran a la empresa en este momento.",
+        "Aquellos que ya compran productos similares, pero de la competencia.",
+        "El segmento exacto al que se dirige el producto.",
+        "Los proveedores que suministran la materia prima."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El mercado potencial son aquellos que ya compran o consumen productos similares, pero de la competencia. (Fuente: Página 13, Sección: 10. Comportamiento del consumidor y segmentación del mercado)"
+    },
+    {
+      "question": "¿Cuál es la fórmula para calcular la cuota de mercado?",
+      "options": [
+        "Cuota de mercado = (Mercado potencial / Mercado total) x 100",
+        "Cuota de mercado = (Ventas competencia / Ventas propias) x 100",
+        "Cuota de mercado = (Mercado actual / Mercado total) x 100",
+        "Cuota de mercado = (Precio venta / Coste total) x 100"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La fórmula indicada es Mercado actual dividido por Mercado total multiplicado por 100. (Fuente: Página 13, Sección: 10.1. Cuota de mercado)"
+    },
+    {
+      "question": "Dentro de los pasos para elaborar una encuesta, ¿qué es la 'tabulación'?",
+      "options": [
+        "Elegir si la encuesta será telefónica o presencial.",
+        "Resumir la información obtenida en tablas estadísticas.",
+        "Redactar el informe final con los resultados negativos.",
+        "Identificar el problema que se quiere investigar."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tabulación tiene como objetivo resumir la información obtenida en tablas estadísticas para que sea útil. (Fuente: Página 14, Sección: 11. La obtención de información a través de encuestas)"
+    },
+    {
+      "question": "¿Qué medida de tendencia central se calcula sumando todos los valores y dividiendo por el número de valores?",
+      "options": [
+        "Moda.",
+        "Mediana.",
+        "Desviación estándar.",
+        "Media."
+      ],
+      "correctAnswer": 3,
+      "explanation": "La media se calcula sumando todos los valores y dividiendo el resultado entre el número de valores del conjunto. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+    },
+    {
+      "question": "¿Qué representa la 'moda' en un conjunto de datos estadísticos?",
+      "options": [
+        "El valor que ocupa el lugar central.",
+        "El número que más veces aparece.",
+        "La diferencia entre el valor máximo y el mínimo.",
+        "El promedio de todos los datos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La moda es el número que más aparece en un conjunto de datos. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+    },
+    {
+      "question": "Los percentiles, cuartiles y deciles se clasifican como:",
+      "options": [
+        "Medidas de tendencia central.",
+        "Medidas de posición.",
+        "Medidas de dispersión.",
+        "Medidas de probabilidad."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los más usuales (percentiles, cuartiles, deciles) son medidas de posición. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+    },
+    {
+      "question": "¿Cuál es una de las medidas de dispersión mencionadas en el texto?",
+      "options": [
+        "El rango.",
+        "La media aritmética.",
+        "La moda.",
+        "El quintil."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las medidas de dispersión más utilizadas son la varianza, la desviación estándar y el rango. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+    },
+    {
+      "question": "¿Qué tecnología se menciona que cambiará la forma en que los datos son obtenidos y compartidos al permitir validarlos a tiempo real?",
+      "options": [
+        "Big Data.",
+        "Inteligencia Artificial.",
+        "Blockchain.",
+        "Neuromarketing."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La tecnología blockchain se configura como una base de datos donde se puede validar información a tiempo real. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
+    },
+    {
+      "question": "En el caso práctico de la empresa de logopedia, ¿quiénes son los 'prescriptores'?",
+      "options": [
+        "Los niños que reciben el tratamiento.",
+        "Los padres que pagan el servicio.",
+        "Profesionales como pediatras o escuelas que recomiendan el servicio.",
+        "Los portales online donde se compran los bonos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los prescriptores pueden ser escuelas infantiles, pediatras o psicólogos que recomiendan el servicio. (Fuente: Página 17, Sección: 14. Resumen y resolución del caso práctico)"
+    },
+    {
+      "question": "En el mismo caso de logopedia, ¿por qué los padres se consideran 'clientes'?",
+      "options": [
+        "Porque son quienes padecen el problema de lenguaje.",
+        "Porque son quienes deciden, compran y pagan el servicio.",
+        "Porque son los intermediarios digitales.",
+        "Porque actúan como competencia directa."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los clientes son los padres porque van a decidir acudir a los servicios, tomaran la decisión de compra y pagarán. (Fuente: Página 17, Sección: 14. Resumen y resolución del caso práctico)"
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del estudio de mercado?",
+      "options": [
+        "Tomar decisiones sobre las estrategias comerciales.",
+        "Contratar al personal de ventas.",
+        "Diseñar el logotipo de la empresa.",
+        "Calcular los impuestos del ejercicio."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo principal del estudio de mercado es tomar decisiones sobre las estrategias comerciales que se van a seguir. (Fuente: Página 5, Sección: 2. El estudio de mercado. Concepto y Objetivos)"
+    },
+    {
+      "question": "¿Qué se debe hacer primero en un estudio de mercado según el texto?",
+      "options": [
+        "Comprar el mobiliario de la oficina.",
+        "Analizar el target o público objetivo.",
+        "Contratar una agencia de publicidad externa.",
+        "Solicitar un préstamo bancario."
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el estudio de mercado lo primero que debemos hacer es analizar nuestro target o público objetivo. (Fuente: Página 5, Sección: 2. El estudio de mercado. Concepto y Objetivos)"
+    },
+    {
+      "question": "En la Fase 2 de un estudio de mercado, ¿qué tarea se realiza?",
+      "options": [
+        "Ejecución de las tareas de campo.",
+        "Análisis de las fuentes de información y elección de las adecuadas.",
+        "Tabulación estadística de los datos.",
+        "Definición de la idea de negocio."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Fase 2 incluye el análisis de las fuentes de información y la elección de las fuentes adecuadas. (Fuente: Página 7, Sección: 4. Etapas de un estudio de mercado)"
+    },
+    {
+      "question": "¿Qué caracteriza a una entrevista en profundidad?",
+      "options": [
+        "Es un cuestionario de preguntas cerradas para mil personas.",
+        "Es un diálogo entre dos personas (entrevistador y entrevistado).",
+        "Se basa en la observación sin contacto directo.",
+        "Es una técnica exclusivamente cuantitativa."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La entrevista en profundidad es un diálogo entre dos personas: entrevistador y entrevistado. (Fuente: Página 9, Sección: 7. Principales métodos de obtención de datos)"
+    }
+  ]
+}</script>
+
+  <script>
+  function readEmbeddedJSON(){
+    try{
+      const el=document.getElementById('quiz-data');
+      if(!el) return null;
+      const obj=JSON.parse(el.textContent.trim());
+      if(!obj||!Array.isArray(obj.items)) return null;
+      const h1El=document.querySelector('h1'); if(h1El){ h1El.textContent=obj.title||h1El.textContent; }
+      document.title = (obj.title || 'Examen Online') + ' · Examen Online';
+      return obj.items.map(it=>({question:it.question, options:it.options, correctAnswer:Number(it.correctAnswer), explanation:it.explanation||''}));
+    }catch(e){ console.warn('JSON embebido inválido',e); return null }
+  }
+
+  let quizData = readEmbeddedJSON() || [];
+  const settings = { penaltyMode:'auto', customT:3, timerEnabled:false, timerSeconds:60, shuffleQ:false, shuffleO:false, autoExplain:true };
+  let order = Array.from({length:quizData.length},(_,i)=>i);
+  let currentQuestionIndex = 0;
+  let correctCount = 0, incorrectCount = 0, skippedCount = 0;
+  let totalQuestions = quizData.length; const maxScore = 10;
+  let results = []; let qStartTime = null;
+
+  const $ = s=>document.querySelector(s);
+  const $$ = s=>Array.from(document.querySelectorAll(s));
+  
+  function getPenaltyT(){ if(totalQuestions===30) return 3; return 3; }
+  function computeLiveScore(){ const T=getPenaltyT(); const penalty=incorrectCount/T; const net=Math.max(0,correctCount-penalty); return Math.min(maxScore,(net/totalQuestions)*maxScore) }
+  
+  function updateRing(){ const answered=correctCount+incorrectCount+skippedCount; const perc=Math.max(0,Math.min(1,answered/totalQuestions)); const len=2*Math.PI*52; const off=len-(len*perc); $('#ring-progress').setAttribute('stroke-dashoffset',off.toFixed(2)); $('#ring-label').textContent=Math.round(perc*100)+'%'; $('#ring-step').textContent=(currentQuestionIndex+1)+' / '+totalQuestions; const acc=answered?correctCount/answered:0; $('#ring-acc').textContent=Math.round(acc*100)+'%'; $('#ring-T').textContent=getPenaltyT(); }
+  function updateMiniNav(){ const cont=$('#mini-nav'); cont.innerHTML=''; for(let i=0;i<totalQuestions;i++){ const pill=document.createElement('div'); pill.className='pill'; pill.textContent=String(i+1); const res=results.find(r=>r.qIndex===order[i]); if(res){ pill.classList.add(res.outcome==='ok'?'ok':res.outcome==='ko'?'ko':'sk') } if(i===currentQuestionIndex) pill.classList.add('cur'); cont.appendChild(pill) }}
+  function updateLiveStatsBars(){ $('#live-correct').textContent=correctCount; $('#live-incorrect').textContent=incorrectCount; $('#live-skipped').textContent=skippedCount; const s=computeLiveScore(); $('#live-score').textContent=s.toFixed(2); $('#s-ok').textContent=correctCount; $('#s-ko').textContent=incorrectCount; $('#s-sk').textContent=skippedCount; $('#s-sc').textContent=s.toFixed(2) }
+
+  const questionCounterEl=$('#question-counter');
+  const questionTextEl=$('#question-text');
+  const optionsContainerEl=$('#options-container');
+  const feedbackContainerEl=$('#feedback-container');
+  const submitBtn=$('#submit-btn');
+  const skipBtn=$('#skip-btn');
+  const nextBtn=$('#next-btn');
+  const scoreContainerEl=$('#score-container');
+
+  const finalOverlay=$('#final-overlay');
+  const finalScoreBig=$('#final-score-big');
+  const finalMsg=$('#final-msg');
+
+  function currentQ(){ return quizData[order[currentQuestionIndex]] }
+
+  function loadQuestion(){ 
+    feedbackContainerEl.className='hidden'; 
+    feedbackContainerEl.textContent=''; 
+    const q=currentQ(); 
+    questionCounterEl.textContent=`Pregunta ${currentQuestionIndex+1} de ${totalQuestions}`; 
+    questionTextEl.textContent=q.question; 
+    optionsContainerEl.innerHTML=''; 
+    
+    q.options.forEach((optionText, visibleIdx) => {
+        const div = document.createElement('div');
+        div.className = 'option';
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = 'answer';
+        input.value = String(visibleIdx);
+        input.id = `opt${visibleIdx}`;
+        const label = document.createElement('label');
+        label.htmlFor = input.id;
+        label.textContent = optionText;
+        div.append(input, label);
+        div.addEventListener('click', e => {
+            if (e.target !== input && e.target !== label && !input.disabled) {
+                input.checked = true;
+            }
+        });
+        optionsContainerEl.appendChild(div);
+    });
+
+    submitBtn.classList.remove('hidden'); 
+    skipBtn.classList.remove('hidden'); 
+    nextBtn.classList.add('hidden'); 
+    $('#restart-btn').classList.add('hidden');
+    submitBtn.disabled=false; 
+    skipBtn.disabled=false; 
+    nextBtn.disabled=true; 
+    updateMiniNav(); 
+    updateRing(); 
+  }
+
+  function disableOptions(){ $$('#options-container input[type="radio"]').forEach(i=>i.disabled=true); $$('#options-container .option').forEach(div=>div.classList.add('disabled')) }
+  function selectedVisibleIndex(){ const sel=$('#options-container input[name="answer"]:checked'); return sel?Number(sel.value):null }
+  function commitResult(outcome,chosenVisibleIdx=null){ const qIdx=order[currentQuestionIndex]; const q=quizData[qIdx]; const rec={qIndex:qIdx,outcome,chosen:chosenVisibleIdx,correct:q.correctAnswer}; results.push(rec) }
+
+  function showFeedback(isCorrect,isSkipped=false){ 
+    const q=currentQ(); 
+    feedbackContainerEl.classList.remove('hidden'); 
+    feedbackContainerEl.classList.remove('feedback-correct','feedback-incorrect','feedback-skipped'); 
+    let text=''; 
+    if(isSkipped){ 
+        feedbackContainerEl.classList.add('feedback-skipped'); 
+        text='🟡 Pregunta omitida.' 
+    } else if(isCorrect){ 
+        feedbackContainerEl.classList.add('feedback-correct'); 
+        text='✅ ¡Correcto!' 
+    } else { 
+        feedbackContainerEl.classList.add('feedback-incorrect'); 
+        text='❌ Incorrecto.'
+        
+        // Highlight the correct answer explicitly
+        const correctIdx = q.correctAnswer;
+        const correctInput = document.getElementById(`opt${correctIdx}`);
+        if(correctInput) {
+            const container = correctInput.closest('.option');
+            if(container) container.classList.add('revealed-correct');
+        }
+        
+        // Highlight the wrong answer chosen
+        const chosenIdx = selectedVisibleIndex();
+        if(chosenIdx !== null && chosenIdx !== correctIdx) {
+            const chosenInput = document.getElementById(`opt${chosenIdx}`);
+            if(chosenInput) {
+                const container = chosenInput.closest('.option');
+                if(container) container.classList.add('revealed-wrong');
+            }
+        }
+    }
+    const exp=document.createElement('div'); 
+    exp.className='feedback-explanation'; 
+    let normExp=(q.explanation||'').trim(); 
+    if(normExp){
+      let mainExp=normExp, fundText='';
+      const idx = normExp.toLowerCase().indexOf('fundamento:');
+      if(idx>-1){
+        mainExp = normExp.slice(0, idx).trim();
+        fundText = normExp.slice(idx + 'fundamento:'.length).trim();
+        exp.innerHTML = '<strong>Explicación:</strong> ' + mainExp + '<br><span class="feedback-fundamento"><strong>Fundamento:</strong> ' + fundText + '</span>';
+      } else {
+        exp.innerHTML = '<strong>Explicación:</strong> ' + normExp;
+      }
+    }
+    feedbackContainerEl.innerHTML=text; 
+    if(normExp) feedbackContainerEl.appendChild(exp); 
+    disableOptions(); 
+    submitBtn.classList.add('hidden'); 
+    skipBtn.classList.add('hidden'); 
+    nextBtn.classList.remove('hidden'); 
+    nextBtn.disabled=false 
+  }
+
+  function submitAnswer(){ 
+    const chosen=selectedVisibleIndex(); 
+    if(chosen==null){ alert('Por favor, selecciona una respuesta.'); return } 
+    submitBtn.disabled=true; 
+    skipBtn.disabled=true; 
+    const q=currentQ(); 
+    const isCorrect=(chosen===q.correctAnswer); 
+    if(isCorrect) correctCount++; else incorrectCount++; 
+    commitResult(isCorrect?'ok':'ko',chosen); 
+    updateLiveStatsBars(); 
+    showFeedback(isCorrect) 
+  }
+  function skipQuestion(){ 
+    submitBtn.disabled=true; 
+    skipBtn.disabled=true; 
+    skippedCount++; 
+    commitResult('sk',null); 
+    updateLiveStatsBars(); 
+    showFeedback(false,true) 
+  }
+  function nextQuestion(){ 
+    nextBtn.disabled=true; 
+    currentQuestionIndex++; 
+    if(currentQuestionIndex<totalQuestions){ 
+        loadQuestion() 
+    } else { 
+        showFinalScore() 
+    } 
+  }
+
+  function gradeClass(score){ if(score>=9) return 'grade-green'; if(score>=7) return 'grade-cyan'; if(score>=5) return 'grade-amber'; return 'grade-red' }
+  
+  function showFinalScore(){
+    const finalNota = computeLiveScore();
+    
+    // Explicitly hide elements by ID to avoid querySelector issues
+    ['question-counter', 'question-text', 'options-container', 'navigation-buttons', 'live-stats-container'].forEach(id => {
+        const el = document.getElementById(id);
+        if(el) el.classList.add('hidden');
+    });
+    
+    const h1 = document.querySelector('h1');
+    if(h1) h1.classList.add('hidden');
+
+    $('#counts-correct').textContent=correctCount; 
+    $('#counts-incorrect').textContent=incorrectCount; 
+    $('#counts-skipped').textContent=skippedCount; 
+    $('#final-score').textContent=finalNota.toFixed(2);
+    
+    // Generate breakdown for incorrect answers
+    const breakdownContainer = document.getElementById('score-breakdown');
+    breakdownContainer.innerHTML = '';
+    
+    const wrongResults = results.filter(r => r.outcome !== 'ok');
+    
+    if (wrongResults.length === 0) {
+        breakdownContainer.innerHTML = '<div style="padding:15px; color:var(--green); text-align:center;">¡Excelente! No tienes fallos.</div>';
+    } else {
+        wrongResults.forEach(r => {
+            const q = quizData[r.qIndex];
+            const div = document.createElement('div');
+            const isSkipped = r.outcome === 'sk';
+            div.className = 'review-item ' + (isSkipped ? 'is-skipped' : 'is-wrong');
+            
+            const myAns = r.chosen !== null ? q.options[r.chosen] : 'Saltada';
+            const correctAns = q.options[q.correctAnswer];
+            
+            div.innerHTML = `
+                <div class="review-q">${q.question}</div>
+                <div class="review-row">
+                    <div class="review-my-ans ${isSkipped ? 'skipped' : ''}">
+                       ${isSkipped ? '⚠️' : '❌'} Tu respuesta: <strong>${myAns}</strong>
+                    </div>
+                    <div class="review-correct-ans">
+                       ✅ Correcta: <strong>${correctAns}</strong>
+                    </div>
+                </div>
+                <div class="review-exp">${q.explanation || 'Sin explicación.'}</div>
+            `;
+            breakdownContainer.appendChild(div);
+        });
+    }
+
+    scoreContainerEl.classList.remove('hidden'); 
+    
+    updateRing();
+    
+    finalScoreBig.textContent=finalNota.toFixed(2);
+    finalScoreBig.className=''; 
+    finalScoreBig.classList.add('final-score-big', gradeClass(finalNota));
+    finalMsg.textContent = finalNota>=9? 'Excelente rendimiento.': finalNota>=7? 'Muy buen trabajo.': finalNota>=5? 'Aprobado. Puedes mejorar.': 'No alcanzaste el aprobado esta vez.';
+    finalOverlay.classList.remove('hidden'); 
+    confettiBurst(120);
+  }
+  
+  function restartQuiz(){ 
+    currentQuestionIndex=0; 
+    correctCount=0; 
+    incorrectCount=0; 
+    skippedCount=0; 
+    results=[]; 
+    order=Array.from({length:quizData.length},(_,i)=>i); 
+    scoreContainerEl.classList.add('hidden'); 
+    
+    // Re-show elements
+    ['question-counter', 'question-text', 'options-container', 'navigation-buttons', 'live-stats-container'].forEach(id => {
+        const el = document.getElementById(id);
+        if(el) el.classList.remove('hidden');
+    });
+    const h1 = document.querySelector('h1');
+    if(h1) h1.classList.remove('hidden');
+
+    finalOverlay.classList.add('hidden'); 
+    loadQuestion(); 
+    updateLiveStatsBars(); 
+    updateRing(); 
+  }
+
+  function confettiBurst(n=100){
+    for(let i=0;i<n;i++){
+      const s=document.createElement('div'); s.className='confetti';
+      s.style.left=Math.random()*100+'vw';
+      s.style.background='hsl('+Math.floor(Math.random()*360)+',90%,60%)';
+      s.style.animation='fallConfetti '+(3+Math.random()*2)+'s linear forwards';
+      s.style.width=(6+Math.random()*6)+'px'; s.style.height=(10+Math.random()*10)+'px';
+      s.style.transform='rotate('+(Math.random()*360)+'deg)';
+      document.body.appendChild(s);
+      setTimeout(()=>s.remove(),6000);
+    }
+  }
+
+  document.getElementById('submit-btn').addEventListener('click',submitAnswer);
+  document.getElementById('skip-btn').addEventListener('click',skipQuestion);
+  document.getElementById('next-btn').addEventListener('click',nextQuestion);
+  document.getElementById('restart-btn-2').addEventListener('click',restartQuiz);
+
+  document.getElementById('ovl-restart').addEventListener('click',restartQuiz);
+  document.getElementById('ovl-close').addEventListener('click',()=> finalOverlay.classList.add('hidden'));
+
+  document.addEventListener('keydown',e=>{
+    const k=e.key.toLowerCase();
+    if(k==='enter'){ if(!submitBtn.classList.contains('hidden')) submitAnswer(); else if(!nextBtn.classList.contains('hidden')) nextQuestion(); }
+    if(k==='s') { if(!skipBtn.classList.contains('hidden')) skipQuestion() }
+    if(k==='n') { if(!nextBtn.classList.contains('hidden')) nextQuestion() }
+    if(k==='r') { if(!scoreContainerEl.classList.contains('hidden')) restartQuiz() }
+    if(/^[1-4]$/.test(k)){
+      const idx=Number(k)-1; const input=document.querySelector(`#opt${idx}`); if(input && !input.disabled){ input.checked=true }
+    }
+  });
+
+  document.addEventListener('DOMContentLoaded',()=>{ 
+      loadQuestion(); 
+      updateLiveStatsBars(); 
+      updateRing(); 
+  });
+  </script>
+</body>
+</html>

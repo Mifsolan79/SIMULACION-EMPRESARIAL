@@ -1,0 +1,335 @@
+{
+  "title": "SIMULACIÓN EMPRESARIAL - TEMA 1: INNOVACIÓN EMPRESARIAL",
+  "items": [
+    {
+      "question": "¿Cómo define la Fundación COTEC la innovación?",
+      "options": [
+        "Un ejercicio creativo esporádico que afecta solo al área de diseño.",
+        "Todo cambio no solo tecnológico, basado en conocimiento no solo científico, que aporte valor no solo económico.",
+        "La creación de una empresa destinada a cubrir una necesidad de mercado.",
+        "El proceso de aplicación de resultados científicos exclusivamente para la fabricación de prototipos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la Fundación COTEC, la innovación es todo cambio no solo tecnológico, basado en conocimiento no solo científico, que aporte valor no solo económico. (Fuente: Página 5, Sección: 2.1. Concepto de innovación)"
+    },
+    {
+      "question": "Para la empresa Indra, la innovación debe ser:",
+      "options": [
+        "Un proceso estructurado, controlado y que involucre a toda la empresa.",
+        "Un acto puramente creativo realizado de forma esporádica.",
+        "Una actividad reservada exclusivamente al departamento de marketing.",
+        "Una acción independiente de los resultados empresariales."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para Indra, la innovación es un proceso que debe estar estructurado, muy controlado e involucrar a toda la empresa. (Fuente: Página 5, Sección: 2.1. Concepto de innovación)"
+    },
+    {
+      "question": "¿Qué tipo de innovación se produce cuando se introducen mejoras en la logística o en la fabricación?",
+      "options": [
+        "Innovación en el modelo de negocio.",
+        "Innovación en la organización.",
+        "Innovación en los procesos.",
+        "Innovación en el mercado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La innovación en los procesos se ejemplifica en la logística o la fabricación, mejorando los existentes o creando nuevos. (Fuente: Página 5, Sección: 2.2. Tipos de innovación)"
+    },
+    {
+      "question": "¿A qué se refiere el término 'innovación radical o disruptiva'?",
+      "options": [
+        "A añadir valor a los productos y servicios que ya existen.",
+        "A la introducción de un nuevo producto o servicio no conocido con anterioridad.",
+        "A cambios menores en el embalaje o diseño de un producto.",
+        "A la externalización de servicios de recursos humanos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La innovación radical o disruptiva consiste en la introducción de un nuevo producto o servicio no conocido con anterioridad. (Fuente: Página 5, Sección: 2.2. Tipos de innovación)"
+    },
+    {
+      "question": "Dentro de las fases del proceso de innovación, ¿qué paso sigue inmediatamente a la generación de ideas?",
+      "options": [
+        "La ejecución del plan acordado.",
+        "La definición de proyectos.",
+        "La evaluación de estas ideas.",
+        "La priorización de las ideas por viabilidad."
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el embudo de innovación, tras generar ideas, el siguiente paso es evaluar estas ideas. (Fuente: Página 6, Sección: 3. Fases y facetas del proceso de innovación)"
+    },
+    {
+      "question": "En el acrónimo I+D+i, ¿qué representa la 'D' según el texto?",
+      "options": [
+        "La aplicación de resultados de investigación para fabricar prototipos y generar 'know how'.",
+        "El descubrimiento de nuevos conocimientos por parte de científicos.",
+        "El registro de una patente para su puesta a la venta inmediata.",
+        "La distribución comercial de productos en mercados extranjeros."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Desarrollo (D) es la aplicación de resultados de la investigación para fabricar nuevos materiales o productos y desarrollar el 'know how' o prototipos. (Fuente: Página 6, Sección: 3.1. I+D+i. Investigación, desarrollo e innovación)"
+    },
+    {
+      "question": "¿Quién creó la teoría del empresario innovador?",
+      "options": [
+        "Neil Blumenthal.",
+        "Adam Smith.",
+        "J.H. Schumpeter.",
+        "La Fundación COTEC."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La teoría del empresario innovador fue creada por el economista austriaco J.H. Schumpeter. (Fuente: Página 7, Sección: 4. Innovación y emprendimiento)"
+    },
+    {
+      "question": "¿Qué riesgo se asume cuando hay que valorar el grado de aceptación de una innovación por parte de los clientes?",
+      "options": [
+        "Riesgo Tecnológico.",
+        "Riesgo Comercial.",
+        "Riesgo Operacional.",
+        "Riesgo Estratégico."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El Riesgo Comercial es el que se asume al innovar y tener que valorar la aceptación de los clientes. (Fuente: Página 7, Sección: 4.1. Factores de riesgo en la innovación empresarial)"
+    },
+    {
+      "question": "Los riesgos estratégicos u operacionales se producen cuando:",
+      "options": [
+        "Los clientes no aceptan el producto innovador.",
+        "El personal no sabe utilizar las nuevas máquinas tecnológicas.",
+        "No se han tenido en cuenta los mínimos de producción y gestión buscando el éxito a toda costa.",
+        "Se intenta registrar una patente internacional sin asesoramiento."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se producen cuando no se han tenido en cuenta los mínimos de producción y gestión y se busca a toda costa el éxito de la innovación. (Fuente: Página 7, Sección: 4.1. Factores de riesgo en la innovación empresarial)"
+    },
+    {
+      "question": "¿Cuál de las siguientes es una cualidad que debe tener una persona emprendedora según el texto?",
+      "options": [
+        "Evitar cualquier tipo de riesgo económico.",
+        "Capacidad para organizar, dirigir y coordinar medios.",
+        "Tener una formación científica obligatoria de nivel universitario.",
+        "Depender exclusivamente de asesores externos para la comunicación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las cualidades están la capacidad para organizar, dirigir y coordinar los medios económicos, humanos y materiales. (Fuente: Página 8, Sección: 5. Facetas del carácter emprendedor)"
+    },
+    {
+      "question": "¿Qué elementos se destacan como pilares básicos de la competitividad empresarial dentro de las TIC?",
+      "options": [
+        "La maquinaria pesada y la logística de transporte.",
+        "Internet, correo electrónico, redes sociales y firma digital.",
+        "La inversión en materias primas y recursos naturales.",
+        "La contratación de personal sin formación tecnológica."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dentro de las TIC se destacan la informática, internet, correo electrónico, redes sociales, comercio electrónico y firma digital. (Fuente: Página 8, Sección: 6. La tecnología como clave de la innovación empresarial)"
+    },
+    {
+      "question": "¿Qué porcentaje del PIB suman en España los sectores que avanzan con mayor intensidad en innovación tecnológica?",
+      "options": [
+        "Más del 25%.",
+        "Más del 55%.",
+        "Exactamente el 40%.",
+        "Menos del 10%."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los sectores que avanzan con mayor intensidad en innovaciones tecnológicas suman en nuestro país más del 55% del PIB. (Fuente: Página 9, Sección: 6.1. La innovación tecnológica, su desarrollo en los diferentes sectores)"
+    },
+    {
+      "question": "¿Cuál es el activo más importante de las Empresas de Base Tecnológica (EBT)?",
+      "options": [
+        "Su maquinaria física.",
+        "Sus locales comerciales.",
+        "El conocimiento.",
+        "La cantidad de empleados."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para las empresas de base tecnológica, su activo más importante es el conocimiento. (Fuente: Página 9, Sección: 7. Las empresas de base tecnológica. Spin off y startup)"
+    },
+    {
+      "question": "¿Qué es una 'spin off' académica?",
+      "options": [
+        "Una empresa que surge de una universidad para transferir resultados de una investigación.",
+        "Una empresa creada por jóvenes con escasos recursos sin base científica.",
+        "Un departamento de marketing que se independiza de su matriz.",
+        "Una alianza temporal entre dos empresas extranjeras."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La spin off académica surge a partir de un centro de investigación de una universidad para transferir resultados de investigación. (Fuente: Página 9, Sección: 7.1. Spin off y startup)"
+    },
+    {
+      "question": "Según Neil Blumenthal, una startup es una compañía que:",
+      "options": [
+        "Tiene el éxito garantizado desde su fundación.",
+        "Posee una plantilla de más de 500 investigadores.",
+        "Trabaja para solucionar un problema donde la solución no es obvia.",
+        "Se dedica exclusivamente a la importación de materias primas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neil Blumenthal define una startup como una compañía que soluciona un problema cuya solución no es obvia y el éxito no está garantizado. (Fuente: Página 9, Sección: 7.1. Spin off y startup)"
+    },
+    {
+      "question": "¿A qué se refiere el término 'internacionalización de la empresa'?",
+      "options": [
+        "A los fenómenos migratorios y culturales de un país.",
+        "A las actividades que las empresas realizan en otros países (ventas, compras, producción).",
+        "Al uso de redes sociales para comunicarse con clientes locales.",
+        "A la contratación de personal extranjero en la sede nacional."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La internacionalización hace referencia a las actividades que las empresas realizan en otros países, como venta, compra de materias primas o producción. (Fuente: Página 10, Sección: 8. La internacionalización de las empresas)"
+    },
+    {
+      "question": "¿En qué etapa del proceso de internacionalización se produce la 'deslocalización'?",
+      "options": [
+        "Importación.",
+        "Exportación.",
+        "Inversión exterior.",
+        "Implantación comercial."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La deslocalización ocurre en la fase de inversión exterior, cuando se decide producir en otros países. (Fuente: Página 10, Sección: 8.1. El proceso de internacionalización)"
+    },
+    {
+      "question": "¿Qué sucede en la fase final de 'globalización de la empresa'?",
+      "options": [
+        "La empresa comienza su primera exportación.",
+        "La empresa pierde su nacionalidad y se convierte en multinacional gestionada globalmente.",
+        "La empresa cierra sus oficinas en el extranjero para volver al mercado local.",
+        "Se firma el primer contrato de importación de materias primas."
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la última fase (globalización), la empresa pierde su nacionalidad y se convierte en una empresa global o multinacional con gestión global. (Fuente: Página 10, Sección: 8.1. El proceso de internacionalización)"
+    },
+    {
+      "question": "En el caso práctico de Rocío, ¿qué herramienta le permitirá agilizar la entrada y salida de productos mediante códigos de barras?",
+      "options": [
+        "Un datáfono bancario.",
+        "Un terminal de punto de venta (TPV).",
+        "Las redes sociales.",
+        "Un acuerdo de mensajería."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rocío incorporará un terminal de punto de venta (TPV) que le permitirá agilizar la entrada y salida de productos a través de códigos de barras. (Fuente: Página 10, Sección: 9. Caso práctico 1)"
+    },
+    {
+      "question": "¿Qué tipo de ayuda a la innovación consiste en deducciones sobre el impuesto de sociedades?",
+      "options": [
+        "Ayudas directas.",
+        "Préstamos reembolsables.",
+        "Deducciones fiscales.",
+        "Bonificaciones en la Seguridad Social."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las deducciones fiscales sobre el impuesto de sociedades son para empresas que invierten en I+D+i. (Fuente: Página 11, Sección: 10. Ayudas y herramientas para la innovación empresarial)"
+    },
+    {
+      "question": "¿Cuál de estos organismos NO es mencionado como parte de la administración central que ofrece ayudas a la innovación?",
+      "options": [
+        "Instituto de Crédito Oficial (ICO).",
+        "Centro para el Desarrollo Tecnológico Industrial (CDTI).",
+        "Empresa Pública Nacional Innovación (ENISA).",
+        "Agencia de Innovación y Desarrollo de Andalucía (IDEA)."
+      ],
+      "correctAnswer": 3,
+      "explanation": "IDEA se menciona como un organismo de una comunidad autónoma, no de la administración central. (Fuente: Página 11 y 12, Sección: 10. Ayudas y herramientas)"
+    },
+    {
+      "question": "Las prioridades de inversión de la UE para el periodo 2021-2027 incluyen:",
+      "options": [
+        "Una Europa más inteligente mediante digitalización y apoyo a PYMES.",
+        "La eliminación de todos los impuestos a la exportación.",
+        "La centralización de todas las PYMES en una única sede europea.",
+        "El fomento exclusivo de la industria pesada tradicional."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para 2021-2027, la UE busca una Europa más inteligente mediante innovación, digitalización, transformación económica y apoyo a PYMES. (Fuente: Página 11, Sección: 10. Ayudas y herramientas)"
+    },
+    {
+      "question": "¿Qué organismo tiene como misión promover la internacionalización de las empresas españolas y atraer inversión extranjera?",
+      "options": [
+        "CDTI.",
+        "ICEX España Exportación e Inversiones.",
+        "ENISA.",
+        "Fundación COTEC."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ICEX tiene como misión promover la internacionalización de las empresas españolas y la promoción de la inversión extranjera. (Fuente: Página 12, Sección: 11. Ayudas a la internacionalización de las empresas)"
+    },
+    {
+      "question": "¿Cuál es una característica fundamental de las alianzas estratégicas?",
+      "options": [
+        "Las empresas pierden su independencia tras la formación.",
+        "Una empresa absorbe totalmente a la otra.",
+        "Las empresas conservan su independencia tras la formación de la alianza.",
+        "Se trata siempre de uniones puntuales y muy breves."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Una característica de las alianzas estratégicas es que las empresas conservan su independencia tras la formación de la alianza. (Fuente: Página 13, Sección: 12. Alianzas accionariales o estratégicas)"
+    },
+    {
+      "question": "¿Cómo se denominan las alianzas donde se comparte el 'know how' y los riesgos en I+D+i?",
+      "options": [
+        "Alianzas comerciales.",
+        "Alianzas de producción.",
+        "Alianzas tecnológicas.",
+        "Participación accionarial."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las alianzas tecnológicas comparten el know-how y los riesgos en I+D+i. (Fuente: Página 13, Sección: 12. Alianzas accionariales o estratégicas)"
+    },
+    {
+      "question": "Una alianza estratégica basada en la adquisición de acciones de la otra empresa para el largo plazo se llama:",
+      "options": [
+        "Acuerdo contractual.",
+        "Proyecto conjunto.",
+        "Participación accionarial.",
+        "Absorción temporal."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La participación accionarial se da cuando se adquieren acciones de la otra empresa, normalmente para alianzas a largo plazo. (Fuente: Página 13, Sección: 12. Alianzas accionariales o estratégicas)"
+    },
+    {
+      "question": "En el caso práctico de 'Innovación abierta' de Bombay, ¿qué acción se tomó?",
+      "options": [
+        "Despedir al equipo interno para contratar expertos externos.",
+        "Incorporar a clientes y potenciales clientes en el proceso de reflexión.",
+        "Eliminar todas las redes sociales para centrarse en radio.",
+        "Cerrar la empresa para convertirse en una spin off."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como parte de la innovación abierta, Bombay incorporó clientes y potenciales clientes en el proceso de reflexión. (Fuente: Página 14, Sección: 13. Caso práctico 2)"
+    },
+    {
+      "question": "¿Cuál fue un resultado del proceso de innovación abierta en la agencia Bombay?",
+      "options": [
+        "La reducción del presupuesto de marketing a cero.",
+        "La especialización exclusiva en el sector de la moda textil.",
+        "Formación del equipo humano y reciclaje en nuevas tecnologías.",
+        "La venta de la empresa a una multinacional extranjera."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Uno de los resultados fue la formación del equipo humano, reciclándolo en nuevas tecnologías. (Fuente: Página 14, Sección: 13. Caso práctico 2)"
+    },
+    {
+      "question": "En la resolución del caso de Raquel (férulas), ¿qué tecnología de fabricación se menciona?",
+      "options": [
+        "Prensado hidráulico de acero.",
+        "Impresora 3D.",
+        "Tallado manual de madera.",
+        "Inyección de plástico tradicional."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Raquel y sus socios están fabricando con impresora 3D y materiales de bajo coste. (Fuente: Página 15, Sección: 14. Resumen y resolución del caso práctico)"
+    },
+    {
+      "question": "¿Qué valor añadido ofrecen las férulas de Raquel respecto a las escayolas tradicionales?",
+      "options": [
+        "Son más pesadas y rígidas para mayor seguridad.",
+        "Son más estéticas, ligeras y fáciles de poner y quitar.",
+        "Requieren cirugía para ser implantadas.",
+        "Son de un solo uso y no reciclables."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El producto es más estético, más ligero e incluso puede ponerse y quitarse fácilmente. (Fuente: Página 15, Sección: 14. Resumen y resolución del caso práctico)"
+    }
+  ]
+}

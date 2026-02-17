@@ -1,0 +1,335 @@
+{
+    "title": "SIMULACIÓN EMPRESARIAL - TEMA 02",
+    "items": [
+        {
+            "question": "¿Cuál es el punto de partida de toda aventura empresarial según el texto?",
+            "options": [
+                "La obtención de financiación bancaria",
+                "Una idea inicial y básica que es una creencia sobre un proyecto",
+                "La contratación de los primeros empleados",
+                "El registro legal de la marca"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Toda aventura empresarial tiene su punto de partida en una idea inicial y básica que no es sino una creencia acerca de algo sobre lo que desarrollar un proyecto de empresa. (Fuente: Página 4, Sección: 1. Introducción y contextualización práctica)"
+        },
+        {
+            "question": "¿Qué rasgo caracteriza específicamente a la persona emprendedora en cuanto a su formación?",
+            "options": [
+                "Capacidad económica ilimitada",
+                "Conocimientos básicos de derecho civil",
+                "Conocimientos profesionales en el sector donde inicia la actividad",
+                "Título universitario obligatorio en empresariales"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Uno de los rasgos son los conocimientos profesionales: formación y experiencia en el sector donde se pretende iniciar la actividad empresarial. (Fuente: Página 5, Sección: 2. La persona emprendedora y la idea. Fuentes de ideas)"
+        },
+        {
+            "question": "Dentro de las fuentes de ideas, ¿cuál se basa en aprovechar los conocimientos de una etapa laboral previa?",
+            "options": [
+                "Observación de ausencias",
+                "Experiencia adquirida en un empleo anterior",
+                "Nuevos inventos",
+                "Nuevas formas de comercialización"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La experiencia adquirida en un empleo anterior es listada explícitamente como una fuente de ideas. (Fuente: Página 5, Sección: 2.1. La idea)"
+        },
+        {
+            "question": "¿En qué consiste el método del triángulo para la selección de ideas de negocio?",
+            "options": [
+                "La confluencia de recursos de promotores, recursos del entorno y necesidades de clientes",
+                "Un análisis de tres años de proyecciones financieras",
+                "La división de la empresa en tres departamentos: ventas, producción y finanzas",
+                "Una técnica de marketing basada en tres anuncios publicitarios"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Surge del concepto de que cualquier empresa debe surgir bajo la confluencia cruzada de tres variables: los recursos de los promotores, los recursos del entorno y las necesidades e intereses de los potenciales clientes. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)"
+        },
+        {
+            "question": "¿Quién desarrolló originalmente la técnica del Brainstorming o lluvia de ideas?",
+            "options": [
+                "Alex Osterwalder",
+                "Alex Osborn",
+                "Angelica Record",
+                "Philip Kotler"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Fue desarrollada por Alex Osborn (especialista en creatividad y publicidad) en los años 30. (Fuente: Página 6, Sección: 3.1. Factores que determinan la elección)"
+        },
+        {
+            "question": "¿Qué característica debe tener la formulación de una idea de negocio para ser evaluada correctamente?",
+            "options": [
+                "Debe ser formulada de forma clara, simple y directa",
+                "Debe utilizar un lenguaje técnico altamente especializado",
+                "Debe ser lo más extensa posible para no dejar dudas",
+                "Debe mantenerse en secreto para que no la copie la competencia"
+            ],
+            "correctAnswer": 0,
+            "explanation": "La idea debe poder ser formulada de forma clara, simple y directa para que sea entendida por todo el mundo. (Fuente: Página 7, Sección: 4. Técnicas de delimitación y evaluación de la idea)"
+        },
+        {
+            "question": "¿Cuál de los siguientes es un inconveniente o desventaja de emprender?",
+            "options": [
+                "Menor satisfacción personal",
+                "Pérdida de prestigio social",
+                "Riesgo económico e incertidumbre",
+                "Falta de autonomía"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las desventajas incluyen mayor dedicación, riesgo económico y un porcentaje de incertidumbre. (Fuente: Página 8, Sección: 4.1. Ventajas e inconvenientes de las propuestas de negocio)"
+        },
+        {
+            "question": "¿Qué elemento debe recogerse en el resumen ejecutivo según el caso práctico 1?",
+            "options": [
+                "La primera definición de la idea de negocio",
+                "La nómina detallada de los socios",
+                "El balance contable de los últimos cinco años",
+                "El listado de proveedores internacionales"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Toda esta primera definición de la idea de negocio podrá formar parte del documento de plan de empresa... y tendrá que recogerse en el resumen ejecutivo. (Fuente: Página 8, Sección: 5. Caso práctico 1: “Definición de la idea de negocio”)"
+        },
+        {
+            "question": "¿Por qué se dice que el plan de empresa es una herramienta de reflexión?",
+            "options": [
+                "Porque permite meditar sobre la vida del emprendedor",
+                "Porque ayuda a analizar el impacto de novedades y adaptar el negocio a la realidad",
+                "Porque es un documento estático que no admite cambios",
+                "Porque sirve para evaluar exclusivamente el pasado de la empresa"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Es un elemento que nos ayuda a reflexionar sobre el impacto de estas novedades en el negocio... para la toma de decisiones de adaptación a la realidad. (Fuente: Página 9, Sección: 6. El plan de empresa. Concepto y utilidad)"
+        },
+        {
+            "question": "Como herramienta de comunicación, ¿para qué es útil el plan de empresa entre socios?",
+            "options": [
+                "Para ocultar información financiera",
+                "Para evitar reuniones presenciales",
+                "Para discutir de forma objetiva temas como responsabilidades y remuneraciones",
+                "Para competir entre ellos por el liderazgo"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Es muy útil para poner sobre la mesa temas difíciles de abordar directamente, como las responsabilidades, las remuneraciones y la implicación de los socios. (Fuente: Página 9, Sección: 6. El plan de empresa. Concepto y utilidad)"
+        },
+        {
+            "question": "¿Qué aspecto formal se recomienda cuidar especialmente en la elaboración del plan de empresa?",
+            "options": [
+                "Que sea un instrumento integral que abarque todas las áreas",
+                "Que incluya solo información de marketing",
+                "Que sea lo más largo posible",
+                "Que use un lenguaje informal y coloquial"
+            ],
+            "correctAnswer": 0,
+            "explanation": "El plan de empresa tendrá que abarcar a todas las áreas de la empresa, con el fin de ofrecer una imagen completa del proyecto. (Fuente: Página 10, Sección: 7. Recomendación para la elaboración de un plan de empresa)"
+        },
+        {
+            "question": "¿Cuál es la pauta común a todos los planes de empresa a pesar de no haber homogeneidad?",
+            "options": [
+                "El uso de la misma tipografía",
+                "El análisis de cada una de las grandes partes que componen la empresa",
+                "Que todos deben tener 100 páginas",
+                "Que deben ser aprobados por un notario obligatoriamente"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Aunque no hay homogeneidad, sí que existe una pauta común a todos ellos: el análisis de cada uno de las grandes partes que componen la empresa. (Fuente: Página 11, Sección: 8. Estructura del plan de empresa)"
+        },
+        {
+            "question": "¿Qué debe incluir el plan de recursos humanos dentro de la estructura del plan de empresa?",
+            "options": [
+                "El historial médico de los trabajadores",
+                "El organigrama, las funciones y el perfil de los trabajadores",
+                "Solo el salario del gerente",
+                "La lista de familiares de los empleados"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Incluye organizar el organigrama de la empresa, las funciones que tendrán cada una de las personas, así como concretar el perfil de cada uno de los trabajadores. (Fuente: Página 11, Sección: 8. Estructura del plan de empresa)"
+        },
+        {
+            "question": "¿Cómo deben considerarse las ayudas y subvenciones en el plan económico financiero?",
+            "options": [
+                "Como la fuente principal de ingresos garantizados",
+                "Como parte de la financiación inicial fija",
+                "No deben considerarse parte de la financiación por su incertidumbre",
+                "Como un préstamo que hay que devolver siempre"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las subvenciones no deben considerarse parte de la financiación, ya que se desconoce si se obtendrán y la cuantía de la misma. (Fuente: Página 11, Sección: 8. Estructura del plan de empresa)"
+        },
+        {
+            "question": "¿Cuántos módulos o bloques componen el Modelo CANVAS diseñado por Osterwalder?",
+            "options": [
+                "5 bloques",
+                "7 bloques",
+                "9 bloques",
+                "12 bloques"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El Modelo del Lienzo sintetiza el modelo de negocio concentrando en 9 módulos y las relaciones entre ellos toda la viabilidad. (Fuente: Página 12, Sección: 9. Modelo CANVAS, otra forma de diseñar el modelo de negocio)"
+        },
+        {
+            "question": "En el modelo CANVAS, ¿qué bloque define cómo llega la propuesta de valor a los clientes?",
+            "options": [
+                "Actividades clave",
+                "Flujo de ingresos",
+                "Canales",
+                "Asociaciones clave"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Los canales definen cómo vamos a hacer llegar la propuesta de valor a los clientes objetivos. (Fuente: Página 12, Sección: 9. Modelo CANVAS, otra forma de diseñar el modelo de negocio)"
+        },
+        {
+            "question": "Según el caso práctico 2, ¿qué forma jurídica eligen las emprendedoras de videojuegos por ser más social?",
+            "options": [
+                "Sociedad Anónima",
+                "Sociedad Limitada",
+                "Cooperativa de trabajo asociado",
+                "Empresario individual"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Han decidido crear una cooperativa como forma jurídica por ser la que más se ajusta a su filosofía, la más democrática y social. (Fuente: Página 13, Sección: 10. Caso práctico 2: “Elaboración Resumen ejecutivo”)"
+        },
+        {
+            "question": "¿Qué significa que un plan de negocio debe ser 'conciso'?",
+            "options": [
+                "Que debe tener pocas páginas sin importar el contenido",
+                "Que debe primar la calidad frente a la cantidad con datos necesarios",
+                "Que no debe incluir gráficos ni tablas",
+                "Que solo debe escribirse en una cara del folio"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ser conciso implica primar la calidad frente a la cantidad, midiendo la extensión pero conteniendo todos los puntos que afectan a la creación. (Fuente: Página 14, Sección: 11. Claves para un plan de negocio sólido)"
+        },
+        {
+            "question": "¿Por qué es recomendable innovar en el formato del plan de empresa?",
+            "options": [
+                "Para que sea más difícil de leer",
+                "Para evitar el uso de ordenadores",
+                "Para llegar mejor a los receptores y facilitar su difusión/actualización",
+                "Para ocultar la falta de datos financieros"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Innovar en el formato nos ayudará a llegar mejor a los receptores del Plan... nos va a facilitar la difusión y nos permitirá actualizarlo fácilmente. (Fuente: Página 14, Sección: 12. Cómo escribir y exponer el plan de empresa)"
+        },
+        {
+            "question": "¿Cuál es el objetivo principal del uso de la herramienta 'Elevator Pitch'?",
+            "options": [
+                "Cerrar una venta definitiva en el acto",
+                "Conseguir un préstamo bancario inmediato",
+                "Generar interés y lograr una posterior entrevista o reunión",
+                "Entretener a los inversores durante el viaje"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Cuando los emprendedores utilizan esta herramienta, su objetivo no es vender sino, sobre todo, generar interés y lograr una posterior entrevista. (Fuente: Página 15, Sección: 13. Elevator pitch)"
+        },
+        {
+            "question": "Dentro de la estructura de un elevator pitch, ¿qué se debe explicar brevemente al responder 'qué solución voy a dar'?",
+            "options": [
+                "El listado de deudas de la empresa",
+                "Una hoja de ruta con los pasos para resolver el reto",
+                "El currículum completo de todos los empleados",
+                "La dirección exacta de la oficina"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Se explica brevemente haciendo una hoja de ruta, contando los pasos que vas a seguir para resolver el reto. (Fuente: Página 16, Sección: 13. Elevator pitch)"
+        },
+        {
+            "question": "¿Qué variable del 'método del triángulo' se considera el vértice clave?",
+            "options": [
+                "Los recursos económicos de los promotores",
+                "Las necesidades e intereses de los potenciales clientes",
+                "Las infraestructuras del entorno",
+                "La formación técnica de los socios"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El vértice clave del triángulo lo ocupan las necesidades e intereses de los potenciales clientes. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)"
+        },
+        {
+            "question": "¿Qué debe valorar el emprendedor respecto a la 'proyección hacia el futuro' de su idea?",
+            "options": [
+                "Que sea un negocio rápido y oportunista",
+                "Que no cambie nunca bajo ninguna circunstancia",
+                "Que tenga proyección a largo plazo y sea flexible a los cambios",
+                "Que solo dure el tiempo que dure una subvención"
+            ],
+            "correctAnswer": 2,
+            "explanation": "La idea ha de tener proyección hacia el futuro a largo plazo... al mismo tiempo, la idea debe adaptarse con flexibilidad a los cambios. (Fuente: Página 7, Sección: 4. Técnicas de delimitación y evaluación de la idea)"
+        },
+        {
+            "question": "¿Cuál es una de las funciones específicas de la persona emprendedora mencionada en el texto?",
+            "options": [
+                "La limpieza de las instalaciones",
+                "La coordinación de recursos y evaluación",
+                "La redacción de leyes comerciales",
+                "El transporte físico de la mercancía"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las funciones específicas incluyen: fijación de objetivos, elección de medios, coordinación de recursos, evaluación. (Fuente: Página 5, Sección: 2. La persona emprendedora y la idea. Fuentes de ideas)"
+        },
+        {
+            "question": "En el plan de producción o prestación de servicios, ¿qué aspecto se debe definir?",
+            "options": [
+                "El perfil de Instagram de la empresa",
+                "La localización de la empresa y distribución del espacio físico",
+                "Los nombres de los hijos de los socios",
+                "Las vacaciones de los clientes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Incluye la localización de la empresa, la distribución del espacio físico, la maquinaria y tecnología necesaria y el proceso de producción. (Fuente: Página 11, Sección: 8. Estructura del plan de empresa)"
+        },
+        {
+            "question": "¿Qué bloque del modelo CANVAS se refiere a de dónde proviene el dinero?",
+            "options": [
+                "Estructura de costes",
+                "Segmento de clientes",
+                "Flujo de ingresos",
+                "Recursos clave"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Flujo de ingresos: De dónde proviene el dinero. (Fuente: Página 12, Sección: 9. Modelo CANVAS, otra forma de diseñar el modelo de negocio)"
+        },
+        {
+            "question": "Al exponer el plan de empresa, ¿qué competencia fundamental debe transmitir el documento según el texto?",
+            "options": [
+                "Capacidad de ahorro extremo",
+                "Creatividad e innovación",
+                "Conocimientos profundos de historia",
+                "Habilidades en deportes de equipo"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El plan de empresa ha de transmitir creatividad e innovación, competencias que son fundamentales en la persona que emprende el negocio. (Fuente: Página 15, Sección: 12. Cómo escribir y exponer el plan de empresa)"
+        },
+        {
+            "question": "¿Cuál es el primer paso en el proceso de crear una empresa?",
+            "options": [
+                "Seleccionar una idea de negocio",
+                "Alquilar un local comercial",
+                "Contratar a un gestor",
+                "Solicitar un crédito"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Seleccionar una idea de negocio es la primera fase en el proceso de crear una empresa. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)"
+        },
+        {
+            "question": "En el caso práctico de Angélica, ¿cuál es el paso previo a la redacción del plan de empresa?",
+            "options": [
+                "La compra de ordenadores",
+                "Profundizar en la definición de la idea y su valor diferencial",
+                "La inscripción en la seguridad social",
+                "La búsqueda de socios capitalistas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ven la necesidad de trabajar y profundizar en la idea, observando el valor diferencial... como paso previo a la redacción del plan de empresa. (Fuente: Página 17, Sección: 14. Resumen y resolución del caso práctico de la unidad)"
+        },
+        {
+            "question": "¿Qué se recomienda utilizar para apoyar las explicaciones y hacer el plan profesional?",
+            "options": [
+                "Dibujos a mano alzada",
+                "Tablas y gráficos",
+                "Poemas sobre el éxito",
+                "Fotografías personales de los viajes de los socios"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Es recomendable que se utilicen términos empresariales y tablas y gráficos que apoyen las explicaciones. (Fuente: Página 14, Sección: 11. Claves para un plan de negocio sólido)"
+        }
+    ]
+}
