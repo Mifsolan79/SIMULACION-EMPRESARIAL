@@ -89,8 +89,13 @@ async function init() {
         state.totalQuestions = state.quizData.length;
         state.order = Array.from({ length: state.totalQuestions }, (_, i) => i);
 
-        document.querySelector('h1').textContent = data.title;
-        document.title = data.title;
+        // Format the title to "SIMULACIÓN EMPRESARIAL - TEMA XX"
+        const themeNum = themeValue.replace('tema_', '');
+        const formattedNum = themeNum.padStart(2, '0');
+        const genericTitle = `SIMULACIÓN EMPRESARIAL - TEMA ${formattedNum}`;
+
+        document.querySelector('h1').textContent = genericTitle;
+        document.title = genericTitle;
 
         loadQuestion();
         updateUI();
