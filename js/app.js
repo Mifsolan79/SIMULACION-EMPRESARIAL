@@ -74,7 +74,10 @@ async function init() {
     }
 
     try {
-        const url = `data/${themeValue}.json` + (window.location.protocol.startsWith('http') ? `?v=${new Date().getTime()}` : '');
+        // Force new filename to bypass cache completely
+        const dbName = themeValue.replace('tema_', 'db_tema_');
+        const url = `data/${dbName}.json`;
+        console.log('Fetching new DB:', url);
         const response = await fetch(url);
         if (!response.ok) {
             if (response.status === 404) {
