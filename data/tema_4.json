@@ -266,26 +266,26 @@
             "explanation": "La tecnología blockchain se configura como una base de datos donde se puede validar información a tiempo real. (Fuente: Página 15, Sección: 12. Estadísticas para el proyecto empresarial)"
         },
         {
-            "question": "En el caso práctico de la empresa de logopedia, ¿quiénes son los 'prescriptores'?",
+            "question": "¿A qué llamamos 'prescriptor' en un proceso de compra?",
             "options": [
-                "Los niños que reciben el tratamiento.",
-                "Los padres que pagan el servicio.",
-                "Profesionales como pediatras o escuelas que recomiendan el servicio.",
+                "Los consumidores finales del producto.",
+                "Los que pagan el servicio.",
+                "La persona o entidad que recomienda el producto públicamente o en privado e influye en la decisión.",
                 "Los portales online donde se compran los bonos."
             ],
             "correctAnswer": 2,
-            "explanation": "Los prescriptores pueden ser escuelas infantiles, pediatras o psicólogos que recomiendan el servicio. (Fuente: Página 17, Sección: 14. Resumen y resolución del caso práctico)"
+            "explanation": "El prescriptor es aquel que recomienda el producto o servicio, influyendo decisivamente en la compra del cliente. (Fuente: Página 17, Sección: 14. Resumen y conclusiones)"
         },
         {
-            "question": "En el mismo caso de logopedia, ¿por qué los padres se consideran 'clientes'?",
+            "question": "¿Cuál es la diferencia principal entre 'cliente' y 'usuario'?",
             "options": [
-                "Porque son quienes padecen el problema de lenguaje.",
-                "Porque son quienes deciden, compran y pagan el servicio.",
-                "Porque son los intermediarios digitales.",
-                "Porque actúan como competencia directa."
+                "El usuario padece el problema y el cliente lo soluciona.",
+                "El cliente es quien decide, compra y paga, mientras que el usuario es quien disfruta el servicio.",
+                "Son términos sinónimos en marketing.",
+                "El usuario es la competencia directa del cliente."
             ],
             "correctAnswer": 1,
-            "explanation": "Los clientes son los padres porque van a decidir acudir a los servicios, tomaran la decisión de compra y pagarán. (Fuente: Página 17, Sección: 14. Resumen y resolución del caso práctico)"
+            "explanation": "El cliente es la persona que toma la decisión de compra y paga, mientras que el usuario es quien utiliza o consume el bien o servicio. (Fuente: Página 17, Sección: 14. Resumen y conclusiones)"
         },
         {
             "question": "¿Cuál es el objetivo principal del estudio de mercado?",

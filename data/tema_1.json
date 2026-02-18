@@ -200,15 +200,15 @@
       "explanation": "En la última fase (globalización), la empresa pierde su nacionalidad y se convierte en una empresa global o multinacional con gestión global. (Fuente: Página 10, Sección: 8.1. El proceso de internacionalización)"
     },
     {
-      "question": "En el caso práctico de Rocío, ¿qué herramienta le permitirá agilizar la entrada y salida de productos mediante códigos de barras?",
+      "question": "¿Qué ventaja aporta el uso de códigos de barras y terminales TPV en el comercio?",
       "options": [
         "Un datáfono bancario.",
-        "Un terminal de punto de venta (TPV).",
+        "Agilizar la entrada y salida de productos y el control de stock.",
         "Las redes sociales.",
         "Un acuerdo de mensajería."
       ],
       "correctAnswer": 1,
-      "explanation": "Rocío incorporará un terminal de punto de venta (TPV) que le permitirá agilizar la entrada y salida de productos a través de códigos de barras. (Fuente: Página 10, Sección: 9. Caso práctico 1)"
+      "explanation": "El uso de códigos de barras y terminales TPV permite agilizar la entrada y salida de productos y mejorar el control de inventario. (Fuente: Página 8, Sección: 6. La tecnología como clave de la innovación empresarial)"
     },
     {
       "question": "¿Qué tipo de ayuda a la innovación consiste en deducciones sobre el impuesto de sociedades?",
@@ -288,48 +288,48 @@
       "explanation": "La participación accionarial se da cuando se adquieren acciones de la otra empresa, normalmente para alianzas a largo plazo. (Fuente: Página 13, Sección: 12. Alianzas accionariales o estratégicas)"
     },
     {
-      "question": "En el caso práctico de 'Innovación abierta' de Bombay, ¿qué acción se tomó?",
+      "question": "¿Qué implica el modelo de 'Innovación Abierta' (Open Innovation)?",
       "options": [
-        "Despedir al equipo interno para contratar expertos externos.",
-        "Incorporar a clientes y potenciales clientes en el proceso de reflexión.",
-        "Eliminar todas las redes sociales para centrarse en radio.",
-        "Cerrar la empresa para convertirse en una spin off."
+        "Confiar exclusivamente en el departamento interno de I+D.",
+        "Aprovechar ideas externas y colaborar con otros agentes para innovar.",
+        "Mantener en secreto todos los procesos productivos.",
+        "Evitar cualquier tipo de alianza estratégica."
       ],
       "correctAnswer": 1,
-      "explanation": "Como parte de la innovación abierta, Bombay incorporó clientes y potenciales clientes en el proceso de reflexión. (Fuente: Página 14, Sección: 13. Caso práctico 2)"
+      "explanation": "La innovación abierta propone que las empresas pueden y deben utilizar ideas externas, así como internas, para avanzar en su tecnología. (Fuente: Página 14, Sección: 13. La innovación abierta)"
     },
     {
-      "question": "¿Cuál fue un resultado del proceso de innovación abierta en la agencia Bombay?",
+      "question": "¿Cuál es la norma española que certifica los sistemas de gestión de la I+D+i?",
       "options": [
-        "La reducción del presupuesto de marketing a cero.",
-        "La especialización exclusiva en el sector de la moda textil.",
-        "Formación del equipo humano y reciclaje en nuevas tecnologías.",
-        "La venta de la empresa a una multinacional extranjera."
-      ],
-      "correctAnswer": 2,
-      "explanation": "Uno de los resultados fue la formación del equipo humano, reciclándolo en nuevas tecnologías. (Fuente: Página 14, Sección: 13. Caso práctico 2)"
-    },
-    {
-      "question": "En la resolución del caso de Raquel (férulas), ¿qué tecnología de fabricación se menciona?",
-      "options": [
-        "Prensado hidráulico de acero.",
-        "Impresora 3D.",
-        "Tallado manual de madera.",
-        "Inyección de plástico tradicional."
+        "ISO 9001.",
+        "UNE 166002.",
+        "ISO 14001.",
+        "OHSAS 18001."
       ],
       "correctAnswer": 1,
-      "explanation": "Raquel y sus socios están fabricando con impresora 3D y materiales de bajo coste. (Fuente: Página 15, Sección: 14. Resumen y resolución del caso práctico)"
+      "explanation": "La serie de normas UNE 166000 (en concreto la 166002) se dedica a la gestión de la I+D+i. (Fuente: Página 11, Sección: 10. Ayudas y herramientas para la innovación empresarial)"
     },
     {
-      "question": "¿Qué valor añadido ofrecen las férulas de Raquel respecto a las escayolas tradicionales?",
+      "question": "¿Qué función cumplen los Parques Tecnológicos?",
       "options": [
-        "Son más pesadas y rígidas para mayor seguridad.",
-        "Son más estéticas, ligeras y fáciles de poner y quitar.",
-        "Requieren cirugía para ser implantadas.",
-        "Son de un solo uso y no reciclables."
+        "Son zonas residenciales para empleados de grandes empresas.",
+        "Son espacios que concentran empresas de alta tecnología y centros de investigación, fomentando la cooperación.",
+        "Son áreas dedicadas exclusivamente a la industria pesada y contaminante.",
+        "Son centros comerciales especializados en electrónica."
       ],
       "correctAnswer": 1,
-      "explanation": "El producto es más estético, más ligero e incluso puede ponerse y quitarse fácilmente. (Fuente: Página 15, Sección: 14. Resumen y resolución del caso práctico)"
+      "explanation": "Los Parques Tecnológicos facilitan la creación y crecimiento de empresas innovadoras mediante la incubación y la transferencia de tecnología. (Fuente: Página 11, Sección: 10. Ayudas y herramientas para la innovación empresarial)"
+    },
+    {
+      "question": "¿Qué factor es clave para crear una cultura innovadora dentro de una organización?",
+      "options": [
+        "La tolerancia al error y el fomento de la creatividad.",
+        "La rigidez en los horarios y procesos.",
+        "La penalización inmediata del fracaso.",
+        "La reducción de costes en formación."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para innovar es necesario un clima que permita experimentar, proponer nuevas ideas y donde el error se vea como parte del aprendizaje. (Fuente: Página 5, Sección: 2. Concepto de innovación)"
     }
   ]
 }

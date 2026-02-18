@@ -1,79 +1,99 @@
-# Plantilla de Exámenes Interactivos (Estilo Neon Business)
+# 🎓 Plantilla de Exámenes Interactivos (Estilo Neon)
 
-Este repositorio contiene una aplicación web moderna para realizar exámenes tipo test, diseñada para ser reutilizable en otras asignaturas.
+> **Repositorio de Referencia**: Este proyecto ha sido diseñado como una plantilla moderna y reutilizable para crear aplicaciones de exámenes tipo test para cualquier asignatura.
 
-## 🚀 Cómo usar este proyecto para otra asignatura
+![Preview](https://via.placeholder.com/800x400?text=Preview+del+Examen)
+*(Puedes reemplazar esta imagen con una captura de pantalla de tu examen)*
 
-Si quieres crear una web igual para otra materia (por ejemplo, "Gestión Financiera"), sigue estos pasos:
+## ✨ Características
 
-### 1. Clonar o Descargar
-Descarga este código o clona el repositorio en tu ordenador.
+*   **Diseño Premium**: Interfaz moderna con tema "Neon Business" (Oro/Rojo) y fondo animado.
+*   **Totalmente Responsivo**: Funciona perfectamente en ordenadores, tablets y móviles.
+*   **Sistema de Examen Completo**:
+    *   Navegación por preguntas con estado (Acierto/Fallo/Omitido).
+    *   Barra de progreso circular y estadísticas en tiempo real.
+    *   Feedback inmediato con explicaciones.
+    *   "Memoria" de navegación: revisa tus respuestas anteriores.
+*   **Fácil de Configurar**: Todo el contenido se carga desde archivos JSON simples.
+*   **Integración IA**: Botón discreto para conectar con asistentes de estudio (ej. Notion, NotebookLM).
 
-### 2. Personalizar el Nombre y Tema
-Abre el archivo `index.html` y cambia los títulos:
-```html
-<title>TU ASIGNATURA - Exámenes</title>
-...
-<h1>TU ASIGNATURA</h1>
+---
+
+## 🚀 Cómo usar esta plantilla para tu asignatura
+
+Sigue estos pasos para crear tu propia web de exámenes en minutos:
+
+### 1. Clonar el Repositorio
+Usa este botón de "Use this template" o clona el código:
+```bash
+git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
 ```
 
-Si quieres cambiar los colores (por ejemplo, a Azul/Cian en lugar de Oro/Rojo), edita `css/style.css` y cambia las variables al principio del archivo:
-```css
-:root {
-    --bg: #0f172a;       /* Fondo oscuro */
-    --gold: #38bdf8;     /* Color principal (ej. Cian) */
-    --red: #f43f5e;      /* Color secundario */
-}
-```
+### 2. Personalizar la Asignatura
+1.  Abre `index.html` y cambia el título `<title>` y el `<h1>` por el nombre de tu materia.
+2.  (Opcional) Cambia el logo/icono en la etiqueta `<link rel="icon">`.
 
-### 3. Añadir tus Preguntas
-La aplicación lee las preguntas de la carpeta `data/`.
-Para crear un nuevo examen:
-1. Crea un archivo `data/tema_1.json`.
-2. Pega la estructura siguiente:
+### 3. Crear tus Exámenes
+Los datos están en la carpeta `data/`. Para añadir un nuevo tema:
+1.  Crea un archivo `data/tema_1.json` (o el número que quieras).
+2.  Usa este formato:
 
 ```json
 {
-  "title": "TÍTULO DEL TEMA",
+  "title": "NOMBRE DEL TEMA",
   "items": [
     {
-      "question": "¿Cuál es la capital de Francia?",
+      "question": "Enunciado de la pregunta...",
       "options": [
-        "Londres",
-        "Berlín",
-        "París",
-        "Madrid"
+        "Opción A",
+        "Opción B",
+        "Opción C",
+        "Opción D"
       ],
-      "correctAnswer": 2,
-      "explanation": "París es la capital de Francia desde..."
+      "correctAnswer": 0,
+      "explanation": "Explicación opcional que sale al responder."
     }
   ]
 }
 ```
-*Nota: `correctAnswer` es el índice de la respuesta correcta (empieza en 0).*
+*Importante: `correctAnswer` es el número de la opción correcta, empezando por 0 (0 es la primera, 1 la segunda...)*
 
-### 4. Configurar el Menú
-Abre `index.html` y actualiza los enlaces de los botones para que apunten a tus nuevos temas:
+### 4. Configurar el Menú Principal
+En `index.html`, edita las tarjetas para que apunten a tus archivos:
 ```html
 <div class="card" onclick="window.location.href='exam.html?tema=1'">
     <h2>TEMA 01</h2>
-    <p>Nombre del Tema</p>
+    <p>Descripción del tema</p>
 </div>
 ```
 
-### 5. Personalizar el Botón de IA
-En `exam.html`, busca el botón "PREGUNTAME" y cambia el enlace de `notebooklm.google.com` por tu propio cuaderno de inteligencia artificial.
+---
 
-## 🛠️ Estructura de Archivos
-- `index.html`: Menú principal.
-- `exam.html`: Plantilla del examen (no necesitas tocarla mucho).
-- `css/style.css`: Diseño y colores.
-- `js/app.js`: Lógica del examen (¡no tocar si no sabes programación!).
-- `data/`: Aquí van tus preguntas en formato JSON.
+## 🎨 Personalización Visual
 
-## 📦 Despliegue (Publicar en Internet)
-La forma más fácil es usar **GitHub Pages**:
-1. Sube tu código a un repositorio de GitHub.
-2. Ve a **Settings** > **Pages**.
-3. En **Source**, selecciona `main` o `master` y guarda.
-4. ¡Tu web estará online en minutos!
+Si los colores Oro/Rojo no encajan con tu asignatura, edita `css/style.css`. Al principio del archivo encontrarás las variables principales:
+
+```css
+:root {
+    --bg: #0f100a;       /* Fondo */
+    --gold: #EAB308;     /* Color Principal */
+    --red: #DC2626;      /* Color Secundario/Error */
+}
+```
+¡Cámbialas por las que quieras y toda la web se actualizará automáticamente!
+
+---
+
+## 🌐 Publicar en Internet (Gratis)
+
+1.  Sube tu código a GitHub.
+2.  Ve a la pestaña **Settings** > **Pages** de tu repositorio.
+3.  En "Source", elige la rama `main` o `master`.
+4.  ¡Listo! GitHub te dará un enlace (ej: `tu-usuario.github.io/tu-repo`) para compartir.
+
+---
+
+## 🤝 Créditos
+
+Creado como proyecto de referencia para la digitalización de exámenes de Simulación Empresarial y otras materias.
+Diseño inspirado en `EMPLEABILIDAD-II`.

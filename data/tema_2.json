@@ -79,15 +79,15 @@
             "explanation": "Las desventajas incluyen mayor dedicación, riesgo económico y un porcentaje de incertidumbre. (Fuente: Página 8, Sección: 4.1. Ventajas e inconvenientes de las propuestas de negocio)"
         },
         {
-            "question": "¿Qué elemento debe recogerse en el resumen ejecutivo según el caso práctico 1?",
+            "question": "¿Cuál es la función principal del Resumen Ejecutivo en un plan de empresa?",
             "options": [
-                "La primera definición de la idea de negocio",
+                "Sintetizar los puntos clave del proyecto para captar la atención de posibles inversores",
                 "La nómina detallada de los socios",
                 "El balance contable de los últimos cinco años",
                 "El listado de proveedores internacionales"
             ],
             "correctAnswer": 0,
-            "explanation": "Toda esta primera definición de la idea de negocio podrá formar parte del documento de plan de empresa... y tendrá que recogerse en el resumen ejecutivo. (Fuente: Página 8, Sección: 5. Caso práctico 1: “Definición de la idea de negocio”)"
+            "explanation": "El resumen ejecutivo debe sintetizar la definición de la idea de negocio y los puntos clave para captar el interés. (Fuente: Página 8, Sección: 5. Definición de la idea de negocio)"
         },
         {
             "question": "¿Por qué se dice que el plan de empresa es una herramienta de reflexión?",
@@ -178,15 +178,15 @@
             "explanation": "Los canales definen cómo vamos a hacer llegar la propuesta de valor a los clientes objetivos. (Fuente: Página 12, Sección: 9. Modelo CANVAS, otra forma de diseñar el modelo de negocio)"
         },
         {
-            "question": "Según el caso práctico 2, ¿qué forma jurídica eligen las emprendedoras de videojuegos por ser más social?",
+            "question": "¿Qué caracteriza a una Sociedad Cooperativa de Trabajo Asociado?",
             "options": [
-                "Sociedad Anónima",
-                "Sociedad Limitada",
-                "Cooperativa de trabajo asociado",
-                "Empresario individual"
+                "Es una sociedad anónima unipersonal",
+                "Es una sociedad controlada por inversores externos",
+                "Es una sociedad cuyos socios son también trabajadores y gestionan democráticamente la empresa",
+                "Es una sociedad sin personalidad jurídica"
             ],
             "correctAnswer": 2,
-            "explanation": "Han decidido crear una cooperativa como forma jurídica por ser la que más se ajusta a su filosofía, la más democrática y social. (Fuente: Página 13, Sección: 10. Caso práctico 2: “Elaboración Resumen ejecutivo”)"
+            "explanation": "La cooperativa de trabajo asociado se caracteriza porque los socios son trabajadores y la gestión es democrática y social. (Fuente: Página 13, Sección: 10. Formas jurídicas)"
         },
         {
             "question": "¿Qué significa que un plan de negocio debe ser 'conciso'?",
@@ -310,15 +310,15 @@
             "explanation": "Seleccionar una idea de negocio es la primera fase en el proceso de crear una empresa. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)"
         },
         {
-            "question": "En el caso práctico de Angélica, ¿cuál es el paso previo a la redacción del plan de empresa?",
+            "question": "¿Por qué es fundamental definir el 'valor diferencial' antes de redactar el plan de empresa?",
             "options": [
                 "La compra de ordenadores",
-                "Profundizar en la definición de la idea y su valor diferencial",
+                "Para asegurar que el producto o servicio ofrece algo único que lo distinga de la competencia",
                 "La inscripción en la seguridad social",
                 "La búsqueda de socios capitalistas"
             ],
             "correctAnswer": 1,
-            "explanation": "Ven la necesidad de trabajar y profundizar en la idea, observando el valor diferencial... como paso previo a la redacción del plan de empresa. (Fuente: Página 17, Sección: 14. Resumen y resolución del caso práctico de la unidad)"
+            "explanation": "Trabajar y profundizar en la idea y su valor diferencial es un paso previo necesario a la redacción del plan de empresa. (Fuente: Página 17, Sección: 14. Resumen y conclusiones)"
         },
         {
             "question": "¿Qué se recomienda utilizar para apoyar las explicaciones y hacer el plan profesional?",

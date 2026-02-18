@@ -79,15 +79,15 @@
             "explanation": "El primer paso para hacer un análisis PEST es entender los factores (políticos, económicos, sociales y tecnológicos). (Fuente: Página 7, Sección: 4. Análisis del entorno PEST)"
         },
         {
-            "question": "¿Cómo se define el concepto de 'segmentación del mercado' según el caso práctico del bar de copas?",
+            "question": "¿En qué consiste la segmentación psicográfica del mercado?",
             "options": [
-                "La identificación de los posibles clientes o clientes potenciales.",
+                "En dividir el mercado según el estilo de vida, personalidad o valores de los consumidores.",
                 "La localización física del establecimiento comercial.",
                 "El análisis de la competencia directa en la zona.",
                 "El cálculo de los beneficios esperados por cliente."
             ],
             "correctAnswer": 0,
-            "explanation": "La identificación de los posibles clientes es lo que se denomina segmentación del mercado. (Fuente: Página 8, Sección: 5. Caso práctico 1: “Análisis de la clientela de un bar de copas”)"
+            "explanation": "La segmentación psicográfica divide el mercado basándose en la personalidad, motivos de compra, estilos de vida, etc. (Fuente: Página 8, Sección: 5. Segmentación del mercado)"
         },
         {
             "question": "¿Qué tipo de recursos son la maquinaria, el mobiliario y las herramientas en una empresa?",
@@ -321,15 +321,15 @@
             "explanation": "El análisis DAFO y el PEST son dos herramientas muy útiles para encarar el estudio del entorno. (Fuente: Página 16, Sección: 14. Resumen y resolución del caso práctico de la unidad)"
         },
         {
-            "question": "En la resolución del caso práctico final, ¿cuál de los siguientes es un 'Valor' de la gestoría?",
+            "question": "¿Qué representan los 'Valores' en la planificación estratégica de una empresa?",
             "options": [
                 "Ser un referente en la ciudad.",
                 "Ayudar a los clientes a gestionar con éxito.",
-                "Compromiso y gestión ética.",
+                "Los principios éticos y creencias que guían el comportamiento de la organización.",
                 "Ofrecer servicios de alta tecnología."
             ],
             "correctAnswer": 2,
-            "explanation": "Entre los valores definidos para la gestoría se encuentran el compromiso, gestión ética, calidad y confianza. (Fuente: Página 16, Sección: 14. Resumen y resolución del caso práctico de la unidad)"
+            "explanation": "Los valores corporativos son los principios éticos, creencias o cualidades en los que se asienta la cultura de la empresa. (Fuente: Página 12, Sección: 9. Objetivos empresariales)"
         }
     ]
 }
