@@ -74,7 +74,8 @@ async function init() {
     }
 
     try {
-        const response = await fetch(`data/${themeValue}.json`);
+        const url = `data/${themeValue}.json` + (window.location.protocol.startsWith('http') ? `?v=${new Date().getTime()}` : '');
+        const response = await fetch(url);
         if (!response.ok) {
             if (response.status === 404) {
                 alert('⚠️ Este examen (' + themeValue.replace('tema_', 'TEMA ') + ') aún no está disponible.\n\nPróximamente añadiremos más contenidos.');
