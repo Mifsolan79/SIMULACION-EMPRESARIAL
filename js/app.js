@@ -317,12 +317,103 @@ function showFinalResults() {
     elements.finalScoreBig.textContent = finalScore.toFixed(2);
 
     let msg = '';
-    if (finalScore >= 9) msg = '¡Excelente trabajo!';
-    else if (finalScore >= 7) msg = 'Muy bien, sigue así.';
-    else if (finalScore >= 5) msg = 'Aprobado, pero se puede mejorar.';
-    else msg = 'No has aprobado. ¡Sigue practicando!';
+    if (finalScore >= 9) msg = '¡Excelente trabajo! 🌟';
+    else if (finalScore >= 7) msg = 'Muy bien, sigue así. 👍';
+    else if (finalScore >= 5) msg = 'Aprobado, pero se puede mejorar. 📚';
+    else msg = 'No has aprobado. ¡Sigue practicando! 💪';
 
     elements.finalMsg.textContent = msg;
+
+    // --- Badges de resumen rápido ---
+    const summaryBadges = document.getElementById('final-summary-badges');
+    if (summaryBadges) {
+        summaryBadges.innerHTML = `
+            <div class="badge ok">✅ Acertadas <strong>${state.correctCount}</strong></div>
+            <div class="badge ko">❌ Falladas <strong>${state.incorrectCount}</strong></div>
+            <div class="badge sk">🟡 Saltadas <strong>${state.skippedCount}</strong></div>
+            <div class="badge sc">📊 Nota <strong>${finalScore.toFixed(2)}</strong></div>
+        `;
+    }
+
+    // --- Detalle por categoría ---
+    const detail = document.getElementById('final-detail');
+    if (detail) {
+        detail.innerHTML = '';
+
+        const categories = [
+            {
+                key: 'ok',
+                emoji: '✅',
+                label: 'Preguntas acertadas',
+                cls: 'ok',
+                items: state.results.filter(r => r.outcome === 'ok')
+            },
+            {
+                key: 'ko',
+                emoji: '❌',
+                label: 'Preguntas falladas — ¡Repásalas!',
+                cls: 'ko',
+                items: state.results.filter(r => r.outcome === 'ko')
+            },
+            {
+                key: 'sk',
+                emoji: '🟡',
+                label: 'Preguntas saltadas',
+                cls: 'sk',
+                items: state.results.filter(r => r.outcome === 'sk')
+            }
+        ];
+
+        categories.forEach(cat => {
+            if (cat.items.length === 0) return;
+
+            const section = document.createElement('div');
+            section.className = `final-section ${cat.cls}`;
+
+            const header = document.createElement('div');
+            header.className = 'final-section-header';
+            header.innerHTML = `
+                <span>${cat.emoji} ${cat.label}</span>
+                <span class="count-badge">${cat.items.length} preguntas</span>
+            `;
+
+            const body = document.createElement('div');
+            body.className = 'final-section-body';
+
+            cat.items.forEach((res, idx) => {
+                const q = state.quizData[res.qIndex];
+                const item = document.createElement('div');
+                item.className = 'final-question-item';
+
+                let answerHtml = '';
+                if (res.outcome === 'ok') {
+                    answerHtml = `<span class="q-answer">✔️ ${q.options[q.correctAnswer]}</span>`;
+                } else if (res.outcome === 'ko') {
+                    answerHtml = `
+                        <span class="q-answer" style="color:#f87171;">✘ Tu respuesta: ${q.options[res.chosen]}</span><br>
+                        <span class="q-answer" style="color:#4ade80;">✔ Correcta: ${q.options[q.correctAnswer]}</span>
+                    `;
+                } else {
+                    answerHtml = `<span class="q-answer" style="color:#34d399;">✔ Respuesta correcta: ${q.options[q.correctAnswer]}</span>`;
+                }
+
+                item.innerHTML = `
+                    <span class="q-num">${idx + 1}.</span>
+                    <span class="q-text">${q.question}</span>
+                    ${answerHtml}
+                `;
+                body.appendChild(item);
+            });
+
+            header.addEventListener('click', () => {
+                body.style.display = body.style.display === 'none' ? 'flex' : 'none';
+            });
+
+            section.appendChild(header);
+            section.appendChild(body);
+            detail.appendChild(section);
+        });
+    }
 
     // Confetti
     confettiBurst();

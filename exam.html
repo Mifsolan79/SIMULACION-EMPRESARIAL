@@ -73,15 +73,27 @@
     </main>
 
     <div id="final-overlay" class="hidden">
-        <div id="final-card" class="card" style="padding:40px; text-align:center;">
-            <h2 style="font-size:2rem; margin-bottom:10px; color: var(--gold);">Examen Finalizado</h2>
-            <div id="final-score-big" style="font-size:4rem; color:var(--gold); font-weight:900;">0.00</div>
-            <div id="final-msg" style="margin-bottom:30px; color:var(--muted);"></div>
+        <div id="final-card">
 
-            <div style="display:flex; gap:15px; justify-content:center;">
-                <button id="ovl-restart" class="btn-blue">Intentar de nuevo</button>
-                <button id="ovl-close" class="btn-red">Salir</button>
+            <!-- CABECERA DE PUNTUACIÓN -->
+            <div class="card" style="padding:36px; text-align:center;">
+                <h2 style="font-size:2rem; margin-bottom:8px; color: var(--gold);">Examen Finalizado 🏁</h2>
+                <div id="final-score-big" style="font-size:4rem; color:var(--gold); font-weight:900;">0.00</div>
+                <div id="final-msg" style="margin-bottom:24px; color:var(--muted);"></div>
+
+                <!-- Resumen rápido -->
+                <div id="final-summary-badges"
+                    style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-bottom:28px;"></div>
+
+                <div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap;">
+                    <button id="ovl-restart" class="btn-blue">🔄 Intentar de nuevo</button>
+                    <button id="ovl-close" class="btn-red">🏠 Volver al inicio</button>
+                </div>
             </div>
+
+            <!-- DETALLE POR CATEGORÍA -->
+            <div id="final-detail" style="margin-top:24px; display:flex; flex-direction:column; gap:20px;"></div>
+
         </div>
     </div>
 
