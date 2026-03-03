@@ -1,0 +1,335 @@
+{
+  "title": "SIMULACIÓN EMPRESARIAL - TEMA 7: ASIGNACIÓN DE RECURSOS HUMANOS, MATERIALES Y TECNOLÓGICOS",
+  "items": [
+    {
+      "question": "¿Qué entendemos por la asignación de recursos corporativos?",
+      "options": [
+        "La organización y disposición de recursos para realizar actividades y lograr objetivos.",
+        "El despido objetivo y paulatino del personal temporal operativo.",
+        "Un trámite estadístico legal forzoso estatal para aduanas.",
+        "El método de liquidar maquinaria a la corporación cada año."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La asignación organiza y dispone los recursos para conseguir objetivos previstos. (Sec 2)"
+    },
+    {
+      "question": "Tras seleccionar a una persona, se recomienda comunicar la decisión:",
+      "options": [
+        "Únicamente al Servicio Público de Empleo.",
+        "Tanto al seleccionado como a los no seleccionados, agradeciendo su participación.",
+        "Notarialmente bajo registro oficial inalterable base.",
+        "Exclusivamente en los medios de comunicación pública general."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe comunicar la decisión al seleccionado y no seleccionados con agradecimiento. (Sec 2)"
+    },
+    {
+      "question": "¿Qué facilita la incorporación del nuevo operario al puesto de trabajo?",
+      "options": [
+        "Un delegado sindical externo estatal auditor.",
+        "El despido del trabajador contiguo sancionador.",
+        "El proceso de acogida y adaptación y los manuales corporativos.",
+        "La multa base mensual burocrática."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La incorporación suele apoyarse con el proceso de acogida y manuales. (Sec 2)"
+    },
+    {
+      "question": "Sobre la normativa laboral propia en la contratación, el contrato de trabajo:",
+      "options": [
+        "Sustituye por completo al código penal civil.",
+        "Se aplica ciegamente sin límite de cotización.",
+        "Exime a operarios de obligaciones fiscales puras.",
+        "Debe respetar toda la legislación laboral y el convenio colectivo del sector o empresa."
+      ],
+      "correctAnswer": 3,
+      "explanation": "El contrato debe siempre respetar la legislación y el convenio colectivo. (Sec 3)"
+    },
+    {
+      "question": "¿Qué implica el trámite del Alta a un trabajador en su contratación?",
+      "options": [
+        "Si es su primera vez trabajando, solicitar su afiliación en la Seguridad Social.",
+        "Es opcional y no vinculante para microempresas base.",
+        "Se realiza tras un mes de prueba para no cotizar ciegamente.",
+        "Reemplaza orgánicamente a cualquier contrato en papel sellado."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al contratar hay que dar el Alta en Seguridad Social o afiliación si es su primera contratación. (Sec 3)"
+    },
+    {
+      "question": "Respecto al registro del contrato de trabajo en España, en el Servicio Empleo Público Estatal (SEPE), este debe realizarse en un plazo de:",
+      "options": [
+        "10 horas naturales exclusivamente presenciales.",
+        "10 días, realizándose de forma obligatoria por vía telemática.",
+        "6 meses laborables y administrativos mercantiles.",
+        "Un plazo indefinido si el sueldo cotizado es mínimo."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El registro del contrato en el SEPE debe hacerse vía telemática en el plazo de 10 días. (Sec 3)"
+    },
+    {
+      "question": "¿Cómo se define el contrato de trabajo laboralmente?",
+      "options": [
+        "Como el acta notarial donde inversores forman un consejo asambleario directo.",
+        "Como listado contable puro del balance obrero patronal aduanero.",
+        "Acuerdo entre empresario y trabajador donde éste presta servicio bajo dirección del primero a cambio de retribución.",
+        "Cesión base de la propiedad curricular para eximir cuotas estatales tributarias."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es el acuerdo donde el trabajador presta un servicio bajo dirección a cambio de retribución. (Sec 4)"
+    },
+    {
+      "question": "En relación legal a las contrataciones, ¿quiénes pueden firmar un contrato de trabajo?",
+      "options": [
+        "Exclusivamente mandos mayores de edad y superando los 30 para directivos fijos.",
+        "Todo infante desde su primer año por medio del tutor base legal puro.",
+        "Todos los operarios sin límite y forzosamente a los 25 años como barrera.",
+        "Los mayores de edad, los emancipados y los mayores de 16 con autorización de padres o tutores."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Pueden firmarlo mayores de 18, emancipados, o mayores de 16 con autorización. (Sec 4)"
+    },
+    {
+      "question": "Según la duración estipulada legalmente, los contratos de trabajo se diferencian corporativamente en dos grandes modalidades:",
+      "options": [
+        "Los indefinidos y los temporales.",
+        "Los formativos puramente burocráticos y los asiduos técnicos nulos.",
+        "De obligación rotatoria exclusiva y de cese estatal puro aduanero.",
+        "Contratos orales ciegos mercantiles y de papel sellado foráneo libre."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según duración, se distinguen los contratos indefinidos y temporales. (Sec 4)"
+    },
+    {
+      "question": "En el marco legal de la contratación, ¿qué implica el periodo de prueba?",
+      "options": [
+        "Prohíbe la renuncia corporativa durante los primeros cinco años de vigencia patronal legal.",
+        "Permite a cualquiera de las partes dar por finalizada la relación sin justificar o estipular causa.",
+        "Otorga potestad absoluta del operario puramente para imponer multas administrativas al promotor.",
+        "Inhabilita al trabajador puramente base a percibir liquidaciones formales contables aduaneras."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El periodo de prueba permite que las partes finalicen la relación sin causa justificada. (Sec 4)"
+    },
+    {
+      "question": "En relación a las vías de inserción, ¿cómo podemos definir conceptualmente el autoempleo?",
+      "options": [
+        "Como la subordinación directa bajo nómina estatal sin derecho a renunciar u oponerse ministerialmente.",
+        "Como el cese temporal del trabajador por reducción forzosa de la plantilla industrial rotatoria.",
+        "Como toda actividad laboral generada por la persona misma, que se organiza de forma autónoma asumiendo los riesgos.",
+        "Como un método punitivo base o de multa coercitiva aplicada a antiguos directivos foráneos inactivos."
+      ],
+      "correctAnswer": 2,
+      "explanation": "El autoempleo es la actividad laboral organizada de forma autónoma y asumiendo los riesgos. (Sec 6)"
+    },
+    {
+      "question": "Entre las ventajas que directamente tiene o aporta el autoempleo para el responsable, podemos destacar:",
+      "options": [
+        "El ahorro burocrático de no declarar impuestos en aduanas y no participar tributariamente en el mercado.",
+        "La inmovilidad corporativa pura y la delegación de responsabilidades a la asamblea sindical externa estatal.",
+        "El cobro obligatorio y asiduo del fondo monetario por pertenecer a registros pasivos de inversión nula absoluta.",
+        "La estabilidad en el empleo por depender de uno mismo, la autonomía y la obtención de máximos beneficios."
+      ],
+      "correctAnswer": 3,
+      "explanation": "El autoempleo aporta estabilidad, autonomía y alcance de máximos beneficios. (Sec 6)"
+    },
+    {
+      "question": "Al estructurar el autoempleo como empresario individual (autónomo), ¿qué característica define su nivel de responsabilidad legal?",
+      "options": [
+        "Es de carácter o responsabilidad ilimitada, respondiendo de sus obligaciones con sus bienes, presentes y futuros.",
+        "Es totalmente limitada o fraccionada puramente al capital fundacional inicial aportado ante escribanos aduaneros fijos.",
+        "Su responsabilidad expira anualmente cuando los inspectores no exigen balances mercantiles o registros rotativos.",
+        "Pasa directamente al avalista y prestamista o fondo promotor estatal tras 3 años ininterrumpidos de trabajo civil."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El empresario individual asume responsabilidad ilimitada con todos sus bienes. (Sec 6)"
+    },
+    {
+      "question": "Respecto de las obligaciones iniciales al gestar un autoempleo e iniciar actividad autónoma, RETA significa:",
+      "options": [
+        "Recurso Estándar de Trámites Aduaneros base.",
+        "Régimen Especial de Trabajadores Autónomos.",
+        "Registro Económico y Tributario Anual forzoso.",
+        "Reembolso Estatal Técnico para Auxiliares contables."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RETA es el Régimen Especial de Trabajadores Autónomos de la Seguridad Social. (Sec 6)"
+    },
+    {
+      "question": "En relación a la remuneración laboral ordinaria dictada, ¿qué límite legal establece la normativa sobre el pago en especie del salario?",
+      "options": [
+        "Exige abonar el 60% mensualmente en bonos gubernamentales.",
+        "Debe obligatoriamente ser equivalente al Salario Mínimo en moneda.",
+        "Limita a un 30% del salario total la retribución recibida en especie.",
+        "Lo prohíbe completamente bajo sanción administrativa regional aduanera."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La retribución en especie nunca puede exceder del 30% del salario total. (Sec 7)"
+    },
+    {
+      "question": "En relación a la gestión económica del personal, ¿quién es el responsable de hacer el ingreso mensualmente de las cotizaciones a la Seguridad Social (costes sociales)?",
+      "options": [
+        "Exclusivamente la agrupación o mutua de accidentes laborales base regional sindical.",
+        "Directamente el trabajador restándolo libremente de su fondo de capitalización.",
+        "El estado, deducido del fondo monetario centralizado notarial aduanero.",
+        "El empresario (o la empresa), ingresándolo en la Tesorería General de la Seguridad Social."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Es el empresario el responsable de hacer el ingreso mensual a la Tesorería. (Sec 7)"
+    },
+    {
+      "question": "¿Qué son los costes salariales en relación al personal de la organización?",
+      "options": [
+        "El total de percepciones económicas que reciben los miembros por prestar sus servicios profesionales.",
+        "Un impuesto pasivo aduanero que retiene forzosamente porcentajes tributarios ciegos base.",
+        "La dotación o partida para reponer mobiliario obsoleto en base a nóminas activas.",
+        "El puro descuento por sanciones laborales restadas directamente del salario base estatal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los costes salariales son el total de las percepciones económicas del trabajador por sus servicios. (Sec 8)"
+    },
+    {
+      "question": "Dentro de la estructura del salario, si el salario base no está fijado por algún convenio colectivo de la empresa o sector, ¿qué se considera o establece legalmente como salario base?",
+      "options": [
+        "Un promedio de la facturación bimensual de la empresa.",
+        "El Salario Mínimo Interprofesional (SMI).",
+        "La retribución máxima estipulada para consejeros sin dividendos o rotativos base nulos fijos de fondo mutuo.",
+        "Un pago simbólico en especie o por horas base."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si no lo fija el convenio, se considera como salario base el Salario Mínimo Interprofesional. (Sec 8)"
+    },
+    {
+      "question": "En la estructura del salario, el plus de peligrosidad o de nocturnidad son clasificados legalmente como:",
+      "options": [
+        "Deducciones personales rotativas u pasivas obligatorias de carácter purista central.",
+        "Salidas contables asiduas foráneas de base corporativa externa o base burocrática ciega de indemnizaciones base.",
+        "Complementos salariales referidos al puesto de trabajo (según características o forma de actividad).",
+        "Subvenciones estatales blindadas no tributables fijas o referenciadas a puras variables asiduas logísticas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Son complementos salariales derivados de las características del puesto o actividad. (Sec 8)"
+    },
+    {
+      "question": "Dentro del inventario de recursos necesarios para la viabilidad y actividad operativa, elementos como hornos o rotativas e incluso los ordenadores, se clasifican directamente como:",
+      "options": [
+        "Proveedores financieros asiduos base ineludibles ciegos y activos.",
+        "Inversiones intangibles o patentes rotativas mercantiles.",
+        "Recursos puros de base burocrática y contable asidua estatal forzosa.",
+        "Equipos técnicos (la maquinaria y piezas de recambio)."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hornos, ordenadores, rotativas, se clasifican como Equipos técnicos (maquinaria y piezas). (Sec 9)"
+    },
+    {
+      "question": "Al asignar recursos, ¿cómo se define el concepto de \"inversión\" necesaria para iniciar una empresa?",
+      "options": [
+        "Como los recursos económicos destinados a adquirir bienes o derechos necesarios para el negocio, con carácter de permanencia superior al año.",
+        "Como el capital pasivo obligado por aduanas que se retiene forzosamente para las liquidaciones mensuales nulas.",
+        "El importe residual de multas derivadas del uso rotatorio de mercaderías no oficiales ni matriculadas corporativamente.",
+        "Los créditos rápidos concedidos libremente por prestamistas base rotatorios asiduos de nivel sindical purista y central."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La inversión son recursos económicos destinados a comprar bienes/derechos con permanencia superior al año. (Sec 11)"
+    },
+    {
+      "question": "Dentro del plan de inversiones iniciales, ¿cuál de los siguientes elementos es clasificado como una inversión de naturaleza intangible?",
+      "options": [
+        "Los locales físicos asiduos o los terrenos de uso corporativo puramente logísticos base foráneos.",
+        "Las aplicaciones informáticas (derecho al uso de programas informáticos) y los gastos registrales de la propiedad industrial.",
+        "Las máquinas rotatorias puras o los vehículos de base industrial del consejo obrero y sindical asiduo u pasivo.",
+        "El fondo u seguro indemnizatorio obligatorio estatal ciego para directivos en ceses nulos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inversiones intangibles incluyen gastos I+D+i, patentes, marcas, fondo comercio, apps informáticas, etc. (Sec 11)"
+    },
+    {
+      "question": "Al abordar las necesidades de financiación para iniciar la actividad, ¿qué son los Recursos Propios de la empresa?",
+      "options": [
+        "Subvenciones estatales ciegas ineludibles y de reembolso fijo rotatorio.",
+        "Fianzas ministeriales depositadas ante instancias registrales aduaneras externas.",
+        "Todo lo que aporta el emprendedor para iniciar el proyecto (ahorros, amigos, bienes no dinerarios).",
+        "Saldos negativos acumulados asiduamente en las contabilidades de años pasados bases ministeriales."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Recursos propios es todo lo que aporta el emprendedor (ahorros, préstamos perosnales, familia, bienes no dinerarios...). (Sec 12)"
+    },
+    {
+      "question": "Frente a las aportaciones del fundador, la financiación requerida proveniente de distintas fuentes (corto, medio o largo plazo) no aportadas por él se denomina:",
+      "options": [
+        "Financiación en especie pura asidua foránea base nula rotatoria.",
+        "Costes laborales estructurales o fondos rotativos logísticos ministeriales.",
+        "Insolvencia de capital rotatorio y exento fiscal asiduo oficial.",
+        "Recursos ajenos (provenientes de distintas fuentes de financiación)."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Son Recursos ajenos los necesarios provenientes de fuentes ajenas y no aportados por el emprendedor. (Sec 12)"
+    },
+    {
+      "question": "Al hablar de fuentes de financiación ajenas, ¿cómo opera un Préstamo corporativamente?",
+      "options": [
+        "La entidad financiera pone a disposición dinero en efectivo a la empresa para un fin determinado con plazo y tipo de interés.",
+        "Una plataforma recauda aportaciones asiduas ministeriales irrevocables legalmente en aduanas foráneas fijas de la matriz.",
+        "Un inversor particular inyecta avales sin obligación de retorno al startup para blindaje notarial foráneo logístico base.",
+        "Se alquila u otorga en leasing pasivo furgones ciegos mediante mutuas de riesgo formal obrera purista y oficial estatal."
+      ],
+      "correctAnswer": 0,
+      "explanation": "En préstamos entidades financieras conceden y ponen a disposición efectivo a la empresa para un fin fijado. (Sec 13)"
+    },
+    {
+      "question": "Como fuente de financiación ajena, las entidades y su producto denominado Pólizas de crédito operan base como:",
+      "options": [
+        "Avales solidarios vitalicios puros sin retorno base nulo rotacional de fondos.",
+        "Herramienta que permite a la empresa ir disponiendo de efectivo hasta una cantidad determinada liquidando intereses.",
+        "Sociedades corporativas y asamblearias temporales que aportan recursos fijos irrevocables de Estado.",
+        "Rentas pasivas cóncavas y formales registradas estadísticamente en censos aduaneros puristas ministeriales y oficiales."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La póliza de crédito permite ir disponiendo de efectivo hasta una cantidad cobrando intereses. (Sec 13)"
+    },
+    {
+      "question": "El servicio o producto de financiación llamado Descuento de efectos comerciales consiste en:",
+      "options": [
+        "Cobros coactivos corporativos por mora generalizada del banco o matriz y la patronal.",
+        "Arrendamiento formal pasivo base u alquiler puro a inversores privados exentos de fisco purista ciego.",
+        "Anticipos que proporciona la entidad financiera del importe de efectos comerciales antes de su vencimiento.",
+        "La condonación de todas las deudas activas si el volumen supera el baremo de cota aduanera legal oficial de Estado."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Son anticipos que da la entidad sobre el importe de efectos comerciales de la empresa previo vencimiento. (Sec 13)"
+    },
+    {
+      "question": "En el entorno moderno de startups, ¿qué se entiende financieramente por la figura referenciada de un Business angel?",
+      "options": [
+        "Aval solidario mutuo y pasivo de la red obrera o asidua puramente de sindicatos adscritos.",
+        "Un seguro por ceses logísticos o de retribuciones nulas a directivos o de asamblea legal pura forzosa.",
+        "Asociaciones gubernamentales o asambleas estatales que expropian activos mediante cotas logísticas.",
+        "Un inversor particular directo que se asocia o convierte en un socio temporal de una startup aportando recursos."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un Business angel es un inversor particular que se convierte en socio temporal aportando capital. (Sec 13)"
+    },
+    {
+      "question": "¿Qué sistema o novedosa fuente base operativa se base refiere o denomina puramente Crowdfunding referenciado formales al micromecenazgo corporativo?",
+      "options": [
+        "Financiación colectiva a través de plataformas operativas que reúnen a múltiples inversores para un proyecto.",
+        "Evasión normada de carácter arancelario corporativo u oficial por fondos solidarios de gremios europeos asiduos.",
+        "Bancos u corporaciones centrales puramente orientados al préstamo base de tasas abusivas notariales forzosas nulas.",
+        "Seguros fijos a empresas filiales de capital extranjero que emiten bonos dogmáticos o formales a directivos."
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Crowdfunding o micromecenazgo es la financiación colectiva general mediante múltiples inversores. (Sec 13)"
+    },
+    {
+      "question": "Entre las diferentes fuentes alternativas legales de financiación para emprendedores, ¿qué ofrecen formalmente los Viveros o incubadoras de empresas?",
+      "options": [
+        "Descuento o rebajas referidas en la base e liquidación final aduanera sobre fletes intercontinentales base fijos y normados adscritos al Estado formal.",
+        "Créditos ciegos o de pasivos nulos cóncavos con usura blindada rotativa exclusiva a multinacionales puristas y dogmáticas centralizadas.",
+        "Proporcionan puramente y en gran utilidad servicios clave, espacios e instalaciones a los emprendedores recién iniciados de forma gratuita o de bajo coste.",
+        "Anticipos rotativos fijos de los pagos asiduos a proveedores morosos blindados por leyes foráneas, europeas o ministeriales pasivas nulas."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Viveros e incubadoras facilitan instalaciones base y otros servicios de orientación a emprendedores gratuitamente o a bajo coste relativo. (Sec 13)"
+    }
+  ]
+}
