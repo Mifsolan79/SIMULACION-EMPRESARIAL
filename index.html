@@ -200,13 +200,17 @@
                 1: "INNOVACIÓN EMPRESARIAL",
                 2: "LA IDEA DE NEGOCIO",
                 3: "ENTORNO Y SECTOR",
-                4: "MERCADO Y CLIENTES"
+                4: "MERCADO Y CLIENTES",
+                5: "FORMA JURÍDICA",
+                6: "CONSTITUCIÓN Y MARCHA",
+                7: "GESTIÓN Y SEG. SOCIAL",
+                8: "PLAN DE MARKETING"
             };
 
             const temas = Array.from({ length: 15 }, (_, i) => {
                 const n = i + 1;
                 const tituloEspecifico = titulos[n] ? titulos[n] : `TEMA ${n}`;
-                const disponible = n <= 4;
+                const disponible = n <= 8;
 
                 return {
                     numero: n,

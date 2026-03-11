@@ -2,334 +2,334 @@
   "title": "SIMULACIÓN EMPRESARIAL - TEMA 5: LA FORMA JURÍDICA DE LA EMPRESA Y SU IDENTIFICACIÓN",
   "items": [
     {
-      "question": "¿Qué factores determinan la elección de la forma jurídica de una empresa?",
+      "question": "¿Cuál es un factor determinante para elegir la forma jurídica si la actividad conlleva riesgos elevados?",
       "options": [
-        "Capital inicial, responsabilidad frente a terceros, número de socios, fiscalidad, trámites y coste de constitución.",
-        "Localización geográfica de la sede central y distribución interna de espacios productivos.",
-        "El número de productos en catálogo y la estrategia a largo plazo frente a la competencia.",
-        "La cantidad de trabajadores en plantilla y su nivel formativo u oficial."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La elección de la forma jurídica viene determinada por factores como el capital a aportar, número de socios, responsabilidad, régimen fiscal, trámites y coste. (Fuente: Sección 1 y 2. Criterios para la toma de decisiones)"
-    },
-    {
-      "question": "En el caso de los empresarios individuales, ¿cómo es su responsabilidad frente a terceros según la ley?",
-      "options": [
-        "Limitada únicamente al capital que ha aportado al negocio.",
-        "Personal e ilimitada, respondiendo con todos sus bienes.",
-        "Nula, ya que está amparado de manera subsidiaria y garantizada por el Estado.",
-        "Estará compartida a partes iguales con sus proveedores habituales."
+        "El número de empleados contratados",
+        "La responsabilidad frente a terceros",
+        "La ubicación de la sede social",
+        "La fecha de inicio de actividades"
       ],
       "correctAnswer": 1,
-      "explanation": "La responsabilidad de un empresario individual es personal e ilimitada frente a terceros. (Fuente: Sección 3. El empresario individual)"
+      "explanation": "La responsabilidad frente a terceros es determinante según el tipo de actividad y riesgos, pudiendo optar por sociedades con responsabilidad acotada. (Fuente: Página 5, Sección: 2. La persona jurídica y sus formas. Criterios para la toma de decisiones)"
     },
     {
-      "question": "¿Cuál de las siguientes organizaciones se considera una Sociedad mercantilista Personalista?",
+      "question": "¿En qué régimen de la Seguridad Social debe afiliarse un empresario individual?",
       "options": [
-        "Sociedad Anónima.",
-        "Sociedad Limitada Nueva Empresa.",
-        "Sociedad Colectiva.",
-        "Sociedad Cooperativa."
-      ],
-      "correctAnswer": 2,
-      "explanation": "La Sociedad Colectiva es una sociedad mercantil personalista que descansa en la comunidad de trabajo. (Fuente: Sección 4. Clasificación de los diferentes tipos de sociedades)"
-    },
-    {
-      "question": "¿Cuál es el capital social mínimo necesario para constituir una Sociedad de Responsabilidad Limitada estándar (sin los mecanismos de 1€ de mínimos legales excepcionalmente)?",
-      "options": [
-        "60.000 €.",
-        "1.000 €.",
-        "No existe capital mínimo fijado por la norma.",
-        "3.000 €."
-      ],
-      "correctAnswer": 3,
-      "explanation": "Para la Sociedad de Responsabilidad Limitada el capital social mínimo es de 3.000 €. (Fuente: Sección 4. Clasificación de los diferentes tipos de sociedades)"
-    },
-    {
-      "question": "Según el texto, ¿qué característica principal tiene el empresario individual con respecto a los beneficios que la empresa genera?",
-      "options": [
-        "Percibe todos los beneficios, además de hacer la aportación total en forma de trabajo y capital.",
-        "Debe repartirlos legalmente en un porcentaje fijado entre los empleados anualmente.",
-        "Debe tributar el 50% de ellos en el impuesto de sociedades obligatoriamente.",
-        "Los reparte conforme a la proporción en que sus socios limitados hayan invertido."
-      ],
-      "correctAnswer": 0,
-      "explanation": "El empresario individual hace la aportación de su trabajo y capital y percibe todos los beneficios del negocio. (Fuente: Sección 3. El empresario individual)"
-    },
-    {
-      "question": "¿A qué régimen de la Seguridad Social debe afiliarse un empresario individual para comenzar su actividad?",
-      "options": [
-        "Régimen General de Trabajadores Asalariados.",
-        "Régimen de Autónomos.",
-        "Régimen Especial de la Minería y Carbón.",
-        "A un seguro privado obligatorio en sustitución temporal del Estado."
+        "Régimen General",
+        "Régimen de Autónomos",
+        "Régimen Especial de Minería",
+        "Régimen de Cooperativistas"
       ],
       "correctAnswer": 1,
-      "explanation": "El régimen de seguridad social al que tiene que afiliarse el empresario individual es el de Autónomos. (Fuente: Sección 3. El empresario individual)"
+      "explanation": "El empresario individual debe afiliarse al régimen de seguridad social de Autónomos. (Fuente: Página 6, Sección: 3. El empresario individual)"
     },
     {
-      "question": "¿Qué normativa rige principalmente las sociedades mercantilistas personalistas en materia mercantil?",
+      "question": "¿Cuál es el capital social mínimo para constituir una Sociedad Anónima?",
       "options": [
-        "El Código de Comercio.",
-        "El Estatuto de los Trabajadores en exclusividad.",
-        "La Ley Fundamental de Sociedades de base tecnológica.",
-        "La Constitución Española únicamente, sin requerir estatutos privados."
+        "3.000 €",
+        "12.000 €",
+        "60.000 €",
+        "100.000 €"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Sociedad Anónima requiere un capital social mínimo de 60.000 €, siendo común para actividades que necesitan grandes aportaciones. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)"
+    },
+    {
+      "question": "¿Qué elemento identifica a la empresa a efectos del Registro Mercantil y del tráfico jurídico?",
+      "options": [
+        "La Razón o denominación social",
+        "El logotipo comercial",
+        "El eslogan publicitario",
+        "El nombre de fantasía"
       ],
       "correctAnswer": 0,
-      "explanation": "Las sociedades mercantilistas personalistas se rigen por el Código de Comercio. (Fuente: Sección 4. Criterios para los diferentes tipos de sociedades)"
+      "explanation": "La razón o denominación social es el nombre e identificación de la empresa para efectos del Registro Mercantil y tráfico jurídico. (Fuente: Página 9, Sección: 6. Identificación de la empresa. Denominación, logotipos y anagramas)"
     },
     {
-      "question": "En una Sociedad Comanditaria, ¿qué rasgo distintivo posee el socio capitalista respecto al resto?",
+      "question": "En el ámbito de la identificación de productos, ¿qué es un producto según la visión actual?",
       "options": [
-        "El capitalista asume todo el control de forma exclusiva si existen deudas a corto plazo.",
-        "El socio comanditario asume una responsabilidad ilimitada pero personal obligatoriamente.",
-        "No interviene activamente en la gestión de la empresa; su fin es obtener recursos financieros.",
-        "Tiene que ser de forma estricta una persona jurídica constituida como cooperativa."
+        "Exclusivamente bienes físicamente tangibles",
+        "Solo aquellos bienes que se pueden inventariar",
+        "Cualquier material o bienes inmateriales que satisfagan necesidades",
+        "Únicamente servicios prestados por personas físicas"
       ],
       "correctAnswer": 2,
-      "explanation": "En la Sociedad Comanditaria, el fin es la obtención de recursos financieros y el socio capitalista no interviene en su gestión. (Fuente: Sección 4. Clasificación de las sociedades)"
+      "explanation": "Actualmente se denomina producto a cualquier material o bienes inmateriales que satisfagan las necesidades del consumidor, incluyendo servicios o ideas. (Fuente: Página 10, Sección: 7. Identificación de los productos y servicios)"
     },
     {
-      "question": "¿Cuál de las siguientes formas se clasifica como una 'sociedad no mercantil' regulada por el Código Civil?",
+      "question": "¿Dónde debe realizarse el registro de marcas y patentes en España?",
       "options": [
-        "Sociedad Anónima.",
-        "Comunidad de Bienes.",
-        "Sociedad Limitada.",
-        "Sociedad Comanditaria por acciones."
+        "En el Registro Civil",
+        "En el Ayuntamiento de la localidad",
+        "En el Registro de la Propiedad Inmobiliaria",
+        "En la Oficina Española de Patentes y Marcas (OEPM)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El registro tanto de marcas como de patentes ha de hacerse en la Oficina Española de Patentes y Marcas (OEPM). (Fuente: Página 10, Sección: 8. Marcas. Utilidad y estrategias de utilización)"
+    },
+    {
+      "question": "¿Cómo se denomina la estrategia donde una empresa utiliza una imagen diferente para cada uno de sus productos?",
+      "options": [
+        "Estrategia de marca única",
+        "Estrategia de marca individual",
+        "Estrategia de marca blanca",
+        "Estrategia de marca ajena"
       ],
       "correctAnswer": 1,
-      "explanation": "La Comunidad de Bienes se fundamenta en un contrato por el que una propiedad pertenece de forma indivisa a varias personas de forma no mercantil, regulada por el Código Civil. (Fuente: Sección 4. Sociedades no mercantiles)"
+      "explanation": "La estrategia de marca individual ocurre cuando una empresa crea una imagen diferente para cada uno de los productos de su marca. (Fuente: Página 11, Sección: 8. Marcas. Utilidad y estrategias de utilización)"
     },
     {
-      "question": "¿Cúal es el abultado capital mínimo para constituir legalmente una Sociedad Anónima?",
+      "question": "¿Cuál es la principal ventaja de situar una empresa en una zona tematizada o parque tecnológico?",
       "options": [
-        "3.000 €.",
-        "10.000 €.",
-        "30.000 €.",
-        "60.000 €."
-      ],
-      "correctAnswer": 3,
-      "explanation": "La Sociedad Anónima necesita un alto capital para constituirse, fijándose el capital social mínimo en 60.000 €. (Fuente: Sección 4. Las sociedades empresariales)"
-    },
-    {
-      "question": "¿En qué consisten de base y qué permiten las Sociedades Laborales y las Cooperativas según el manual general?",
-      "options": [
-        "Son sociedades restringidas a personal público y reservadas a su subcontratación.",
-        "Su principal foco se centra en la exclusión de personal administrativo societario.",
-        "Permiten y facilitan el acceso directo de los trabajadores de la entidad a los medios de producción.",
-        "Están prohibidas para pymes porque elevan mucho los tramos de gastos fijos."
+        "Evitar el pago de impuestos locales",
+        "La ausencia de competencia directa",
+        "Beneficiarse de las sinergias al estar cerca de otras empresas del sector",
+        "La obligación de contratar solo mano de obra local"
       ],
       "correctAnswer": 2,
-      "explanation": "Las Sociedades Laborales y Cooperativas permiten y facilitan el acceso de los trabajadores a los medios de producción. (Fuente: Sección 4. Sociedades Laborales y Cooperativas)"
+      "explanation": "Situar la empresa en zonas tematizadas permite beneficiarse de las sinergias de estar cerca de otras empresas del sector. (Fuente: Página 14, Sección: 12. Búsqueda y selección de lugares)"
     },
     {
-      "question": "¿Cuál es la finalidad básica de la razón o denominación social en una empresa societaria?",
+      "question": "¿Qué zonas forman habitualmente las tres secciones principales de un almacén?",
       "options": [
-        "Servir como nombre e identificación a efectos del propio Registro Mercantil y del tráfico jurídico.",
-        "Funcionar exclusivamente como un lema comunicacional en los medios visuales y redes sociales.",
-        "Acreditar el código de barras y uso local en etiquetados puramente tangibles.",
-        "Es el identificador que nombra de manera individual únicamente al contable y administrador mayor."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La denominación social es la identificación de la empresa (con forma jurídica de sociedad) a efectos del Registro Mercantil y del tráfico jurídico. (Fuente: Sección 6. Identificación de la empresa)"
-    },
-    {
-      "question": "A nivel práctico e inicial, ¿qué diferencia destacable hay entre el uso de la denominación social y un 'nombre comercial'?",
-      "options": [
-        "El nombre comercial tiene un registro temporal de tres meses obligatorio antes de emplearse.",
-        "La denominación social no requiere aparecer en los diferentes estatutos fundacionales.",
-        "El nombre comercial puede emplearse inicialmente y recabar protección sin necesitar la previa inscripción registral desde el día uno.",
-        "El nombre comercial es exclusivo solo en caso de que todo socio sea un trabajador de la planta industrial."
-      ],
-      "correctAnswer": 2,
-      "explanation": "A diferencia de la inscripción estatutaria firme (denominación), el nombre comercial puede usarse sin la previa inscripción obteniendo inicialmente cierta protección judicial si ocurren controversias. (Fuente: Sección 6. Nombre comercial)"
-    },
-    {
-      "question": "¿Cómo define el documento didáctico el término 'logotipo'?",
-      "options": [
-        "Una clave temporal legal que las empresas entregan obligatoriamente con el embalaje.",
-        "Un compendio de documentación registral sobre nombres e identificación financiera confidencial.",
-        "El manual detallado de la normativa urbanística que avala que una tienda es abierta y operadora.",
-        "Un diseño gráfico que representa la imagen corporativa y la identidad visual de forma sencilla para captar atención."
-      ],
-      "correctAnswer": 3,
-      "explanation": "El logotipo es un diseño gráfico que representa la imagen corporativa y cuyo fin es ser sencillo y versátil para ser fácilmente recordado frente a competidores. (Fuente: Sección 6. Logotipo y anagramas)"
-    },
-    {
-      "question": "¿Qué figura corresponde un 'anagrama' utilizado para la imagen de marca organizativa?",
-      "options": [
-        "Es un balance contable abreviado donde figuran las pérdidas y los ratios de ventas diarios.",
-        "Un símbolo o emblema, a menudo conformado por letras con las que se crea una nueva palabra fácilmente legible y vinculable.",
-        "Un acta enmendada que aprueba el cambio oficial del consejo directivo en sociedades laborales amplias.",
-        "Se trata de los bienes puramente materiales que componen los productos básicos tangibles de una cadena moderna."
+        "Ventas, Marketing y Dirección",
+        "Recepción, Almacenamiento y Expediciones",
+        "Producción, Empaquetado y Calidad",
+        "Atención al cliente, Logística y Finanzas"
       ],
       "correctAnswer": 1,
-      "explanation": "El anagrama se refiere a un símbolo, constituido por letras creando una nueva palabra leíble, que actúa a menudo como imagen de marca de la empresa asociándola a servicios. (Fuente: Sección 6. Logotipo y anagramas)"
+      "explanation": "Las seis secciones de un almacén suelen agruparse en tres zonas: recepción, almacenamiento y expediciones. (Fuente: Página 15, Sección: 13. Distribución interna de espacios)"
     },
     {
-      "question": "Actualmente, en relación con la identificación empresarial, se denomina 'producto' moderno a:",
+      "question": "¿Qué normativa rige al empresario individual en materia de derechos y obligaciones?",
       "options": [
-        "Única y exclusivamente los bienes palpables con forma física y sujeta a logística volumétrica simple.",
-        "Cualquier bien tangible o inmaterial (como servicios, aplicaciones e ideas) destinado a satisfacer necesidades del consumidor.",
-        "Solo al personal o empleados cualificados que conforman las partes vitales de sociedades cooperativas grandes.",
-        "Al documento base que se entrega en caso de traspaso societario a terceras personas implicadas en un comercio local autónomo."
+        "El Estatuto de los Trabajadores",
+        "La Ley de Propiedad Intelectual",
+        "El Código Civil",
+        "El Derecho Administrativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El empresario individual se rige por el Código de Comercio en materia mercantil y el Código Civil en materia de derechos y obligaciones. (Fuente: Página 6, Sección: 3. El empresario individual)"
+    },
+    {
+      "question": "¿Cuál es el capital social mínimo general para una Sociedad de Responsabilidad Limitada?",
+      "options": [
+        "500 €",
+        "1.500 €",
+        "3.000 €",
+        "60.000 €"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El capital social mínimo para una Sociedad de Responsabilidad Limitada son 3.000 €. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)"
+    },
+    {
+      "question": "¿Qué es un anagrama según el texto?",
+      "options": [
+        "Un contrato de alquiler de marca",
+        "Un símbolo constituido por letras que crea una palabra que se lee como tal",
+        "El nombre legal inscrito en el Registro Mercantil",
+        "La dirección física de la oficina central"
       ],
       "correctAnswer": 1,
-      "explanation": "Actualmente, se denomina producto a bienes tangibles e inmateriales o cualquier material que satisfaga las necesidades del consumidor (todo tipo de servicios, ideas, plataformas). (Fuente: Sección 7. Identificación de los productos)"
+      "explanation": "El anagrama se refiere a un símbolo o emblema constituido por letras con las que se crea una nueva palabra que se lee como tal. (Fuente: Página 9, Sección: 6. Identificación de la empresa. Denominación, logotipos y anagramas)"
     },
     {
-      "question": "¿Cuál de las características siguientes particulariza a un 'servicio' tal y como se concibe en los ejemplos dados (como peluquería o taxi)?",
+      "question": "¿Qué característica define a la Sociedad Colectiva?",
       "options": [
-        "La producción del mismo y su consumo a cargo del cliente tienen lugar prácticamente de manera simultánea.",
-        "Sus componentes siempre resultarán cien por ciento almacenables para periodos de escasez global sostenida.",
-        "Carecen totalmente de personas físicas, debiendo dispensarlos automáticamente las plataformas digitales o computadoras puras en remoto.",
-        "Debe contar, frente a un producto físico, de una denominación especial ajena autorizada previo pago extra en la patente de registro civil unificada obligatoria centralizada europea."
-      ],
-      "correctAnswer": 0,
-      "explanation": "En un servicio la producción y el consumo tienen lugar al mismo tiempo (como un viaje en taxi o un corte de pelo). (Fuente: Sección 7. Identificación de los servicios modernos)"
-    },
-    {
-      "question": "¿Qué entidad oficial gestiona los procedimientos de registro de marcas y nombres comerciales para su identificación blindada en España?",
-      "options": [
-        "El Centro Superior de Investigaciones Sociológicas (CSIS).",
-        "El Registro Único de Sociedades Limitadas Europeas de Base (RUSEB).",
-        "El Instituto de Fomento Autónomo Estatal Financiero de Empresas Nacionalizadas Grandes en Activo (IFAEFENGA).",
-        "La Oficina Española de Patentes y Marcas (OEPM)."
-      ],
-      "correctAnswer": 3,
-      "explanation": "El registro tanto de marcas como de patentes ha de hacerse en la Oficina Española de Patentes y Marcas. (Fuente: Sección 8. Marcas. Utilidad y estrategias)"
-    },
-    {
-      "question": "Se conoce como 'Estrategia multimarca' a aquella situación particular organizativa en que:",
-      "options": [
-        "Todos los productos son agrupados forzosamente con el nombre exacto de un solo fundador originario del mercado laboral de sus abuelos pioneros mercantiles antedecentes primitivos locales de Madrid o Barcelona capital.",
-        "Cada tipo de producto puede tener asignadas varias marcas distintas diversificándolas para diversos gustos (como ocurre con Unilever).",
-        "La compañía compra masivamente stock ajeno y anula legalmente en juzgado marcas de toda su competencia regional menor próxima que la amenazan y estorban en mercado regional cercano perjudicial de manera veloz de modo definitivo absoluto total completo entero final.",
-        "Una empresa permite ceder toda la patente en exclusividad total irrevocable al estado para conseguir subvenciones fiscales automáticas del 90% obligatoriamente en toda circunstancia financiera empresarial corporativa global."
+        "Los socios tienen responsabilidad limitada al capital aportado",
+        "Es una organización que descansa en la comunidad de trabajo",
+        "No requiere inscripción en ningún registro",
+        "Solo puede estar formada por un socio"
       ],
       "correctAnswer": 1,
-      "explanation": "La estrategia multimarca se da cuando cada tipo de producto puede tener varias marcas. Ejemplo: Unilever con Magnum o Cornetto. (Fuente: Sección 8. Estrategia de utilización de la marca)"
+      "explanation": "La Sociedad Colectiva es una organización mercantil que descansa en la comunidad de trabajo, con responsabilidad ilimitada de los socios. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)"
     },
     {
-      "question": "Cuando una organización utiliza exactamente la misma denominación marcaria para todos y cada uno de sus productos con el fin de ahorrar intensamente en publicidad general, emplea una:",
+      "question": "Un factor que determina la localización de la empresa relacionado con el transporte es:",
       "options": [
-        "Estrategia de marcas ajenas pagadas.",
-        "Línea de producción cooperativa delegada en partes.",
-        "Estrategia de marca única global.",
-        "Sistema de etiquetado comercial ilimitado subsidiario de apoyo general de un consorcio de mercado masivo europeo genérico integral unificado múltiple secundario lateral derivado cruzado directo subordinado."
-      ],
-      "correctAnswer": 2,
-      "explanation": "La estrategia de marca única se produce cuando todos los productos están bajo la misma marca, aprovechando el reconocimiento y rebajando el gasto publicitario y logístico para dar a conocer cada referencia nueva corporativa. (Fuente: Secciones 8 y 9. Estrategia de marca y Marca única)"
-    },
-    {
-      "question": "¿Qué propósito funcional sustenta una empresa que lanza al mercado las denominadas 'segundas marcas'?",
-      "options": [
-        "Eliminar de forma fraudulenta copias genéricas vendidas a un segmento de gama más alta que su propio modelo principal de lujo.",
-        "Introducir una variante paralela marcada distintivamente buscando atrapar o captar otro segmento definido de consumidores adicionales de perfil secundario distinto diferente.",
-        "Destruir toda marca externa y que las leyes obliguen que todo competidor ceda las ganancias en parte proporcional equivalente de beneficios tangibles de sus ganancias mensuales netas totales globales.",
-        "Conseguir monopolios de producción anulando distribuidores logísticos internos obligando al despido de personal de venta publicitario."
+        "La fiscalidad del IRPF",
+        "La infraestructura y comunicaciones",
+        "El logotipo de la empresa",
+        "El capital social inicial"
       ],
       "correctAnswer": 1,
-      "explanation": "Las segundas marcas se introducen como nueva marca para diferenciarlas de la principal con el objetivo de captar otro segmento complementario o alternativo en el mercado. (Fuente: Sección 9. Diferenciar usos marcaríos)"
+      "explanation": "Las comunicaciones son importantes para el acceso de clientes, proveedores y distribuidores, afectando costes de transporte. (Fuente: Página 13, Sección: 11. Localización de la empresa. Factores que determinan su localización)"
     },
     {
-      "question": "¿De qué mecanismo representativo provienen y funcionan a menudo de ejemplo las denominadas 'Marcas ajenas' por las que una entidad debe liquidar o pagar usos, licencias y royalties monetarios directos frecuentes habituales recurrentes?",
+      "question": "¿Cuál de las siguientes es una característica del empresario individual?",
       "options": [
-        "Herencias testamentarias limitadas cedidas.",
-        "Registros notariales caducados o prescritos y liberados por ley mercantil regional obsoleta.",
-        "Subvenciones de marcas blancas europeas únicas estatales obligatorias impuestas.",
-        "Las franquicias que abonan un importe en calidad de alquiler, canon periódico o pago reglado de manera continua."
+        "Responsabilidad limitada al capital aportado",
+        "Necesidad de un capital mínimo de 3.000 €",
+        "Responsabilidad personal e ilimitada frente a terceros",
+        "Obligatoriedad de inscribirse en el Registro Mercantil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el caso del empresario individual, la responsabilidad es personal e ilimitada frente a terceros. (Fuente: Página 6, Sección: 3. El empresario individual)"
+    },
+    {
+      "question": "¿Qué son las 'Marcas Blancas'?",
+      "options": [
+        "Marcas de lujo con alto precio",
+        "Marcas utilizadas por grandes superficies para abaratar costes",
+        "Marcas que no están registradas en la OEPM",
+        "Marcas que solo venden servicios informáticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las marcas blancas las utilizan las grandes superficies para abaratar costes y diferenciarse, aunque los productos sean de otros fabricantes. (Fuente: Página 12, Sección: 9. Creación y establecimiento de marcas propias. Utilización de marcas ajenas)"
+    },
+    {
+      "question": "¿Qué entidad ofrece mapeos y directorios de polígonos industriales para ayudar en la localización empresarial?",
+      "options": [
+        "La Agencia Tributaria",
+        "Las Cámaras de Comercio",
+        "La Seguridad Social",
+        "El Registro de la Propiedad Industrial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las Cámaras de Comercio cuentan con mapeos, directorios e información de los distintos polígonos y zonas industriales. (Fuente: Página 14, Sección: 12. Búsqueda y selección de lugares)"
+    },
+    {
+      "question": "¿Cuál de estas formas jurídicas NO es una Sociedad de Capital?",
+      "options": [
+        "Sociedad Limitada",
+        "Sociedad Anónima",
+        "Sociedad Colectiva",
+        "Sociedad Limitada Nueva Empresa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Sociedad Colectiva se clasifica como Sociedad Personalista, no de Capital. (Fuente: Página 5, Sección: 2. La persona jurídica y sus formas. Criterios para la toma de decisiones)"
+    },
+    {
+      "question": "¿Qué es la Comunidad de Bienes?",
+      "options": [
+        "Una sociedad mercantil con capital mínimo",
+        "Un contrato donde una propiedad pertenece de forma indivisa a varias personas",
+        "Una organización regulada exclusivamente por el Código de Comercio",
+        "Una sociedad que limita siempre la responsabilidad de los comuneros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Comunidad de Bienes se fundamenta en un contrato por el que una propiedad o derecho pertenece de forma indivisa a varias personas. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)"
+    },
+    {
+      "question": "¿Qué caracteriza a una franquicia en relación con las marcas?",
+      "options": [
+        "Es la creación de una marca blanca",
+        "Es un ejemplo de utilización de marca ajena mediante pago de canon",
+        "Es una estrategia de marca única obligatoria",
+        "Es el registro de un logotipo en la OEPM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las franquicias constituyen un ejemplo de utilización de marca ajena mediante el pago de un alquiler o canon por uso. (Fuente: Página 12, Sección: 9. Creación y establecimiento de marcas propias. Utilización de marcas ajenas)"
+    },
+    {
+      "question": "¿Quiénes tienen prohibido por ley ejercer como empresarios individuales?",
+      "options": [
+        "Los menores emancipados",
+        "Los graduados en administración de empresas",
+        "Magistrados, jueces y militares",
+        "Personas extranjeras residentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La legislación impide esta forma jurídica a personas en cargos como magistrados, jueces, fiscales, militares o sacerdotes. (Fuente: Página 6, Sección: 3. El empresario individual)"
+    },
+    {
+      "question": "En el diseño de espacios de trabajo, ¿qué factor NO es mencionado como obligatorio a tener en cuenta?",
+      "options": [
+        "Normativa de cada sector empresarial",
+        "Legislación en prevención de riesgos laborales",
+        "Normativa de salud laboral",
+        "Color de las paredes según el marketing"
       ],
       "correctAnswer": 3,
-      "explanation": "Pagando un canon o alquiler se pueden usar marcas ajenas y un ejemplo clave de uso son los modelos estandarizados de negocio en régimen de franquicia pactada abonando los usos al dueño titular original licenciado del mismo modelo establecido de su marca ajena matriz de la que dependen. (Fuente: Sección 9. Utilización de marcas ajenas)"
+      "explanation": "Se debe considerar la normativa del sector, la prevención de riesgos y la salud laboral, no se menciona el color por marketing como norma legal. (Fuente: Página 15, Sección: 13. Distribución interna de espacios)"
     },
     {
-      "question": "¿Qué factor crítico influye de manera determinante en la localización del establecimiento físico de una entidad de fabricación cuando hablamos del bloque de 'Infraestructuras y comunicaciones de red y viabilidad de transporte global de mercancías materiales necesarias'? ",
+      "question": "¿A qué se refiere el término 'Régimen Fiscal' como criterio de elección?",
       "options": [
-        "La dificultad o insuficiencia de los accesos logísticos a la fábrica incrementarán los costes generados relativos al transporte y aprovisionamiento ineficiente de distribuidores proveedores y flotas.",
-        "Producirá una nulidad total de todos los procesos administrativos contables a menos de 10 kilómetros por incompatibilidad civil absoluta y nula.",
-        "Que siempre por norma debe exigirse que el edificio disponga obligatoriamente de fibra óptica subvencionada centralizada a costa entera del consorcio europeo logístico empresarial para arrancar.",
-        "Que limitan la inscripción oficial corporativa si las puertas del almacén y zonas periféricas no disponen legalmente un tamaño concreto exigido por la marca blanca y delegada de cooperativa rural."
+        "Al número de socios fundadores",
+        "A la tributación en el Impuesto de Sociedades o IRPF",
+        "Al coste de la escritura notarial",
+        "Al registro del nombre comercial"
       ],
-      "correctAnswer": 0,
-      "explanation": "El factor infraestructuras y comunicaciones es crítico debido a que las dificultades físicas de acceso en vías o viabilidad del área aumentarán el precio y el coste derivado y final correspondiente en materia relativa al puro transporte en redes logísticas necesarias en operaciones regulares. (Fuente: Sección 11. Factores para la localización)"
+      "correctAnswer": 1,
+      "explanation": "La tributación en el Impuesto de sociedades o en el IRPF es un factor determinante según la actividad. (Fuente: Página 5, Sección: 2. La persona jurídica y sus formas. Criterios para la toma de decisiones)"
     },
     {
-      "question": "¿En qué tipo de actividad es especialmente ventajoso localizar a la corporación situando instalaciones productivas en la estrecha cercanía frente a centros y núcleos de tipo 'académico y de investigación científica'? ",
+      "question": "¿Qué ventaja principal ofrece el teletrabajo para las empresas según el texto?",
       "options": [
-        "En toda actividad comercial que requiera operarios puramente basando su conocimiento sin titulación y baja cualificación de forma casi mayoritaria para cobrar comisiones autonómicas bajas subsidiarias de forma muy exclusiva sin más variables de estudio avanzado innovador disruptivo.",
-        "Resulta enteramente inútil tal factor para pymes porque los centros cobran demasiados tributos fiscales en todos los sectores económicos del Código de Comercio vigente a fecha presente sin variables.",
-        "En sectores clasificados de alta y avanzada tecnología donde dicha proximidad en distancia fomenta o facilita de manera fundamental consultas en red y actividades cooperativas conjuntas dedicadas muy intensas de nivel en tareas de pura investigación más desarrollo (I+D).",
-        "En fábricas rurales agrícolas alejadas sin electrificación base que precisan manualidad absoluta y rehúyen la conectividad industrial para no distanciarse del comercio local menor rural simple artesano familiar antologizado puramente clásico y arcaico tradicional puro natural."
-      ],
-      "correctAnswer": 2,
-      "explanation": "La proximidad de emplazamiento a frente de un centro puntero de conocimientos empíricos de investigación se considera aspecto fundamental de cara a la consulta para actividades vinculantes a investigación avanzada. (Fuente: Sección 11. Proximidad a centros de investigación y ciencia)"
-    },
-    {
-      "question": "Aparte de los polígonos locales, si se comienza un desarrollo corporativo novedoso naciente: ¿Qué otro tipo de centro moderno brindará y ofrecerá un espacio adaptado en precio muy asequible para sus inicios contando con añadidos como soporte integral y ayuda en fase incipiente y primera fase inicial arranque?",
-      "options": [
-        "Las sociedades matriz comanditarias accionariales mayores de perfil multinacional de volumen alto obligatorias.",
-        "Cualquier base portuaria fronteriza aerocomercial masiva intercontinental reservada para mercancía y transporte naval estandarizado global logístico pesado.",
-        "Zonas incubadoras, viveros de nueva creación empresarial o aceleradoras con el fin o propósito de brindar soportes y la pertinente consultoría guiando los inicios complejos en toda su faceta.",
-        "Las sedes presenciales que controlan la tributación por IRPF fiscal del Registro Oficial Europeo general notarial judicial legal y que dan licencia obligatoria de forma temporal al empresario autónomo único regional periférico alejado satélite centralizado."
+        "Elimina la necesidad de registrar la marca",
+        "Reduce la responsabilidad ilimitada",
+        "Permite eliminar el espacio físico y vender en mercado global 24h (tiendas online)",
+        "Evita el cumplimiento del Código de Comercio"
       ],
       "correctAnswer": 2,
-      "explanation": "Al comenzar, una incubadora de empresa, aceleradora u organización a modo vivero permite dar soportes en modo consultoría, aportando un entorno para afianzar y dar un empuje e impulso desde el comienzo de empresa embrionaria naciente pequeña al inicio asumiendo un costo o precios limitados asequibles accesibles iniciales. (Fuente: Sección 12. Búsqueda y viveros en espacios aceleradores)"
+      "explanation": "Las tiendas online suponen un beneficio porque eliminan el espacio físico y permiten vender en un mercado global 24 horas. (Fuente: Página 14, Sección: 12. Búsqueda y selección de lugares)"
     },
     {
-      "question": "Con los cambios actuales y la evolución corporativa propiciada en pandemia de modo intensificado acelerado: ¿Cuál fue el factor determinante organizativo y adaptativo principal derivado e incentivado en materia laboral relacionado con la propia presencia física rutinaria clásica para todo empleado tipo?",
+      "question": "¿Qué sociedades permiten el acceso de los trabajadores a los medios de producción?",
       "options": [
-        "El aumento exponencial y generalizado de la metodología y del sistema productivo basado en el teletrabajo adaptado fomentando una movilidad global y un uso superior y frecuente del sistema formal en áreas informales para una total flexibilidad en ubicación física individual.",
-        "La desaparición absoluta obligada sin retorno en 100% de la existencia requerida o posible de oficinas e inhabilitación por vía de prohibición de sedes tangibles.",
-        "El aislamiento hermético permanente de tipo aséptico regulado como factor obligatorio impidiendo colaboraciones en línea o redes intra organizativas sectoriales logísticas cruzadas en centros mixtos privados cooperativizados generales sectorizados unificados cerrados.",
-        "La inhabilitación total o cancelación drástica definitiva referida al modo híbrido suprimiendo el concepto general asociado o adscrita figura en plantilla limitándolo como despido automático o improcedente directo masivo universal temporal fijo."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La pandemia introdujo y ha potenciado velozmente la movilidad propiciando intensos aumentos exponenciales, de uso del denominado factor clave: teletrabajo. Los empleados, gracias a flexibilidad son hoy mucho más nómadas o móviles e impulsan diseños versátiles que cubren una necesidad híbrida variopinta informal productiva en múltiples entornos remotos o zonas libres para trabajo asincrónico formal e informal. (Fuente: Sección 13. Entornos modernos)"
-    },
-    {
-      "question": "¿De qué modo suelen agruparse normalmente (dentro del interior de espacios configurando sus zonas departamentales) aquellas diversas secciones como son 'recepción', 'preparación de pedidos', o 'control logístico general de bultos' orientados esencialmente y conformando la globalidad del layout o estructura macro de un enorme almacén físico operativo?",
-      "options": [
-        "En zonas separadas relativas a dirección técnica general remota regional mayorista pública europea aduanera mercantil continental exterior.",
-        "Principalmente, la inmensa mayoría de ellas solo contemplarán áreas para un cobro automatizado en caja comercial con punto físico de venta (TPV) frontal sin lugar u otro tipo adaptado que soporte gran tránsito volumétrico interno ciego productivo oculto general global.",
-        "Estas seis diversas o varias subactividades son, por simplificación natural o por norma productiva global estándar de diseño y agrupación, típicamente conglomeradas en las tres zonas que integran: zona de recepción, el área de almacenamiento, y espacio general de expediciones del depósito.",
-        "Toda edificación quedará estructurada en tres subgrupos llamados por normativa civil: local en planta de recursos primarios, local secundario sin aforo y cámara oscura de registro contable unificado municipal temporal auxiliar provisional alterno rotatorio provisional periférico."
+        "Sociedades Comanditarias",
+        "Sociedades Civiles",
+        "Sociedades Laborales y Cooperativas",
+        "Sociedades de Responsabilidad Limitada"
       ],
       "correctAnswer": 2,
-      "explanation": "En diseño, la organización agrupa los 6 o diversos múltiples servicios para almacenaje u operativas que componen y dan sentido a todo almacén logístico productivo interior típicamente consolidándose a nivel funcional bajo solo un grupo de grandes áreas denominadas de forma principal zona o área en 3 frentes de modo clásico estándar funcional: área central de recepción general inicial previa fundamental preparatoria, la inmensa el área unificada del almacenamiento propio interno fijo permanente depositado interno general propio y la tercera gran sub zona funcional de gran trasiego salida y fluidez nombrada de frente como expediciones logísticas activas dinámica de destino periférico final del paquete externo del bien fabricado físico móvil tangencial último definitivo absoluto. (Fuente: Sección 13)"
+      "explanation": "Las sociedades laborales y cooperativas permiten y facilitan el acceso de los trabajadores a los medios de producción. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)"
     },
     {
-      "question": "En referencia con los lugares para instalar la sede (Búsqueda y selección). ¿Quiénes proveen de un abanico que agrupa directorios o brindan gran ayuda sobre parcelas de las variadas zonas de grandes áreas con calificación de polígonos locales en sus distintas redes?",
+      "question": "¿Cuál es la diferencia principal entre nombre y logotipo en una marca?",
       "options": [
-        "Juzgados de la Seguridad Social autonómica de aduanas perimetrales nacionales.",
-        "Colegios oficiales y notarios registradores mercantiles únicamente por ley de costas civiles generales unidas orgánicas estatales vigentes centralizadas unificadas exclusivas propias europeas regionales.",
-        "Las diferentes Cámaras de Comercio proveyendo mapas o documentos detallando polígonos variados corporativos empresariales industriales zonas variadas mixtas logísticas de las ciudades.",
-        "Centros y plataformas exclusivas y obligatorias de investigación universitarias estatales dedicadas de modo restringido a agricultura protegida por los juzgados del territorio nacional aduanero penal periférico mayor logístico portuario unificado central."
+        "El nombre es obligatorio y el logotipo no",
+        "El nombre es lo que se dice y el logotipo es el grafismo que se ve",
+        "El nombre se registra en el Registro Mercantil y el logo en el Civil",
+        "No existe diferencia, son términos sinónimos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la marca se diferencia el nombre (la parte que decimos) y el logotipo (la parte que vemos o grafismo). (Fuente: Página 10, Sección: 8. Marcas. Utilidad y estrategias de utilización)"
+    },
+    {
+      "question": "¿Qué es una Cooperativa de segundo grado?",
+      "options": [
+        "Aquella formada por un mínimo de 3 personas físicas",
+        "Aquella integrada por un mínimo de 2 personas jurídicas y cooperativas",
+        "Una sociedad que no necesita inscribirse en el Registro de Cooperativas",
+        "Aquella donde el capital mínimo son 60.000 €"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las cooperativas de segundo grado están integradas por cooperativas, con un mínimo de 2 personas jurídicas y cooperativas de cooperativas. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)"
+    },
+    {
+      "question": "¿Por qué es importante la proximidad a centros de investigación para empresas de alta tecnología?",
+      "options": [
+        "Para reducir el Impuesto de Sociedades",
+        "Para consultas, ayudas y actividades conjuntas de I+D",
+        "Para facilitar el acceso de transportes pesados",
+        "Para evitar el registro de patentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En sectores de alta tecnología, la proximidad a centros de investigación es fundamental para consultas y actividades conjuntas de I+D. (Fuente: Página 13, Sección: 11. Localización de la empresa. Factores que determinan su localización)"
+    },
+    {
+      "question": "¿Qué debe acompañar siempre a la Razón Social en los Estatutos?",
+      "options": [
+        "El logotipo a color",
+        "El mapa de localización del local",
+        "Las siglas del tipo societario (S.A., S.R.L., etc.)",
+        "La lista de todos los empleados"
       ],
       "correctAnswer": 2,
-      "explanation": "Existen directorios aportados y mapas facilitados de manera central a modo y cargo de cada Cámara de Comercio, facilitando una enorme fuente referida en cuanto a detalles respecto o relativos al entorno y zonas catalogadas con forma industrial orientada hacia locales áreas de emplazamientos logísticos urbanos que benefician decisiones o valoran variables clave de proximidad y factores determinantes del área ciudad núcleo urbanita perimetral urbana adscrita periférica central local unida. (Fuente: Sección 12. Listado para la ayuda formativa localizador territorial espacial corporativo logístico industrial geográfico urbanita perimetral periférico general del ayuntamiento y entorno comercial en núcleos de cámaras agrupables generalizadas asociativas variadas de tipo central corporativa)."
+      "explanation": "La denominación social se incluye en los Estatutos y se acompaña de las siglas del tipo societario (ej. S.A, S.R.L.). (Fuente: Página 9, Sección: 6. Identificación de la empresa. Denominación, logotipos y anagramas)"
     },
     {
-      "question": "¿A qué se deben adherir u obligatoriamente ajustar como factores restrictivos base normativos directos de limitación primordial inicial cuando una empresa efectúa la parte concreta referida del total referida del 'diseño de los nuevos espacios de organización interna e interior para trabajo y organización para los asalariados o trabajadores internos de plantilla'?",
+      "question": "¿Qué característica debe tener un logotipo efectivo según el texto?",
       "options": [
-        "Las modas estéticas en materia interiorista sugeridas mediante manualidad puramente sugerida a nivel particular local sin vincular formalidad oficial estatal de obligado mandato estricto real absoluto fijo material técnico físico normativo base ineludible legal administrativo en formato oficial perimetral arquitectónico global interno estático permanente total en norma y estipulado como marco estándar reglado fundamental exigido de tipo fijo de modo imperativo dictado legislado o legislativo imperativo de la nación oficial base marco rector.",
-        "Las opiniones de cada usuario particular en redes externas sobre la marca por un uso genérico referenciado.",
-        "Debe acoplarse y ajustarse solo al mínimo gasto que requiera todo equipamiento tecnológico sin tener nunca la importancia por el resto de confort interno personal logístico de prevención para humanos laborales empleados activos en sus puestos en las jornadas obligatorias formales o presenciales rutinarias largas del horario.",
-        "Resultan clave los factores condicionados y dictados imperativos que derivan con firmeza innegociables directamente desde el código normativo estricto del citado o correspondiente entorno de prevención normada de riesgos profesionales sectoriales relativos y anexos integrados del marco protector sobre temas y materias vitales prioritarias en la salud o estado general laboral protector integral de todo operario u ocupante de tales enclaves diseñados. "
+        "Debe ser complejo y con muchos colores",
+        "Sencillo, fácil de recordar y versátil",
+        "Debe incluir obligatoriamente el CIF de la empresa",
+        "No debe poder reproducirse en formato digital"
       ],
-      "correctAnswer": 3,
-      "explanation": "El diseño viene marcado y ajustado según el plan de prevención frente a riesgos exigidos en tema marco de normativas sectoriales protectoras o de orden sobre base base oficial regulando así materias sobre o para de salud a nivel profesional en el puesto formal diseñado. (Fuente: Sección 13. Diseño, distribución para los distintos niveles de áreas internas y espacios adaptables al operario)."
-    },
-    {
-      "question": "¿En el proceso general referido e implementado legalmente del complejo esquema societario y desarrollo general para constitución o la parte vinculada de formación para empresas con forma Limitada (Sociedad limitada/S.R.L.), puede o es posible bajo régimen legal vigente llegar a iniciar actividades comerciales con base mínima simbólica excepcional con excepciones de apenas '1 euro' al suscribirse?",
-      "options": [
-        "Será un acto nulo considerándose delito contra todos socios adscritos iniciales inversores fundadores y bloqueado temporalmente su fondo monetario oficial principal original patrimonial inicial de su sede general autonómica bancaria nacional unificada y central administrada controlada auditada fiscalizada global de forma penal económica fiscal europea rígida ineludible forzosa legal notarial judicial.",
-        "Sí es posible hacerlo, eximiendo también e incluso definitivamente o de modo infinito para y a los miembros constituyentes fundadores y partícipes solidarios presentes y de modo futuro sobre de la consiguiente y futura necesaria y clásica conformación vinculada relacionada referida para el marco referencial normal para el citado montante general global por la adscripción y norma por su constitución originaria de su registro fundamental ordinario estándar del estado global total.",
-        "No, porque la única y enésima directiva marca como cuota y límite fundamental general innegociable a nivel comunitario europeo y nacional como rango estándar sin cualquier flexibilización el fijo mínimo legal absoluto infranqueable inviolable para la SL en los 60.000 € completos fijos estrictos de forma total íntegros al banco estatal del modo notarial absoluto ciego férreo dogmático e irrevocable general único y definitivo sin ninguna posible e imaginable excepción flexible aplicable al caso español propio vigente general del estado local central europeo de modo inicial primario directo al formar sede.",
-        "Sí lo posibilitaría con la exigencia que la corporación asuma su reserva legal mediante el importe de los beneficios que genere gradualmente obligando a dotarlo solidariamente si existe liquidaciones en defecto hasta llegar de nuevo al rango base fundacional real mínimo oficial garantizando que un mínimo para responder sea por su rango en 3.000€ mínimos. (Las SL y la ley capital norma base mínima o excepcional inicial 1€ para dotar luego la cifra fijada)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Para conformar y levantar la forma denominada S.L. permite una opción y variante que requiere e inicia un mínimo en la capital con 1€ para casos muy contados pero a través de reglas, asumiendo destinar a la citada figura fondo o figura denominada tipo reserva base y una cuota responsabilidad que en conjunto por sus creadores obligan a asumir de modo final de forma general o por deudas y a que sus adscritos garanticen si la empresa falla frente a la quita y déficit respondan o se cubra con sus figuras garantizando los de 3.000 € oficiales finales marcando la cifra tope base general y común final (Fuente: Sección 5 del manual)"
+      "correctAnswer": 1,
+      "explanation": "El logotipo debe ser sencillo y fácil de recordar, captar la atención y ser versátil para cualquier formato. (Fuente: Página 9, Sección: 6. Identificación de la empresa. Denominación, logotipos y anagramas)"
     }
   ]
 }

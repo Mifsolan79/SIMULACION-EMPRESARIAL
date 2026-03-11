@@ -1,335 +1,335 @@
 {
-  "title": "SIMULACIÓN EMPRESARIAL - TEMA 6: ORGANIZACIÓN INTERNA DE LA EMPRESA. ACTIVIDAD",
+  "title": "SIMULACIÓN EMPRESARIAL - TEMA 6: TRÁMITES DE CONSTITUCIÓN Y PUESTA EN MARCHA",
   "items": [
     {
       "question": "¿Cómo se define la organización empresarial?",
       "options": [
-        "Coordinación de recursos y gestión de actividades para conseguir objetivos.",
-        "Eliminación de jerarquías para trabajar sin ningún control corporativo.",
-        "Organización exclusiva de eventos sociales externos o fiestas anuales.",
-        "Proceso de pago de impuestos gubernamentales sin planificación."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La organización coordina recursos y actividades para los objetivos. (Sec 2)"
-    },
-    {
-      "question": "¿Qué integra el modelo organizacional formal?",
-      "options": [
-        "Relaciones espontáneas forjadas en periodos de descanso laboral.",
-        "Las actividades incluidas en el plan que regulan funciones y roles.",
-        "El estado anímico y cultural de los consumidores finales del producto.",
-        "Accionistas mayoritarios que residen en otro país sin intervención."
+        "Un conjunto de normas impuestas por la legislación vigente de forma externa.",
+        "La coordinación de recursos humanos y materiales, y la gestión de actividades para lograr objetivos.",
+        "La creación espontánea de relaciones personales entre los trabajadores de una oficina.",
+        "El proceso exclusivo de contratación y despido de personal en una entidad jurídica."
       ],
       "correctAnswer": 1,
-      "explanation": "El modelo formal regula funciones y establece departamentos. (Sec 2)"
+      "explanation": "La organización empresarial se define como la coordinación de recursos, tanto humanos como materiales, y la gestión de actividades para conseguir los objetivos marcados. (Fuente: Página 4, Sección: La organización empresarial y la actividad empresarial)"
     },
     {
       "question": "¿Qué caracteriza al modelo organizacional informal?",
       "options": [
-        "Está documentado por escrito y firmado ante notario público.",
-        "Impone sanciones económicas a los operarios mediante estatutos puros.",
-        "Está formado por comportamientos y relaciones que surgen de forma espontánea.",
-        "Regula únicamente el pago de horas extras de forma dogmática y rígida."
+        "Está recogido por escrito en los documentos formales de la empresa.",
+        "Regula las funciones y asigna los roles según el plan de empresa inicial.",
+        "Está formado por comportamientos y relaciones personales/profesionales espontáneas.",
+        "Es un modelo estático que no evoluciona una vez constituida la sociedad."
       ],
       "correctAnswer": 2,
-      "explanation": "El modelo informal es espontáneo, flexible y en continua evolución. (Sec 2)"
+      "explanation": "El modelo informal está formado por los comportamientos y las relaciones personales y profesionales que se producen de forma espontánea. (Fuente: Página 4, Sección: La organización empresarial y la actividad empresarial)"
     },
     {
-      "question": "Al referirnos a los objetivos empresariales, ¿en qué consisten los específicos?",
+      "question": "Un objetivo que se plantea para un plazo de entre 1 y 3 años se clasifica como:",
       "options": [
-        "Afectan a todo el mercado internacional ignorando la sede principal pura.",
-        "Se limitan a normativas obligatorias promulgadas por el Estado.",
-        "Son teóricos, etéreos, intangibles y no pueden medirse con datos concretos.",
-        "También se les llama meta, y concretan a los objetivos generales (ej. ventas)."
-      ],
-      "correctAnswer": 3,
-      "explanation": "Los objetivos específicos, o metas, concretan los generales. (Sec 3)"
-    },
-    {
-      "question": "Según el tiempo establecido para alcanzarlos, ¿cómo se definen los objetivos a corto plazo?",
-      "options": [
-        "Son aquellos que se fijan en un plazo menor a un año.",
-        "Están previstos para cumplirse entre 1 y 3 años con vistas amplias.",
-        "Abarcan quinquenios completos de trabajo operativo y rotatorio.",
-        "Son perpetuos e inamovibles a lo largo de toda la vida de la empresa."
-      ],
-      "correctAnswer": 0,
-      "explanation": "A corto plazo implica un plazo menor a 1 año. (Sec 3)"
-    },
-    {
-      "question": "¿Quiénes redactan los objetivos estratégicos en la empresa?",
-      "options": [
-        "Operarios de línea base para producción técnica automatizada y rotatoria.",
-        "Directivos, y afectan a cuestiones relevantes del futuro de la corporación.",
-        "Entidades gubernamentales para el pago exclusivo de tributos y aduanas.",
-        "Sindicatos foráneos o asociaciones vecinales puramente civiles."
+        "Objetivo a corto plazo.",
+        "Objetivo a medio plazo.",
+        "Objetivo a largo plazo.",
+        "Objetivo operativo."
       ],
       "correctAnswer": 1,
-      "explanation": "Los dictan los directivos y afectan al futuro. (Sec 3)"
+      "explanation": "Los objetivos a medio plazo son aquellos que se fijan para ser alcanzados entre 1 y 3 años. (Fuente: Página 5, Sección: Establecimiento de los objetivos empresariales)"
     },
     {
-      "question": "Si un objetivo busca posicionamiento o imagen corporativa, hablamos de objetivos:",
+      "question": "¿Qué tipo de estructura empresarial se caracteriza por ser piramidal con supervisión directa de cargos directivos?",
       "options": [
-        "Cuantitativos netamente.",
-        "Operativos básicos de línea manual o técnica superficial.",
-        "Cualitativos, que no se miden exclusivamente con cifras económicas.",
-        "Matemáticos y logarítmicos pasivos ciegos y legales fijos."
+        "Estructura Matricial.",
+        "Estructura Funcional.",
+        "Estructura Jerárquica.",
+        "Estructura Lineal o de staff."
       ],
       "correctAnswer": 2,
-      "explanation": "Los objetivos cualitativos persiguen mejor posicionamiento o imagen. (Sec 3)"
+      "explanation": "La estructura jerárquica tiene forma piramidal y los cargos directivos supervisan a personas que dependen de ellos. (Fuente: Página 4, Sección: Establecimiento de los objetivos empresariales)"
     },
     {
-      "question": "¿De qué tarea es responsable el área de Compras o aprovisionamientos?",
+      "question": "En la clasificación según el nivel de concreción, 'aumentar en un 10% las ventas' es un ejemplo de:",
       "options": [
-        "Asesorar financieramente la obtención de préstamos o créditos rápidos.",
-        "Contratar al personal que trabajará en mantenimiento y seguridad interna.",
-        "Procesar los deshechos rotatorios formales del almacén final de año.",
-        "Obtener materiales y servicios del exterior relacionándose con proveedores."
-      ],
-      "correctAnswer": 3,
-      "explanation": "Obtiene materiales del exterior interactuando con los proveedores. (Sec 4)"
-    },
-    {
-      "question": "La transformación de materias primas en bienes finales tiene lugar en el área de:",
-      "options": [
-        "Producción.",
-        "Dirección general de relaciones públicas u oficiales intercontinentales.",
-        "Administración formal legal de la red corporativa de base notarial.",
-        "Financiación pasiva regida burocráticamente y ciega rotatoria."
-      ],
-      "correctAnswer": 0,
-      "explanation": "En el área de Producción se transforman los productos. (Sec 4)"
-    },
-    {
-      "question": "¿Qué labores cotidianas cubre esencialmente el departamento de Administración?",
-      "options": [
-        "Transformar bienes ciegos y empaquetar de modo logístico cajas externas.",
-        "Dar soporte gestionando la contabilidad, la fiscalidad y los trámites.",
-        "Hacer de soporte y relación pública pasiva en conferencias de gerencia.",
-        "Establecer y definir estatutos asamblearios de forma ineludible o impuesta."
-      ],
-      "correctAnswer": 1,
-      "explanation": "Gestiona la contabilidad fiscalidad y el trámite como base. (Sec 4)"
-    },
-    {
-      "question": "En el diseño organizativo, ¿qué característica principal define a una estructura matricial?",
-      "options": [
-        "Asigna a todos los empleados un único jefe inamovible de por vida en planta.",
-        "Delega exclusivamente el diseño corporativo a consultorías internacionales ajenas.",
-        "Agrupa recursos y materiales temporales para llevar a cabo proyectos concretos.",
-        "Constituye una asamblea donde no existen directivos ni divisiones funcionales."
+        "Objetivo general.",
+        "Misión empresarial.",
+        "Objetivo específico o meta.",
+        "Visión estratégica."
       ],
       "correctAnswer": 2,
-      "explanation": "La estructura matricial agrupa recursos para proyectos concretos. (Sec 4)"
+      "explanation": "Los objetivos específicos o metas concretan los generales, como por ejemplo aumentar en un 10% las ventas. (Fuente: Página 4, Sección: Establecimiento de los objetivos empresariales)"
     },
     {
-      "question": "Si una empresa organiza formalmente su estructura según zonas geográficas o tipos de clientes, es una estructura:",
+      "question": "¿Cuál es la función principal del área de Administración?",
       "options": [
-        "Puramente burocrática estatal.",
-        "Matricial y asidua delegada.",
-        "Jerárquica base o piramidal.",
-        "Por división o de carácter divisional."
+        "Establecer los objetivos de la empresa y aplicar medios para alcanzarlos.",
+        "Transformar materias primas en productos acabados.",
+        "Realizar tareas de soporte como contabilidad, fiscalidad y trámites administrativos.",
+        "Buscar recursos financieros externos para la comercialización."
       ],
-      "correctAnswer": 3,
-      "explanation": "La estructura por división se organiza según línea de productos, clientes o zona. (Sec 4)"
+      "correctAnswer": 2,
+      "explanation": "El área de administración realiza tareas de soporte como contabilidad, fiscalidad y trámites administrativos. (Fuente: Página 5, Sección: Áreas funcionales y estructura organizativa)"
     },
     {
-      "question": "¿Qué es y de qué nos sirve el organigrama dentro de la corporación empresarial?",
+      "question": "¿Qué área funcional es responsable de la relación con los proveedores y la obtención de materiales externos?",
       "options": [
-        "Es la representación gráfica de áreas funcionales, funciones, relaciones y niveles de autoridad.",
-        "Es el acta oficial blindada de la asamblea anual general gubernamental rotatoria externa.",
-        "Resume las ganancias netas económicas y productivas del mercado nacional aduanero oficial.",
-        "Nombra puramente al delegado ciego logístico estatal exento puramente formal notarial."
+        "Compras o aprovisionamientos.",
+        "Área Financiera.",
+        "Área Comercial o ventas.",
+        "Dirección o gerencia."
       ],
       "correctAnswer": 0,
-      "explanation": "Un organigrama es la representación gráfica de las áreas, funciones y niveles de autoridad. (Sec 6)"
+      "explanation": "El área de compras u obtención de aprovisionamientos obtiene materiales y servicios del exterior relacionándose con proveedores. (Fuente: Página 5, Sección: Áreas funcionales y estructura organizativa)"
     },
     {
-      "question": "Para que el organigrama de la empresa sea útil y adecuado, se recomienda que cumpla la siguiente premisa:",
+      "question": "¿Qué representa gráficamente un organigrama?",
       "options": [
-        "Ser oculto, cifrado y enigmático para el exterior y competencia de la asamblea base ciega.",
-        "Ser claro, comprensible, recoger todas las áreas de red puramente y mostrar los niveles de autoridad.",
-        "Referir solo esferas ciegas no rotuladas nulas base informáticas de corte logístico técnico asiduo.",
-        "Asignar e identificar a toda la plantilla incluyendo temporaleros nulos fijos de subcontratos."
+        "La evolución de las ventas mensuales de la empresa.",
+        "La distribución física de las oficinas y maquinaria.",
+        "Las áreas funcionales, niveles de autoridad y canales de transmisión de información.",
+        "El balance de situación y la cuenta de pérdidas y ganancias."
       ],
-      "correctAnswer": 1,
-      "explanation": "Debe ser claro y recoger todas las áreas y niveles correspondientes. (Sec 6)"
+      "correctAnswer": 2,
+      "explanation": "Un organigrama es la representación gráfica de las áreas funcionales, niveles de autoridad y canales de transmisión de información. (Fuente: Página 7, Sección: Los organigramas)"
     },
     {
-      "question": "Según la clasificación por su extensión, los organigramas que muestran a toda la estructura de la empresa operando sin detallar pormenores unitarios son:",
+      "question": "Los organigramas que son muy detallados y recogen todas las unidades por pequeñas que sean se denominan:",
       "options": [
-        "De detalle analítico.",
-        "Verticales foráneos.",
+        "Informativos.",
+        "De análisis.",
         "Generales.",
-        "Ascendentes ciegos."
-      ],
-      "correctAnswer": 2,
-      "explanation": "Los organigramas generales de extensión muestran toda la estructura de forma general o no de detalle. (Sec 6)"
-    },
-    {
-      "question": "En el diseño de organigramas según su forma de representación, encontramos los organigramas horizontales, donde:",
-      "options": [
-        "Las unidades con mayor autoridad o jefatura se sitúan e ilustran en la parte inferior o base.",
-        "Toda línea jerárquica desaparece y se ordenan alfabéticamente los nombres del personal.",
-        "Se sitúan o ubican las unidades con más rango jerárquico y de mando en la parte superior.",
-        "Las unidades con mayor autoridad organizativa y jerarquía se representan a la izquierda."
-      ],
-      "correctAnswer": 3,
-      "explanation": "En el organigrama horizontal la mayor autoridad está a la izquierda. (Sec 6)"
-    },
-    {
-      "question": "Frente a la concepción tradicional del trabajador como coste, la gestión actual de RR.HH. concibe a los trabajadores como:",
-      "options": [
-        "Una inversión, donde la gestión en la empresa se centra fundamentalmente en competencias.",
-        "Un pasivo asiduo y fijo burocrático contable sin margen ni opción de mejora competencial.",
-        "Agentes externos foráneos delegados puros sin vínculo legal, oficial o formal con la red.",
-        "Sujetos prescindibles o de alta rotación obligatoria para el ahorro de cuotas y salarios."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La gestión de RRHH ha pasado a considerar al trabajador como una inversión en gestión de competencias. (Sec 7)"
-    },
-    {
-      "question": "Dentro de las competencias y funciones estratégicas, la política de retribución e incentivos se asocia a las acciones de:",
-      "options": [
-        "Inhabilitación operativa de la plantilla subalterna base de carácter cíclico regular reglado.",
-        "Estimulación de competencias, encaminadas a poder mantener y poder incrementar la motivación.",
-        "Sanción laboral ciega o disminución paulatina del sueldo base mínimo legal asambleario.",
-        "Apertura e iniciación en bolsa delegada rotatoria pasiva mediante puros fondos contables."
+        "Estructurales."
       ],
       "correctAnswer": 1,
-      "explanation": "La política de incentivos o retribución se clasifica en la estimulación de competencias para motivación. (Sec 7)"
+      "explanation": "Según su finalidad, los organigramas de análisis son muy detallados y recogen todas las unidades por pequeñas que sean. (Fuente: Página 7, Sección: Los organigramas)"
     },
     {
-      "question": "El principal propósito y objetivo general o fin formativo de una selección de personal en la empresa radica en:",
+      "question": "¿En qué tipo de organigrama, según su forma, las unidades con más autoridad se sitúan a la izquierda?",
       "options": [
-        "Sustituir automáticamente de modo regular al equipo base y al obrero con perfil antiguo o legal.",
-        "Descartar candidatos para economizar las nóminas basando su decisión puramente en los salarios.",
-        "Lograr la adecuación idónea de las características de la persona al requisito de un puesto a ocupar.",
-        "Inhabilitar las futuras inspecciones normativas mediante subcontratistas ciegos internacionales."
-      ],
-      "correctAnswer": 2,
-      "explanation": "En la selección de personal el objetivo consiste en adecuar características del candidato al puesto requerido. (Sec 8)"
-    },
-    {
-      "question": "Según la tabla de fuentes de reclutamiento laboral, el utilizar a u una la base el anuncio interno dentro en de a la referenciada en empresa conlleva que la opción:",
-      "options": [
-        "Resulte una fuente nula, prohibida forzosamente y vetada u opuesta en su uso oficial corporativo.",
-        "Sea el canal burocrático más pasivo riguroso notarial asiduo legal lento para incorporaciones.",
-        "Acabe en sanciones e inspecciones formales normativas si se trata puramente de sector pyme.",
-        "Es un método y recurso rápido por su claro efecto multiplicador, pero presenta o implica cierto alto riesgo por la general pura previsible posible presión e inherentes de de por al grupo de recomendaciones de la de plantilla o con a base."
+        "Verticales.",
+        "Circulares.",
+        "Mixtos.",
+        "Horizontales."
       ],
       "correctAnswer": 3,
-      "explanation": "El anuncio interno es rápido por efecto multiplicador pero tiene alto riesgo de de a o presiones puras con recomendaciones a u el del grupo. (Sec 8)"
+      "explanation": "En los organigramas horizontales, las unidades con más autoridad se representan a la izquierda. (Fuente: Página 7, Sección: Los organigramas)"
     },
     {
-      "question": "Entre los beneficios que supone para las empresas la formación continua de los trabajadores está:",
+      "question": "¿Qué concepción tiene la gestión actual de RR.HH. sobre el trabajador?",
       "options": [
-        "Reducir gastos en prevención y vigilancia de forma global nula.",
-        "Mejorar la cultura organizacional, aumentar innovación y reducir rotación del talento.",
-        "Aumentar la rotación de operarios forzando renuncias productivas.",
-        "Disminuir nóminas entregando diplomas teóricos anuales nulos."
+        "Se concibe como un coste derivado de la contratación.",
+        "Se concibe como una inversión y una gestión de competencias.",
+        "Se considera un elemento secundario frente a la tecnología.",
+        "Se ve exclusivamente como una obligación legal de la empresa."
       ],
       "correctAnswer": 1,
-      "explanation": "La formación disminuye rotación y mejora cultura, resultados e innovación. (Sec 9)"
+      "explanation": "Se ha pasado de la concepción tradicional del trabajador como coste a concebirlo como una inversión centrada en la gestión de competencias. (Fuente: Página 8, Sección: El departamento de personal)"
     },
     {
-      "question": "¿Qué función cumple la comunicación al exigir el cumplimiento de la política de atención al cliente?",
+      "question": "Dentro de las funciones estratégicas de RR.HH., la 'evaluación del rendimiento' pertenece a:",
       "options": [
-        "Función de control de comportamiento de los miembros.",
-        "Función de expresión emocional libre constructiva.",
-        "Función de motivación formativa horizontal.",
-        "Función de información consultiva estatal."
+        "La adquisición de competencias.",
+        "El desarrollo de las competencias.",
+        "La estimulación de competencias.",
+        "La descripción de puestos."
       ],
-      "correctAnswer": 0,
-      "explanation": "La comunicación efectúa la función de control de comportamiento y normas. (Sec 11)"
+      "correctAnswer": 2,
+      "explanation": "La estimulación de competencias incluye acciones para mantener la motivación, como la evaluación del rendimiento. (Fuente: Página 8, Sección: El departamento de personal)"
     },
     {
-      "question": "La comunicación que fluye desde un nivel superior transmitiendo mensajes y órdenes precisas hacia los subordinados es:",
+      "question": "¿Cuál es el objetivo principal de un proceso de selección de personal?",
       "options": [
-        "Comunicación horizontal asidua paritaria.",
-        "Comunicación divergente descentralizada cruzada.",
+        "Contratar al candidato con el salario más bajo posible.",
+        "Adecuar las características del candidato a los requisitos del puesto de trabajo.",
+        "Cumplir con las cuotas de género establecidas por la ley.",
+        "Sustituir automáticamente a los trabajadores que se jubilan."
+      ],
+      "correctAnswer": 1,
+      "explanation": "El objetivo consiste en la adecuación de las características de la persona candidata a los requisitos descritos para un puesto de trabajo. (Fuente: Página 9, Sección: Políticas de RRHH en la empresa)"
+    },
+    {
+      "question": "Sobre las fuentes de reclutamiento, ¿qué se dice de los portales de empleo y redes sociales?",
+      "options": [
+        "Son procesos lentos y burocráticos.",
+        "Tienen un alto riesgo por la presión de las recomendaciones.",
+        "Es la opción más utilizada en la actualidad (Linkedin, Infojobs...).",
+        "Son servicios gratuitos de intermediación pública exclusivamente."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los portales de empleo y redes sociales como Infojobs o Linkedin son la opción más utilizada en la actualidad. (Fuente: Página 9, Sección: Políticas de RRHH en la empresa)"
+    },
+    {
+      "question": "¿Cuál de los siguientes es un beneficio de la formación continua para la empresa?",
+      "options": [
+        "Aumento de la rotación de la plantilla.",
+        "Mejora de la cultura organizacional y aumento de la innovación.",
+        "Reducción de la inversión en activos fijos.",
+        "Eliminación total de los costes de seguridad social."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para las empresas, la formación aporta beneficios como mejorar la cultura organizacional y aumentar la innovación. (Fuente: Página 10, Sección: La formación en la empresa)"
+    },
+    {
+      "question": "¿Cuál es el primer paso recomendado en el diseño de un plan de formación?",
+      "options": [
+        "Diseño de la encuesta de satisfacción final.",
+        "Identificación o evaluación de las necesidades formativas.",
+        "Contratación de los profesores externos.",
+        "Elección de la plataforma online de formación."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un plan de formación debe comenzar con la evaluación de las necesidades formativas. (Fuente: Página 10, Sección: La formación en la empresa)"
+    },
+    {
+      "question": "¿Qué función de la comunicación se refiere al seguimiento de las políticas de la empresa y quejas?",
+      "options": [
+        "Función de expresión emocional.",
+        "Función de motivación.",
+        "Función de control.",
+        "Función de información."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La función de control se refiere al control del comportamiento pidiendo que se siga la política de la empresa o se comuniquen quejas. (Fuente: Página 11, Sección: La comunicación en la empresa)"
+    },
+    {
+      "question": "¿Qué dirección de comunicación se produce entre personas de un mismo rango?",
+      "options": [
+        "Comunicación ascendente.",
+        "Comunicación horizontal.",
         "Comunicación descendente.",
-        "Comunicación ascendente cíclica y periódica base."
-      ],
-      "correctAnswer": 2,
-      "explanation": "La comunicación de jefes a inferiores es descendente y se utiliza para dar instrucciones. (Sec 11)"
-    },
-    {
-      "question": "¿Qué es y cómo se define o conceptualiza estrictamente el término Cultura de la Empresa?",
-      "options": [
-        "Balances contables, sumarios aduaneros logísticos y registros mercantiles.",
-        "Asambleas puramente corporativas sindicales del área foránea e interna.",
-        "Listados ciegos y fijos del accionariado de capital corporativo ciego.",
-        "El conjunto de normas, identidad y valores que adopta el grupo de personas que conforman la empresa."
-      ],
-      "correctAnswer": 3,
-      "explanation": "Cultura es el conjunto de valores y normas adoptados por los miembros. (Sec 12)"
-    },
-    {
-      "question": "El conjunto de valores, normas y principios que regulan la actividad empresarial y son propios de la empresa, es:",
-      "options": [
-        "La ética empresarial.",
-        "La legislación mercantil y registral notarial ineludible.",
-        "La política estatal de aduanas tributarias.",
-        "La directriz rotatoria de control logístico o pasivo obrero."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La ética agrupa los valores, principios y normas propios de la actividad corporativa corporativa e interna. (Sec 12)"
-    },
-    {
-      "question": "Según el Observatorio Español e instituciones, ¿cómo se define la Responsabilidad Social Corporativa (RSC)?",
-      "options": [
-        "Como el cierre progresivo de todas las líneas industriales por normas locales.",
-        "Como la donación anual obligatoria de todos los dividendos exentos de tributo.",
-        "Como la forma de dirigir basada en gestionar los impactos sobre el entorno, clientes, empleados, medioambiente y sociedad.",
-        "Como el mero pago de indemnizaciones operativas por la rotación forzosa aduanera."
-      ],
-      "correctAnswer": 2,
-      "explanation": "La RSC gestiona impactos generados sobre el entorno, empleados y medio. (Sec 12)"
-    },
-    {
-      "question": "En relación a la RS, la ONU aprobó en 1999 un documento clave con diez principios. ¿Cómo se denomina?",
-      "options": [
-        "Pacto Mundial (UN Global Compact).",
-        "Fondo Monetario Climático.",
-        "Tratado de Sanciones Aduaneras y Laborales.",
-        "Resolución de Nacionalizaciones Ecológicas."
-      ],
-      "correctAnswer": 0,
-      "explanation": "La ONU aprobó el Pacto Mundial (1999) con 10 principios. (Sec 12)"
-    },
-    {
-      "question": "Respecto al marco legal nacional sobre prevención, ¿en qué año se aprobó la normativa formal \"Ley de Prevención de Riesgos Laborales\"?",
-      "options": [
-        "En 1980.",
-        "En 1995.",
-        "En 2010.",
-        "En 2021."
+        "Comunicación oblicua."
       ],
       "correctAnswer": 1,
-      "explanation": "En 1995 se aprueba la Ley de Prevención de Riesgos Laborales. (Sec 13)"
+      "explanation": "La comunicación horizontal es la que se establece entre personas de un mismo rango. (Fuente: Página 12, Sección: La comunicación en la empresa)"
     },
     {
-      "question": "¿Cuál es el principal propósito u objetivo rector central e ineludible perseguido en prevención de riesgos laborales?",
+      "question": "¿Cómo se define la Ética Empresarial según el texto?",
       "options": [
-        "Cobrar subvenciones asiduas de los fondos burocráticos europeos u orgánicos.",
-        "Disminuir las horas efectivas forzosas estipuladas sin merma sindical fija.",
-        "Minimizar y evitar las causas de accidentes de trabajo y de enfermedades profesionales en la plantilla.",
-        "Inhabilitar por cese y veto las rotatorias inspecciones operativas sindicales externas limitadas."
+        "La gestión de los impactos generados sobre el medioambiente.",
+        "El conjunto de valores y normas que regulan la actividad que la empresa considera propios.",
+        "La obligación legal de presentar cuentas anuales al registro.",
+        "La participación en causas sociales exclusivamente fuera de la empresa."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ética empresarial es el conjunto de valores, normas y principios que regulan la actividad empresarial y que la empresa considera como propios. (Fuente: Página 12, Sección: Cultura, ética y responsabilidad social empresarial)"
+    },
+    {
+      "question": "La definición de dirigir empresas basada en la gestión de impactos sobre clientes, empleados y sociedad corresponde a:",
+      "options": [
+        "Cultura de empresa.",
+        "Protocolo familiar.",
+        "Responsabilidad Social Corporativa (RSC).",
+        "Estrategia de marketing digital."
       ],
       "correctAnswer": 2,
-      "explanation": "La principal función es minimizar o evitar accidentes o enfermedades en el trabajo. (Sec 13)"
+      "explanation": "La RSC se define como una forma de dirigir las empresas basada en la gestión de los impactos que su actividad genera sobre clientes, empleados, sociedad, etc. (Fuente: Página 12, Sección: Cultura, ética y responsabilidad social empresarial)"
     },
     {
-      "question": "En la organización de modernas entidades o corporaciones tipo startup tecnológicas, ¿qué cargo corporativo u operario representan tradicional e internacionalmente las reconocidas siglas CEO?",
+      "question": "¿Qué documento de 1999 de Naciones Unidas establece diez principios sobre medio ambiente y derechos humanos?",
       "options": [
-        "Control y Evaluación Operacional puro base organizativo territorial local.",
-        "Encargado General de Operativas de Marketing y Ventas referenciado de corte masivo.",
-        "Comité Ético Orientativo adscrito a recursos laborales de índole u rango transversal y legal.",
-        "Director Ejecutivo, o Consejero Delegado (Chief Executive Officer)."
+        "Tratado de Kioto.",
+        "Pacto Mundial (UN Global Compact).",
+        "Agenda 2030.",
+        "Ley de Prevención de Riesgos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "En 1999 se aprueba el Pacto Mundial (UN Global Compact) con diez principios sobre protección ambiental, derechos humanos y laborales. (Fuente: Página 12, Sección: Cultura, ética y responsabilidad social empresarial)"
+    },
+    {
+      "question": "¿Cuál es la principal función de la prevención de riesgos laborales?",
+      "options": [
+        "Aumentar el número de horas trabajadas por empleado.",
+        "Evitar o minimizar las causas de accidentes de trabajo y enfermedades profesionales.",
+        "Sancionar económicamente a los trabajadores que cometen errores.",
+        "Garantizar que todos los trabajadores tengan un seguro médico privado."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La principal función de la prevención de riesgos laborales es evitar o minimizar las causas de los accidentes de trabajo y de las enfermedades profesionales. (Fuente: Página 13, Sección: Prevención de riesgos laborales y medioambiente)"
+    },
+    {
+      "question": "¿Qué especialidades abarca la Ley de Prevención de Riesgos Laborales de 1995?",
+      "options": [
+        "Sólo seguridad en el trabajo y primeros auxilios.",
+        "Seguridad, higiene industrial, ergonomía/psicosociología y vigilancia de la salud.",
+        "Contratación, nóminas, despidos y jubilaciones.",
+        "Reciclaje, control de vertidos y emisiones de CO2."
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Ley de 1995 abarca seguridad en el trabajo, higiene industrial, ergonomía y psicosociología y vigilancia de la salud. (Fuente: Página 13, Sección: Prevención de riesgos laborales y medioambiente)"
+    },
+    {
+      "question": "¿Quién tiene las competencias en salud laboral para desarrollar legislación específica por sectores?",
+      "options": [
+        "La Unión Europea exclusivamente.",
+        "Las Comunidades Autónomas.",
+        "Los Ayuntamientos.",
+        "Las Mutuas de accidentes de forma independiente."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las comunidades autónomas tienen las competencias en salud laboral y han ido desarrollando legislación específica. (Fuente: Página 13, Sección: Prevención de riesgos laborales y medioambiente)"
+    },
+    {
+      "question": "¿Qué aspectos regulan las leyes medioambientales en relación con las empresas?",
+      "options": [
+        "El horario de apertura y cierre de los establecimientos.",
+        "El control de residuos, sistemas de seguridad y obligación de reciclaje.",
+        "El precio de venta al público de los productos manufacturados.",
+        "La titulación académica necesaria para los directivos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las leyes ambientales regulan aspectos como el control de residuos, los sistemas de seguridad y la obligación del reciclaje. (Fuente: Página 13, Sección: Prevención de riesgos laborales y medioambiente)"
+    },
+    {
+      "question": "En el contexto de la formación, ¿qué significa que la metodología sea 'Blended learning'?",
+      "options": [
+        "Que es 100% presencial.",
+        "Que es una combinación de formación presencial y a distancia/online.",
+        "Que se realiza exclusivamente dentro de la empresa.",
+        "Que no requiere evaluación final."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque no se define explícitamente en el glosario, aparece en la tabla de diseño del plan formativo como una opción de ejecución (mezcla de presencial y online). (Fuente: Página 10, Sección: La formación en la empresa)"
+    },
+    {
+      "question": "¿Qué tipo de comunicación se utiliza habitualmente para dar instrucciones de quién debe hacer qué?",
+      "options": [
+        "Comunicación ascendente.",
+        "Comunicación horizontal.",
+        "Comunicación descendente.",
+        "Comunicación informal."
+      ],
+      "correctAnswer": 2,
+      "explanation": "La comunicación descendente se utiliza para dar instrucciones sobre quién debe hacer qué, cuándo y cómo. (Fuente: Página 12, Sección: La comunicación en la empresa)"
+    },
+    {
+      "question": "Los objetivos que forman parte de la misión y la visión de la empresa se denominan:",
+      "options": [
+        "Objetivos operativos.",
+        "Objetivos generales.",
+        "Objetivos específicos.",
+        "Objetivos tácticos."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los objetivos generales son los que forman parte de la misión y la visión de la empresa. (Fuente: Página 4, Sección: Establecimiento de los objetivos empresariales)"
+    },
+    {
+      "question": "¿Cuál es la duración típica de los objetivos a corto plazo?",
+      "options": [
+        "Más de 5 años.",
+        "Entre 1 y 3 años.",
+        "Entre 3 y 5 años.",
+        "Menor a 1 año."
       ],
       "correctAnswer": 3,
-      "explanation": "CEO (Chief Executive Officer), o director ejecutivo/consejero delegado de la compañía. (Sec 14)"
+      "explanation": "Los objetivos a corto plazo son los que se fijan en un plazo menor a 1 año. (Fuente: Página 5, Sección: Establecimiento de los objetivos empresariales)"
+    },
+    {
+      "question": "¿Qué tipo de estructura organiza a la empresa según líneas de productos, tipo de clientes o zona geográfica?",
+      "options": [
+        "Estructura por división.",
+        "Estructura Lineal.",
+        "Estructura Funcional.",
+        "Estructura de Staff."
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estructura por división se organiza según líneas de productos, tipos de clientes o zona geográfica. (Fuente: Página 4, Sección: Establecimiento de los objetivos empresariales)"
     }
   ]
 }
