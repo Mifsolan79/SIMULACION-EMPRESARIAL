@@ -204,13 +204,17 @@
                 5: "FORMA JURÍDICA",
                 6: "CONSTITUCIÓN Y MARCHA",
                 7: "GESTIÓN Y SEG. SOCIAL",
-                8: "PLAN DE MARKETING"
+                8: "PLAN DE MARKETING",
+                9: "PLAN DE COMUNICACIÓN",
+                10: "PRECIOS Y DISTRIBUCIÓN",
+                11: "PRODUCCIÓN Y COSTES",
+                12: "CONTABILIDAD BÁSICA"
             };
 
             const temas = Array.from({ length: 15 }, (_, i) => {
                 const n = i + 1;
                 const tituloEspecifico = titulos[n] ? titulos[n] : `TEMA ${n}`;
-                const disponible = n <= 8;
+                const disponible = n <= 12;
 
                 return {
                     numero: n,

@@ -1,0 +1,303 @@
+SIMULACIÓN EMPRESARIAL - TEMA 1: INNOVACIÓN EMPRESARIAL
+=================================================
+
+Pregunta 1: ¿Cómo define la Fundación COTEC la innovación?
+  A) Un proceso creativo y esporádico que involucra solo a la tecnología.
+  B) La creación de un producto nuevo basado exclusivamente en el conocimiento científico.
+  C) Todo cambio no solo tecnológico, basado en conocimiento no solo científico, que aporte valor no solo económico.
+  D) Cualquier modificación de un producto que no requiere ser introducida en el mercado.
+
+Respuesta Correcta: C
+Explicación: La Fundación COTEC define la innovación de forma amplia, no limitándola a lo tecnológico, científico o económico. (Fuente: Página 5, Sección: 2.1. Concepto de innovación)
+-------------------------------------------------
+
+Pregunta 2: Dentro de los tipos de innovación, ¿cuál se refiere a la introducción de mejoras en la gestión de recursos humanos o externalización de servicios?
+  A) Innovación en la organización
+  B) Innovación en el modelo de negocio
+  C) Innovación en los procesos
+  D) Innovación en el mercado
+
+Respuesta Correcta: A
+Explicación: La innovación en la organización introduce mejoras en el trabajo, recursos humanos y externalización. (Fuente: Página 5, Sección: 2.2. Tipos de innovación)
+-------------------------------------------------
+
+Pregunta 3: ¿Qué nombre recibe la introducción de un nuevo producto o servicio no conocido con anterioridad?
+  A) Innovación incremental
+  B) Innovación en la gestión
+  C) Innovación radical o disruptiva
+  D) Innovación tecnológica
+
+Respuesta Correcta: C
+Explicación: La innovación radical o disruptiva es aquella que introduce algo totalmente nuevo no conocido antes. (Fuente: Página 5, Sección: 2.2. Tipos de innovación)
+-------------------------------------------------
+
+Pregunta 4: En el proceso de innovación, ¿cuál es el primer paso según la representación del embudo?
+  A) Definición de proyectos
+  B) Buscar las oportunidades y generar ideas
+  C) Evaluar las ideas
+  D) Ejecución y seguimiento
+
+Respuesta Correcta: B
+Explicación: El proceso comienza con la búsqueda de oportunidades y la generación de ideas. (Fuente: Página 6, Sección: 3. Fases y facetas del proceso de innovación)
+-------------------------------------------------
+
+Pregunta 5: ¿Qué componente del I+D+i se encarga de la aplicación de resultados para fabricar prototipos y generar el 'know-how'?
+  A) Investigación
+  B) Desarrollo
+  C) Innovación
+  D) Internacionalización
+
+Respuesta Correcta: B
+Explicación: El desarrollo es la aplicación de la investigación para diseñar nuevos procesos y generar el saber hacer. (Fuente: Página 6, Sección: 3.1. I+D+i. Investigación, desarrollo e innovación)
+-------------------------------------------------
+
+Pregunta 6: ¿Quién es el autor de la teoría del empresario innovador, que define el beneficio como recompensa a la innovación?
+  A) Neil Blumenthal
+  B) J.H. Schumpeter
+  C) Fundación COTEC
+  D) Indra
+
+Respuesta Correcta: B
+Explicación: El economista austriaco J.H. Schumpeter creó la teoría del empresario innovador. (Fuente: Página 7, Sección: 4. Innovación y emprendimiento)
+-------------------------------------------------
+
+Pregunta 7: ¿Qué riesgo se asume cuando se debe valorar el grado de aceptación de una innovación por parte de los clientes?
+  A) Riesgo Tecnológico
+  B) Riesgo Comercial
+  C) Riesgo Estratégico
+  D) Riesgo Operacional
+
+Respuesta Correcta: B
+Explicación: El riesgo comercial se refiere a la incertidumbre sobre la aceptación del mercado. (Fuente: Página 7, Sección: 4.1. Factores de riesgo en la innovación empresarial)
+-------------------------------------------------
+
+Pregunta 8: ¿Cómo se define el carácter emprendedor desde el punto de vista empresarial?
+  A) Como un talento innato que no puede ser entrenado ni adquirido.
+  B) Como la capacidad exclusiva de inventar nuevas tecnologías.
+  C) Como una actitud, una forma de vida y una capacidad para aprovechar oportunidades.
+  D) Como el conocimiento avanzado únicamente en finanzas y contabilidad.
+
+Respuesta Correcta: C
+Explicación: El carácter emprendedor es una actitud y capacidad de aprovechar oportunidades que puede entrenarse. (Fuente: Página 8, Sección: 5. Facetas del carácter emprendedor desde el punto de vista empresarial)
+-------------------------------------------------
+
+Pregunta 9: ¿Cuál de los siguientes es un pilar básico en la mejora de la competitividad empresarial actualmente?
+  A) Las Nuevas Tecnologías de la Información y la Comunicación (TIC)
+  B) La externalización total de la producción
+  C) La reducción del equipo humano
+  D) La eliminación del departamento de marketing
+
+Respuesta Correcta: A
+Explicación: Las TIC (informática, internet, etc.) son fundamentales para la competitividad actual. (Fuente: Página 8, Sección: 6. La tecnología como clave de la innovación empresarial)
+-------------------------------------------------
+
+Pregunta 10: ¿Qué porcentaje aproximado del PIB suman en España los sectores que avanzan con mayor intensidad en innovación tecnológica?
+  A) Más del 30%
+  B) Menos del 45%
+  C) Más del 55%
+  D) Exactamente el 75%
+
+Respuesta Correcta: C
+Explicación: Los sectores intensivos en innovación tecnológica suman más del 55% del PIB en nuestro país. (Fuente: Página 9, Sección: 6.1. La innovación tecnológica, su desarrollo en los diferentes sectores)
+-------------------------------------------------
+
+Pregunta 11: ¿Cuál es una característica distintiva de las empresas de base tecnológica (EBT)?
+  A) Su activo más importante es el conocimiento.
+  B) Tienen plantillas masivas de personal no cualificado.
+  C) Evitan el contacto con universidades.
+  D) Producen bienes de bajo valor añadido.
+
+Respuesta Correcta: A
+Explicación: El conocimiento es el activo principal de las empresas de base tecnológica. (Fuente: Página 9, Sección: 7. Las empresas de base tecnológica. Spin off y startup)
+-------------------------------------------------
+
+Pregunta 12: Si una empresa surge de una universidad para transferir resultados de una investigación, se denomina:
+  A) Startup escalable
+  B) Empresa multinacional
+  C) Spin off académica
+  D) Spin off empresarial
+
+Respuesta Correcta: C
+Explicación: La spin off académica nace de centros de investigación universitarios para transferir conocimiento. (Fuente: Página 9, Sección: 7.1. Spin off y startup)
+-------------------------------------------------
+
+Pregunta 13: Según Neil Blumenthal, ¿cuál es una característica de una startup?
+  A) Es una empresa donde el éxito está garantizado por la tecnología.
+  B) Es una compañía que trabaja para solucionar un problema donde la solución no es obvia.
+  C) Es una empresa madura con recursos ilimitados.
+  D) Es un modelo de negocio que no busca ser escalable.
+
+Respuesta Correcta: B
+Explicación: Blumenthal define la startup como una compañía que busca soluciones no obvias sin éxito garantizado. (Fuente: Página 9, Sección: 7.1. Spin off y startup)
+-------------------------------------------------
+
+Pregunta 14: ¿Qué término se refiere a fenómenos migratorios, medios de comunicación, cultura y política?
+  A) Internacionalización
+  B) Exportación
+  C) Globalización
+  D) Importación
+
+Respuesta Correcta: C
+Explicación: La globalización abarca fenómenos migratorios, culturales y políticos a nivel mundial. (Fuente: Página 10, Sección: 8. La internacionalización de las empresas como oportunidad de desarrollo e innovación)
+-------------------------------------------------
+
+Pregunta 15: ¿En qué etapa del proceso de internacionalización las estructuras comerciales se localizan en los países de destino?
+  A) Importación
+  B) Implantación comercial
+  C) Inversión exterior
+  D) Exportación
+
+Respuesta Correcta: B
+Explicación: La implantación comercial ocurre cuando la estructura de ventas se ubica en el país destino. (Fuente: Página 10, Sección: 8.1. El proceso de internacionalización)
+-------------------------------------------------
+
+Pregunta 16: ¿Qué es la deslocalización en el contexto de internacionalización?
+  A) Cerrar la empresa para evitar impuestos.
+  B) Vender productos solo por internet.
+  C) Producir en otros países por costes o cercanía al mercado.
+  D) Importar materias primas de baja calidad.
+
+Respuesta Correcta: C
+Explicación: La deslocalización es la decisión de producir en el exterior para abaratar costes o estar cerca del mercado. (Fuente: Página 10, Sección: 8.1. El proceso de internacionalización)
+-------------------------------------------------
+
+Pregunta 17: ¿Cuál es un ejemplo de ayuda directa de la administración para fomentar la innovación?
+  A) Deducciones fiscales sobre el impuesto de sociedades.
+  B) Subvenciones y créditos con condiciones favorables.
+  C) Bonificaciones en las cotizaciones a la Seguridad Social.
+  D) Normativas de protección ambiental.
+
+Respuesta Correcta: B
+Explicación: Las subvenciones y créditos favorables se clasifican como ayudas directas. (Fuente: Página 11, Sección: 10. Ayudas y herramientas para la innovación empresarial)
+-------------------------------------------------
+
+Pregunta 18: ¿Cuál de estas entidades es un organismo de la administración central que ofrece ayudas a la innovación?
+  A) ENISA
+  B) Agencia IDEA
+  C) Cámara de Comercio
+  D) Dirección de Innovación de Madrid
+
+Respuesta Correcta: A
+Explicación: ENISA, junto con el ICO y el CDTI, son organismos de la administración central. (Fuente: Página 11, Sección: 10. Ayudas y herramientas para la innovación empresarial)
+-------------------------------------------------
+
+Pregunta 19: ¿Qué entidad tiene como misión promover la inversión extranjera y la internacionalización de las empresas españolas?
+  A) ICO
+  B) ICEX
+  C) ENISA
+  D) CDTI
+
+Respuesta Correcta: B
+Explicación: El ICEX promueve la internacionalización española y atrae inversión extranjera. (Fuente: Página 12, Sección: 11. Ayudas a la internacionalización de las empresas)
+-------------------------------------------------
+
+Pregunta 20: El Instituto de Crédito Oficial (ICO) ofrece principalmente:
+  A) Formación en idiomas para exportar.
+  B) Financiación mediante préstamos, leasing o renting.
+  C) Registro de patentes internacionales.
+  D) Misiones comerciales en el extranjero.
+
+Respuesta Correcta: B
+Explicación: El ICO ofrece principalmente líneas de financiación ejecutadas por entidades financieras. (Fuente: Página 12, Sección: 11. Ayudas a la internacionalización de las empresas)
+-------------------------------------------------
+
+Pregunta 21: ¿Cuál es una característica fundamental de las alianzas estratégicas?
+  A) Las empresas pierden su independencia jurídica.
+  B) Son siempre uniones puntuales y temporales para un solo negocio.
+  C) Las empresas conservan su independencia tras la formación de la alianza.
+  D) Una empresa absorbe totalmente a la otra.
+
+Respuesta Correcta: C
+Explicación: En las alianzas estratégicas, las empresas mantienen su independencia mientras colaboran. (Fuente: Página 13, Sección: 12. Alianzas accionariales o estratégicas con empresas extranjeras)
+-------------------------------------------------
+
+Pregunta 22: Las alianzas que comparten el 'know how' y los riesgos en I+D+i se clasifican como:
+  A) Alianzas comerciales
+  B) Alianzas tecnológicas
+  C) Alianzas de producción
+  D) Participación accionarial
+
+Respuesta Correcta: B
+Explicación: Las alianzas tecnológicas se centran en compartir conocimientos técnicos y riesgos de investigación. (Fuente: Página 13, Sección: 12. Alianzas accionariales o estratégicas con empresas extranjeras)
+-------------------------------------------------
+
+Pregunta 23: Según su estructura, un acuerdo para una actividad muy concreta se denomina:
+  A) Proyecto conjunto
+  B) Participación accionarial
+  C) Acuerdo contractual o de mercado
+  D) Filial estratégica
+
+Respuesta Correcta: C
+Explicación: Los acuerdos contractuales se realizan para actividades específicas y concretas. (Fuente: Página 13, Sección: 12. Alianzas accionariales o estratégicas con empresas extranjeras)
+-------------------------------------------------
+
+Pregunta 24: ¿Cuál de las siguientes es una prioridad de las Políticas Europeas 2021-2027?
+  A) Una Europa más inteligente mediante la digitalización.
+  B) La eliminación de los préstamos a PYMES.
+  C) El fomento exclusivo del sector agrícola tradicional.
+  D) La centralización de toda la innovación en Bruselas.
+
+Respuesta Correcta: A
+Explicación: La digitalización y el apoyo a PYMES son prioridades para una Europa más inteligente. (Fuente: Página 11, Sección: 10. Ayudas y herramientas para la innovación empresarial)
+-------------------------------------------------
+
+Pregunta 25: ¿Qué implica la fase de 'Inversión exterior' en el proceso de internacionalización?
+  A) Vender por primera vez a un país vecino.
+  B) Comprar materias primas baratas de un proveedor extranjero.
+  C) Producir en el exterior, a veces mediante la deslocalización.
+  D) Contratar a un experto en marketing internacional.
+
+Respuesta Correcta: C
+Explicación: La inversión exterior suele implicar la producción en el país extranjero. (Fuente: Página 10, Sección: 8.1. El proceso de internacionalización)
+-------------------------------------------------
+
+Pregunta 26: Para que la innovación sea sostenible y tenga impacto positivo en los resultados, Indra sostiene que:
+  A) Debe ser un proceso estructurado y controlado que involucre a toda la empresa.
+  B) Debe ser un ejercicio creativo esporádico del director general.
+  C) Solo debe realizarse en el departamento de tecnología.
+  D) No requiere ningún tipo de seguimiento o control.
+
+Respuesta Correcta: A
+Explicación: Indra considera la innovación como un proceso estructurado que debe involucrar a toda la organización. (Fuente: Página 5, Sección: 2.1. Concepto de innovación)
+-------------------------------------------------
+
+Pregunta 27: ¿Qué tipo de innovación se produce al introducir nuevos embalajes, diseños o precios?
+  A) Innovación en los procesos
+  B) Innovación en el producto
+  C) Innovación en el Mercado
+  D) Innovación en el modelo de negocio
+
+Respuesta Correcta: C
+Explicación: La innovación en el mercado mejora elementos del marketing como embalajes y precios. (Fuente: Página 5, Sección: 2.2. Tipos de innovación)
+-------------------------------------------------
+
+Pregunta 28: En el I+D+i, ¿cuál es el objetivo final de la fase de 'Investigación'?
+  A) Registrar una patente y vender el producto.
+  B) Alcanzar nuevos conocimientos o descubrimientos.
+  C) Fabricar prototipos para ensayos clínicos.
+  D) Mejorar la logística de distribución.
+
+Respuesta Correcta: B
+Explicación: La investigación busca principalmente nuevos conocimientos mediante procedimientos científicos. (Fuente: Página 6, Sección: 3.1. I+D+i. Investigación, desarrollo e innovación)
+-------------------------------------------------
+
+Pregunta 29: ¿Cuál es una de las cualidades recomendadas para una persona emprendedora?
+  A) Capacidad para evitar cualquier tipo de riesgo.
+  B) Trabajar de forma aislada sin dotes comunicativas.
+  C) Capacidad para organizar, dirigir y coordinar medios económicos y humanos.
+  D) Delegar toda la gestión comercial en terceros desde el inicio.
+
+Respuesta Correcta: C
+Explicación: La capacidad de organizar y coordinar recursos es una cualidad clave del emprendedor. (Fuente: Página 8, Sección: 5. Facetas del carácter emprendedor desde el punto de vista empresarial)
+-------------------------------------------------
+
+Pregunta 30: En la última fase de internacionalización, cuando la empresa pierde su nacionalidad, se convierte en:
+  A) Una spin off académica.
+  B) Una exportadora pasiva.
+  C) Una empresa global o multinacional.
+  D) Una startup escalable.
+
+Respuesta Correcta: C
+Explicación: La globalización de la empresa es la fase final donde se gestiona como multinacional global. (Fuente: Página 10, Sección: 8.1. El proceso de internacionalización)
+-------------------------------------------------
+

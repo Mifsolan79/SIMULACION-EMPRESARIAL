@@ -1,0 +1,335 @@
+{
+    "title": "SIMULACIÓN EMPRESARIAL - TEMA 9",
+    "items": [
+        {
+            "question": "¿Cómo se define el tipo de mercado denominado 'Oligopolio' según el documento?",
+            "options": [
+                "Aparición de un posicionamiento diferenciado entre empresas.",
+                "Existencia de un único proveedor del producto.",
+                "Pocos competidores se encuentran en un mismo mercado.",
+                "Gran cantidad de ofertantes del mismo producto o servicio."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El oligopolio se define cuando pocos competidores se encuentran en un mismo mercado. (Fuente: Página 4, Sección: Definición del mercado y de las acciones frente a la competencia)"
+        },
+        {
+            "question": "Dentro del análisis de la competencia, ¿qué elemento ayuda a orientar la fijación del precio de los artículos propios?",
+            "options": [
+                "El tamaño de la empresa competidora.",
+                "El nivel de precios de la competencia.",
+                "La localización de los competidores.",
+                "Los servicios de postventa ofrecidos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Estudiar el nivel de precios de los competidores sirve de orientación a la hora de fijar el precio de nuestros propios artículos. (Fuente: Página 4, Sección: Definición del mercado y de las acciones frente a la competencia)"
+        },
+        {
+            "question": "Cuando una empresa de nueva creación se ve obligada a aumentar su volumen de producción para disminuir costes, ¿a qué barrera de entrada se enfrenta?",
+            "options": [
+                "Economía de escala.",
+                "Diferenciación de la competencia.",
+                "Inversión económica elevada.",
+                "Costes de cambio de los clientes."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La economía de escala ocurre cuando las empresas existentes disminuyen costes aumentando el volumen, obligando a la nueva empresa a seguir el mismo patrón. (Fuente: Página 5, Sección: Barreras para entrar en el mercado)"
+        },
+        {
+            "question": "¿Cuál de las siguientes es una estrategia recomendada para superar las barreras de entrada al mercado?",
+            "options": [
+                "Entrar en una guerra de precios agresiva.",
+                "Ignorar la tecnología actual del mercado.",
+                "Segmentar bien el público objetivo.",
+                "Reducir la inversión en imagen de marca."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Definir el grupo al que nos dirigimos y establecer acciones específicas para ellos es una forma de superar barreras. (Fuente: Página 5, Sección: Barreras para entrar en el mercado)"
+        },
+        {
+            "question": "En el marketing mix, ¿cómo se define la publicidad?",
+            "options": [
+                "Incentivos a corto plazo para fomentar la compra inmediata.",
+                "Comunicación directa para obtener una respuesta inmediata.",
+                "Mejora de la imagen mediante un buen ambiente empresarial.",
+                "Presentación y promoción no personal pagada por un patrocinador identificado."
+            ],
+            "correctAnswer": 3,
+            "explanation": "La publicidad se trata de forma pagada de presentación y promoción no personal de ideas, bienes o servicios. (Fuente: Página 6, Sección: La comunicación)"
+        },
+        {
+            "question": "¿Qué herramienta de marketing busca crear relaciones directas con el cliente a través de un equipo de comerciales?",
+            "options": [
+                "Relaciones públicas.",
+                "Fuerza de ventas.",
+                "Marketing directo.",
+                "Promoción de ventas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La fuerza de ventas la constituye el equipo de comerciales y busca crear relaciones directas con el cliente. (Fuente: Página 6, Sección: La comunicación)"
+        },
+        {
+            "question": "¿Qué es el 'Mailing' dentro de las fórmulas de marketing directo?",
+            "options": [
+                "Envío de información al domicilio sin conocer al cliente.",
+                "Venta realizada exclusivamente a través del teléfono.",
+                "Correo postal o electrónico masivo con información personalizada.",
+                "Publicidad a través de medios interactivos como podcasts."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El mailing consiste en el correo postal o electrónico masivo con información personalizada para los clientes. (Fuente: Página 6, Sección: La comunicación)"
+        },
+        {
+            "question": "En el proceso comunicativo publicitario, ¿quién es el encargado de elaborar el mensaje y diseñar los soportes?",
+            "options": [
+                "La empresa anunciante.",
+                "Los medios de comunicación.",
+                "Los potenciales clientes.",
+                "Las agencias de publicidad."
+            ],
+            "correctAnswer": 3,
+            "explanation": "Las agencias de publicidad son las encargadas de elaborar el mensaje publicitario, su diseño y soportes. (Fuente: Página 7, Sección: Plan de publicidad)"
+        },
+        {
+            "question": "¿Cuál es la fase final del proceso comunicativo publicitario?",
+            "options": [
+                "Fase de investigación y recolección.",
+                "Fase de control y evaluación.",
+                "Fase de creación y elaboración.",
+                "Fase de lanzamiento de campaña."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La tercera y última fase es la de control y evaluación para verificar la calidad y el efecto de la publicidad. (Fuente: Página 8, Sección: Plan de publicidad)"
+        },
+        {
+            "question": "¿Qué tipo de publicidad se utiliza para dar a conocer novedades en un producto o lanzamientos nuevos?",
+            "options": [
+                "Publicidad informativa.",
+                "Publicidad persuasiva.",
+                "Publicidad indirecta.",
+                "Publicidad de recordatorio."
+            ],
+            "correctAnswer": 0,
+            "explanation": "La publicidad informativa se usa cuando vamos a comunicar sobre novedades o dar a conocer nuevos productos. (Fuente: Página 8, Sección: Tipos de publicidad)"
+        },
+        {
+            "question": "¿Por qué la publicidad online es considerada la mejor opción para pequeñas empresas en sus inicios?",
+            "options": [
+                "Porque tiene un alcance nacional garantizado.",
+                "Porque sus costes son muy asumibles y permite segmentar.",
+                "Porque no requiere ningún tipo de diseño creativo.",
+                "Porque sustituye por completo a la fuerza de ventas."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Es la mejor opción para pequeñas empresas por tener costes asumibles y permitir la segmentación de clientes. (Fuente: Página 9, Sección: Tipos de publicidad)"
+        },
+        {
+            "question": "¿Qué técnica publicitaria consiste en destacar el producto en el mismo punto de venta?",
+            "options": [
+                "Telemarketing.",
+                "Publicidad exterior.",
+                "Merchandising.",
+                "Mecenazgo."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El merchandising es la técnica de realizar acciones para destacar el producto en el lugar de ventas. (Fuente: Página 9, Sección: Publicidad en el lugar de ventas. Merchandising)"
+        },
+        {
+            "question": "¿En qué consiste el 'merchandising visual'?",
+            "options": [
+                "Ofrecer regalos promocionales en ferias comerciales.",
+                "Destacar productos online mediante imágenes atractivas.",
+                "Posicionar productos en lugares estratégicos como a la altura de los ojos.",
+                "Pagar para que actores consuman productos en series de TV."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El merchandising visual destaca el producto posicionándolo estratégicamente, por ejemplo, en línea con los ojos. (Fuente: Página 10, Sección: Publicidad en el lugar de ventas. Merchandising)"
+        },
+        {
+            "question": "¿Cuál es el objetivo principal de un plan de relaciones públicas?",
+            "options": [
+                "Incrementar las ventas a corto plazo mediante regalos.",
+                "Mejorar la imagen de la empresa y el reconocimiento de marca.",
+                "Diseñar los envases y etiquetas de los productos.",
+                "Controlar exclusivamente la red de distribución logística."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El objetivo principal es conseguir que la marca sea reconocida y que la sociedad tenga una buena imagen de la empresa. (Fuente: Página 10, Sección: Plan de relaciones públicas)"
+        },
+        {
+            "question": "¿Qué término define la capacidad de una empresa para conseguir el compromiso a largo plazo del público?",
+            "options": [
+                "Mailing.",
+                "Deepfake.",
+                "Soporte.",
+                "Engagement."
+            ],
+            "correctAnswer": 3,
+            "explanation": "El engagement define la capacidad de la empresa de conseguir el compromiso del público con la marca a largo plazo. (Fuente: Página 10, Sección: Plan de relaciones públicas)"
+        },
+        {
+            "question": "¿Cuál de las siguientes actividades de relaciones públicas suele ser gratuita para la empresa?",
+            "options": [
+                "Mecenazgo de eventos culturales.",
+                "Comunicados de prensa y aparición de noticias.",
+                "Patrocinio de equipos deportivos.",
+                "Contratación de vallas publicitarias."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Actividades como comunicados de prensa o aparición de noticias reportan impacto sin producir costes. (Fuente: Página 10, Sección: Plan de relaciones públicas)"
+        },
+        {
+            "question": "En el plan de relaciones públicas, ¿cuál es el paso posterior al diseño del plan?",
+            "options": [
+                "La evaluación de impacto.",
+                "La puesta en marcha y calendarización.",
+                "El análisis de la competencia.",
+                "La reformulación de acciones."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tras el diseño del plan viene la puesta en marcha, planificando acciones y haciendo una calendarización. (Fuente: Página 11, Sección: Plan de relaciones públicas)"
+        },
+        {
+            "question": "¿Cuál es una característica común de todas las acciones de promoción de ventas?",
+            "options": [
+                "Son siempre de carácter gratuito para la empresa.",
+                "Se dirigen exclusivamente a los clientes finales.",
+                "Ofrecen mejoras de tipo económico o material.",
+                "Tienen objetivos de posicionamiento a muy largo plazo."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Todas las acciones de promoción tienen como característica común que ofrecen mejoras económicas o materiales. (Fuente: Página 12, Sección: Plan de promoción de ventas)"
+        },
+        {
+            "question": "¿Cuál es un objetivo específico de la promoción de ventas relacionado con el inventario?",
+            "options": [
+                "Mejorar el clima laboral de los vendedores.",
+                "Liquidación de productos próximos a su fecha de caducidad.",
+                "Diseñar nuevos logotipos para la empresa.",
+                "Aumentar el precio de venta al público."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Uno de los objetivos es la liquidación de productos caducos, obsoletos o con mucho stock almacenado. (Fuente: Página 12, Sección: Plan de promoción de ventas)"
+        },
+        {
+            "question": "¿Qué paso es fundamental antes de generar nuevas promociones en el plan de promoción de ventas?",
+            "options": [
+                "Calcular el coste final del producto.",
+                "Segmentar a la clientela a la que nos vamos a dirigir.",
+                "Contratar una agencia de publicidad externa.",
+                "Eliminar todos los canales de distribución."
+            ],
+            "correctAnswer": 1,
+            "explanation": "La segmentación de la clientela es el paso número 3, previo a la generación de nuevas promociones (paso 4). (Fuente: Página 12, Sección: Plan de promoción de ventas)"
+        },
+        {
+            "question": "Las rebajas de 'vuelta al cole' o Navidad son ejemplos de:",
+            "options": [
+                "Promociones con frecuencia fija semanal.",
+                "Promociones permanentes por puntos.",
+                "Promociones de carácter estacional.",
+                "Promociones basadas en sorteos."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las promociones estacionales son las que se aplican en rebajas, vuelta al cole, navidades, etc. (Fuente: Página 13, Sección: Tipos de promoción. Instrumentos)"
+        },
+        {
+            "question": "¿En qué categoría de técnica de promoción entran los 'packs familiares'?",
+            "options": [
+                "Promociones basadas en el producto.",
+                "Promociones centradas en el precio.",
+                "Promociones con regalos.",
+                "Promociones basadas en sorteos."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los packs familiares o ventas asociadas se clasifican dentro de las promociones centradas en el precio. (Fuente: Página 13, Sección: Tipos de promoción. Instrumentos)"
+        },
+        {
+            "question": "Si una empresa ofrece 'más producto por el mismo precio', ¿qué tipo de promoción está realizando?",
+            "options": [
+                "Promoción basada en el producto.",
+                "Promoción basada en recompensas.",
+                "Promoción de carácter estacional.",
+                "Promoción de marketing directo."
+            ],
+            "correctAnswer": 0,
+            "explanation": "Ofrecer más producto por el mismo precio es una técnica de promoción basada en el producto. (Fuente: Página 13, Sección: Tipos de promoción. Instrumentos)"
+        },
+        {
+            "question": "¿Qué efecto general suele producir la reducción de precios en una promoción de ventas?",
+            "options": [
+                "Disminución de la afluencia de público.",
+                "Pérdida inmediata de la imagen de marca.",
+                "Incremento de las ventas y atracción de nuevo público.",
+                "Reducción del stock de productos asociados."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Generalmente, cuando se reducen los precios se incrementan las ventas y se atrae nuevo público. (Fuente: Página 14, Sección: Efectos de la promoción y costes)"
+        },
+        {
+            "question": "¿Qué empresas tienen más posibilidades de ampliar ventas mediante promociones según el texto?",
+            "options": [
+                "Empresas monopolísticas.",
+                "Empresas con gran cuota de mercado.",
+                "Pequeñas empresas con menor cuota de mercado.",
+                "Empresas que no realizan publicidad impresa."
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las pequeñas empresas y aquellas con menor cuota de mercado tienen más posibilidades de ampliar ventas con promociones. (Fuente: Página 14, Sección: Efectos de la promoción y costes)"
+        },
+        {
+            "question": "Al calcular el coste de una acción de promoción, ¿qué gasto de personal debe incluirse?",
+            "options": [
+                "Solo el gasto de los gerentes de la empresa.",
+                "El personal necesario para llevar a cabo la actividad promocional.",
+                "Únicamente el personal de las agencias de transporte.",
+                "No se debe incluir el gasto de personal en el coste de promoción."
+            ],
+            "correctAnswer": 1,
+            "explanation": "Se debe sumar el gasto del personal necesario para llevar a cabo estas actividades promocionales. (Fuente: Página 14, Sección: Efectos de la promoción y costes)"
+        },
+        {
+            "question": "¿Qué factor complejo de medir debe considerarse al evaluar el plan de promociones a medio y largo plazo?",
+            "options": [
+                "El número de folletos impresos.",
+                "El coste de los regalos promocionales.",
+                "La mejora del posicionamiento como marca.",
+                "El precio exacto del lanzamiento."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La mejora del posicionamiento de marca es un factor complejo de medir que debe contemplarse a largo plazo. (Fuente: Página 14, Sección: Efectos de la promoción y costes)"
+        },
+        {
+            "question": "La 'Competencia Perfecta' se caracteriza por:",
+            "options": [
+                "Existencia de un único proveedor.",
+                "Pocos competidores diferenciados.",
+                "Gran cantidad de ofertantes del mismo producto o servicio.",
+                "Superespecialización de un mercado homogéneo."
+            ],
+            "correctAnswer": 2,
+            "explanation": "La competencia perfecta consta de gran cantidad de ofertantes del mismo producto o servicio. (Fuente: Página 4, Sección: Definición del mercado y de las acciones frente a la competencia)"
+        },
+        {
+            "question": "¿A qué se refiere el término 'Product Placement' mencionado en el texto?",
+            "options": [
+                "Colocación de productos en el lineal del supermercado.",
+                "Envío de muestras gratuitas por correo postal.",
+                "Emplazamiento de productos en series y programas de televisión.",
+                "Organización de ferias y eventos comerciales."
+            ],
+            "correctAnswer": 2,
+            "explanation": "El placement es el emplazamiento de productos en televisión para incitar al consumo. (Fuente: Página 10, Sección: Publicidad en el lugar de ventas. Merchandising)"
+        },
+        {
+            "question": "¿Cuál es un elemento fundamental del mensaje en el plan de publicidad?",
+            "options": [
+                "Debe ser largo y detallado para no dejar dudas.",
+                "Debe definirse de forma clara y sencilla.",
+                "Debe evitar el uso de imágenes para no distraer.",
+                "Debe ser igual al de toda la competencia."
+            ],
+            "correctAnswer": 1,
+            "explanation": "El mensaje debe definirse de forma clara y sencilla para que llegue al público objetivo. (Fuente: Página 8, Sección: Plan de publicidad)"
+        }
+    ]
+}

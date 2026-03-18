@@ -1,0 +1,303 @@
+SIMULACIÓN EMPRESARIAL - TEMA 6: ORGANIZACIÓN INTERNA DE LA EMPRESA
+=================================================
+
+Pregunta 1: ¿Cómo se define la organización empresarial?
+  A) Un conjunto de normas impuestas por la legislación vigente de forma externa.
+  B) La coordinación de recursos humanos y materiales, y la gestión de actividades para lograr objetivos.
+  C) La creación espontánea de relaciones personales entre los trabajadores de una oficina.
+  D) El proceso exclusivo de contratación y despido de personal en una entidad jurídica.
+
+Respuesta Correcta: B
+Explicación: La organización empresarial se define como la coordinación de recursos, tanto humanos como materiales, y la gestión de actividades para conseguir los objetivos marcados. (Fuente: Página 4, Sección: La organización empresarial y la actividad empresarial)
+-------------------------------------------------
+
+Pregunta 2: ¿Qué caracteriza al modelo organizacional informal?
+  A) Está recogido por escrito en los documentos formales de la empresa.
+  B) Regula las funciones y asigna los roles según el plan de empresa inicial.
+  C) Está formado por comportamientos y relaciones personales/profesionales espontáneas.
+  D) Es un modelo estático que no evoluciona una vez constituida la sociedad.
+
+Respuesta Correcta: C
+Explicación: El modelo informal está formado por los comportamientos y las relaciones personales y profesionales que se producen de forma espontánea. (Fuente: Página 4, Sección: La organización empresarial y la actividad empresarial)
+-------------------------------------------------
+
+Pregunta 3: Un objetivo que se plantea para un plazo de entre 1 y 3 años se clasifica como:
+  A) Objetivo a corto plazo.
+  B) Objetivo a medio plazo.
+  C) Objetivo a largo plazo.
+  D) Objetivo operativo.
+
+Respuesta Correcta: B
+Explicación: Los objetivos a medio plazo son aquellos que se fijan para ser alcanzados entre 1 y 3 años. (Fuente: Página 5, Sección: Establecimiento de los objetivos empresariales)
+-------------------------------------------------
+
+Pregunta 4: ¿Qué tipo de estructura empresarial se caracteriza por ser piramidal con supervisión directa de cargos directivos?
+  A) Estructura Matricial.
+  B) Estructura Funcional.
+  C) Estructura Jerárquica.
+  D) Estructura Lineal o de staff.
+
+Respuesta Correcta: C
+Explicación: La estructura jerárquica tiene forma piramidal y los cargos directivos supervisan a personas que dependen de ellos. (Fuente: Página 4, Sección: Establecimiento de los objetivos empresariales)
+-------------------------------------------------
+
+Pregunta 5: En la clasificación según el nivel de concreción, 'aumentar en un 10% las ventas' es un ejemplo de:
+  A) Objetivo general.
+  B) Misión empresarial.
+  C) Objetivo específico o meta.
+  D) Visión estratégica.
+
+Respuesta Correcta: C
+Explicación: Los objetivos específicos o metas concretan los generales, como por ejemplo aumentar en un 10% las ventas. (Fuente: Página 4, Sección: Establecimiento de los objetivos empresariales)
+-------------------------------------------------
+
+Pregunta 6: ¿Cuál es la función principal del área de Administración?
+  A) Establecer los objetivos de la empresa y aplicar medios para alcanzarlos.
+  B) Transformar materias primas en productos acabados.
+  C) Realizar tareas de soporte como contabilidad, fiscalidad y trámites administrativos.
+  D) Buscar recursos financieros externos para la comercialización.
+
+Respuesta Correcta: C
+Explicación: El área de administración realiza tareas de soporte como contabilidad, fiscalidad y trámites administrativos. (Fuente: Página 5, Sección: Áreas funcionales y estructura organizativa)
+-------------------------------------------------
+
+Pregunta 7: ¿Qué área funcional es responsable de la relación con los proveedores y la obtención de materiales externos?
+  A) Compras o aprovisionamientos.
+  B) Área Financiera.
+  C) Área Comercial o ventas.
+  D) Dirección o gerencia.
+
+Respuesta Correcta: A
+Explicación: El área de compras u obtención de aprovisionamientos obtiene materiales y servicios del exterior relacionándose con proveedores. (Fuente: Página 5, Sección: Áreas funcionales y estructura organizativa)
+-------------------------------------------------
+
+Pregunta 8: ¿Qué representa gráficamente un organigrama?
+  A) La evolución de las ventas mensuales de la empresa.
+  B) La distribución física de las oficinas y maquinaria.
+  C) Las áreas funcionales, niveles de autoridad y canales de transmisión de información.
+  D) El balance de situación y la cuenta de pérdidas y ganancias.
+
+Respuesta Correcta: C
+Explicación: Un organigrama es la representación gráfica de las áreas funcionales, niveles de autoridad y canales de transmisión de información. (Fuente: Página 7, Sección: Los organigramas)
+-------------------------------------------------
+
+Pregunta 9: Los organigramas que son muy detallados y recogen todas las unidades por pequeñas que sean se denominan:
+  A) Informativos.
+  B) De análisis.
+  C) Generales.
+  D) Estructurales.
+
+Respuesta Correcta: B
+Explicación: Según su finalidad, los organigramas de análisis son muy detallados y recogen todas las unidades por pequeñas que sean. (Fuente: Página 7, Sección: Los organigramas)
+-------------------------------------------------
+
+Pregunta 10: ¿En qué tipo de organigrama, según su forma, las unidades con más autoridad se sitúan a la izquierda?
+  A) Verticales.
+  B) Circulares.
+  C) Mixtos.
+  D) Horizontales.
+
+Respuesta Correcta: D
+Explicación: En los organigramas horizontales, las unidades con más autoridad se representan a la izquierda. (Fuente: Página 7, Sección: Los organigramas)
+-------------------------------------------------
+
+Pregunta 11: ¿Qué concepción tiene la gestión actual de RR.HH. sobre el trabajador?
+  A) Se concibe como un coste derivado de la contratación.
+  B) Se concibe como una inversión y una gestión de competencias.
+  C) Se considera un elemento secundario frente a la tecnología.
+  D) Se ve exclusivamente como una obligación legal de la empresa.
+
+Respuesta Correcta: B
+Explicación: Se ha pasado de la concepción tradicional del trabajador como coste a concebirlo como una inversión centrada en la gestión de competencias. (Fuente: Página 8, Sección: El departamento de personal)
+-------------------------------------------------
+
+Pregunta 12: Dentro de las funciones estratégicas de RR.HH., la 'evaluación del rendimiento' pertenece a:
+  A) La adquisición de competencias.
+  B) El desarrollo de las competencias.
+  C) La estimulación de competencias.
+  D) La descripción de puestos.
+
+Respuesta Correcta: C
+Explicación: La estimulación de competencias incluye acciones para mantener la motivación, como la evaluación del rendimiento. (Fuente: Página 8, Sección: El departamento de personal)
+-------------------------------------------------
+
+Pregunta 13: ¿Cuál es el objetivo principal de un proceso de selección de personal?
+  A) Contratar al candidato con el salario más bajo posible.
+  B) Adecuar las características del candidato a los requisitos del puesto de trabajo.
+  C) Cumplir con las cuotas de género establecidas por la ley.
+  D) Sustituir automáticamente a los trabajadores que se jubilan.
+
+Respuesta Correcta: B
+Explicación: El objetivo consiste en la adecuación de las características de la persona candidata a los requisitos descritos para un puesto de trabajo. (Fuente: Página 9, Sección: Políticas de RRHH en la empresa)
+-------------------------------------------------
+
+Pregunta 14: Sobre las fuentes de reclutamiento, ¿qué se dice de los portales de empleo y redes sociales?
+  A) Son procesos lentos y burocráticos.
+  B) Tienen un alto riesgo por la presión de las recomendaciones.
+  C) Es la opción más utilizada en la actualidad (Linkedin, Infojobs...).
+  D) Son servicios gratuitos de intermediación pública exclusivamente.
+
+Respuesta Correcta: C
+Explicación: Los portales de empleo y redes sociales como Infojobs o Linkedin son la opción más utilizada en la actualidad. (Fuente: Página 9, Sección: Políticas de RRHH en la empresa)
+-------------------------------------------------
+
+Pregunta 15: ¿Cuál de los siguientes es un beneficio de la formación continua para la empresa?
+  A) Aumento de la rotación de la plantilla.
+  B) Mejora de la cultura organizacional y aumento de la innovación.
+  C) Reducción de la inversión en activos fijos.
+  D) Eliminación total de los costes de seguridad social.
+
+Respuesta Correcta: B
+Explicación: Para las empresas, la formación aporta beneficios como mejorar la cultura organizacional y aumentar la innovación. (Fuente: Página 10, Sección: La formación en la empresa)
+-------------------------------------------------
+
+Pregunta 16: ¿Cuál es el primer paso recomendado en el diseño de un plan de formación?
+  A) Diseño de la encuesta de satisfacción final.
+  B) Identificación o evaluación de las necesidades formativas.
+  C) Contratación de los profesores externos.
+  D) Elección de la plataforma online de formación.
+
+Respuesta Correcta: B
+Explicación: Un plan de formación debe comenzar con la evaluación de las necesidades formativas. (Fuente: Página 10, Sección: La formación en la empresa)
+-------------------------------------------------
+
+Pregunta 17: ¿Qué función de la comunicación se refiere al seguimiento de las políticas de la empresa y quejas?
+  A) Función de expresión emocional.
+  B) Función de motivación.
+  C) Función de control.
+  D) Función de información.
+
+Respuesta Correcta: C
+Explicación: La función de control se refiere al control del comportamiento pidiendo que se siga la política de la empresa o se comuniquen quejas. (Fuente: Página 11, Sección: La comunicación en la empresa)
+-------------------------------------------------
+
+Pregunta 18: ¿Qué dirección de comunicación se produce entre personas de un mismo rango?
+  A) Comunicación ascendente.
+  B) Comunicación horizontal.
+  C) Comunicación descendente.
+  D) Comunicación oblicua.
+
+Respuesta Correcta: B
+Explicación: La comunicación horizontal es la que se establece entre personas de un mismo rango. (Fuente: Página 12, Sección: La comunicación en la empresa)
+-------------------------------------------------
+
+Pregunta 19: ¿Cómo se define la Ética Empresarial según el texto?
+  A) La gestión de los impactos generados sobre el medioambiente.
+  B) El conjunto de valores y normas que regulan la actividad que la empresa considera propios.
+  C) La obligación legal de presentar cuentas anuales al registro.
+  D) La participación en causas sociales exclusivamente fuera de la empresa.
+
+Respuesta Correcta: B
+Explicación: La ética empresarial es el conjunto de valores, normas y principios que regulan la actividad empresarial y que la empresa considera como propios. (Fuente: Página 12, Sección: Cultura, ética y responsabilidad social empresarial)
+-------------------------------------------------
+
+Pregunta 20: La definición de dirigir empresas basada en la gestión de impactos sobre clientes, empleados y sociedad corresponde a:
+  A) Cultura de empresa.
+  B) Protocolo familiar.
+  C) Responsabilidad Social Corporativa (RSC).
+  D) Estrategia de marketing digital.
+
+Respuesta Correcta: C
+Explicación: La RSC se define como una forma de dirigir las empresas basada en la gestión de los impactos que su actividad genera sobre clientes, empleados, sociedad, etc. (Fuente: Página 12, Sección: Cultura, ética y responsabilidad social empresarial)
+-------------------------------------------------
+
+Pregunta 21: ¿Qué documento de 1999 de Naciones Unidas establece diez principios sobre medio ambiente y derechos humanos?
+  A) Tratado de Kioto.
+  B) Pacto Mundial (UN Global Compact).
+  C) Agenda 2030.
+  D) Ley de Prevención de Riesgos.
+
+Respuesta Correcta: B
+Explicación: En 1999 se aprueba el Pacto Mundial (UN Global Compact) con diez principios sobre protección ambiental, derechos humanos y laborales. (Fuente: Página 12, Sección: Cultura, ética y responsabilidad social empresarial)
+-------------------------------------------------
+
+Pregunta 22: ¿Cuál es la principal función de la prevención de riesgos laborales?
+  A) Aumentar el número de horas trabajadas por empleado.
+  B) Evitar o minimizar las causas de accidentes de trabajo y enfermedades profesionales.
+  C) Sancionar económicamente a los trabajadores que cometen errores.
+  D) Garantizar que todos los trabajadores tengan un seguro médico privado.
+
+Respuesta Correcta: B
+Explicación: La principal función de la prevención de riesgos laborales es evitar o minimizar las causas de los accidentes de trabajo y de las enfermedades profesionales. (Fuente: Página 13, Sección: Prevención de riesgos laborales y medioambiente)
+-------------------------------------------------
+
+Pregunta 23: ¿Qué especialidades abarca la Ley de Prevención de Riesgos Laborales de 1995?
+  A) Sólo seguridad en el trabajo y primeros auxilios.
+  B) Seguridad, higiene industrial, ergonomía/psicosociología y vigilancia de la salud.
+  C) Contratación, nóminas, despidos y jubilaciones.
+  D) Reciclaje, control de vertidos y emisiones de CO2.
+
+Respuesta Correcta: B
+Explicación: La Ley de 1995 abarca seguridad en el trabajo, higiene industrial, ergonomía y psicosociología y vigilancia de la salud. (Fuente: Página 13, Sección: Prevención de riesgos laborales y medioambiente)
+-------------------------------------------------
+
+Pregunta 24: ¿Quién tiene las competencias en salud laboral para desarrollar legislación específica por sectores?
+  A) La Unión Europea exclusivamente.
+  B) Las Comunidades Autónomas.
+  C) Los Ayuntamientos.
+  D) Las Mutuas de accidentes de forma independiente.
+
+Respuesta Correcta: B
+Explicación: Las comunidades autónomas tienen las competencias en salud laboral y han ido desarrollando legislación específica. (Fuente: Página 13, Sección: Prevención de riesgos laborales y medioambiente)
+-------------------------------------------------
+
+Pregunta 25: ¿Qué aspectos regulan las leyes medioambientales en relación con las empresas?
+  A) El horario de apertura y cierre de los establecimientos.
+  B) El control de residuos, sistemas de seguridad y obligación de reciclaje.
+  C) El precio de venta al público de los productos manufacturados.
+  D) La titulación académica necesaria para los directivos.
+
+Respuesta Correcta: B
+Explicación: Las leyes ambientales regulan aspectos como el control de residuos, los sistemas de seguridad y la obligación del reciclaje. (Fuente: Página 13, Sección: Prevención de riesgos laborales y medioambiente)
+-------------------------------------------------
+
+Pregunta 26: En el contexto de la formación, ¿qué significa que la metodología sea 'Blended learning'?
+  A) Que es 100% presencial.
+  B) Que es una combinación de formación presencial y a distancia/online.
+  C) Que se realiza exclusivamente dentro de la empresa.
+  D) Que no requiere evaluación final.
+
+Respuesta Correcta: B
+Explicación: Aunque no se define explícitamente en el glosario, aparece en la tabla de diseño del plan formativo como una opción de ejecución (mezcla de presencial y online). (Fuente: Página 10, Sección: La formación en la empresa)
+-------------------------------------------------
+
+Pregunta 27: ¿Qué tipo de comunicación se utiliza habitualmente para dar instrucciones de quién debe hacer qué?
+  A) Comunicación ascendente.
+  B) Comunicación horizontal.
+  C) Comunicación descendente.
+  D) Comunicación informal.
+
+Respuesta Correcta: C
+Explicación: La comunicación descendente se utiliza para dar instrucciones sobre quién debe hacer qué, cuándo y cómo. (Fuente: Página 12, Sección: La comunicación en la empresa)
+-------------------------------------------------
+
+Pregunta 28: Los objetivos que forman parte de la misión y la visión de la empresa se denominan:
+  A) Objetivos operativos.
+  B) Objetivos generales.
+  C) Objetivos específicos.
+  D) Objetivos tácticos.
+
+Respuesta Correcta: B
+Explicación: Los objetivos generales son los que forman parte de la misión y la visión de la empresa. (Fuente: Página 4, Sección: Establecimiento de los objetivos empresariales)
+-------------------------------------------------
+
+Pregunta 29: ¿Cuál es la duración típica de los objetivos a corto plazo?
+  A) Más de 5 años.
+  B) Entre 1 y 3 años.
+  C) Entre 3 y 5 años.
+  D) Menor a 1 año.
+
+Respuesta Correcta: D
+Explicación: Los objetivos a corto plazo son los que se fijan en un plazo menor a 1 año. (Fuente: Página 5, Sección: Establecimiento de los objetivos empresariales)
+-------------------------------------------------
+
+Pregunta 30: ¿Qué tipo de estructura organiza a la empresa según líneas de productos, tipo de clientes o zona geográfica?
+  A) Estructura por división.
+  B) Estructura Lineal.
+  C) Estructura Funcional.
+  D) Estructura de Staff.
+
+Respuesta Correcta: A
+Explicación: La estructura por división se organiza según líneas de productos, tipos de clientes o zona geográfica. (Fuente: Página 4, Sección: Establecimiento de los objetivos empresariales)
+-------------------------------------------------
+

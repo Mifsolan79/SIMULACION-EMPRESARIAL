@@ -1,0 +1,303 @@
+Simulacion empresarial. Tema 12
+=================================================
+
+Pregunta 1: ¿Qué tipo de contabilidad se encarga de recoger la información de las operaciones de producción de la empresa y ofrece información interna?
+  A) Contabilidad de costes
+  B) Contabilidad financiera
+  C) Contabilidad de proveedores
+  D) Contabilidad de servicios
+
+Respuesta Correcta: A
+Explicación: La contabilidad de costes recoge la información de las operaciones de producción y es información interna de la empresa. (Fuente: Página 4, Sección: 2. La contabilidad)
+-------------------------------------------------
+
+Pregunta 2: Para que una empresa pueda aplicar el Plan General de Contabilidad de Pymes, ¿cuál es el límite máximo del total del activo?
+  A) 8.000.000 euros
+  B) 4.000.000 euros
+  C) 2.000.000 euros
+  D) 10.000.000 euros
+
+Respuesta Correcta: B
+Explicación: Una de las circunstancias para aplicar este plan es que el total del activo no exceda los 4.000.000 euros. (Fuente: Página 5, Sección: 3. El Plan General Contable)
+-------------------------------------------------
+
+Pregunta 3: Dentro de las masas patrimoniales, ¿qué representa el activo?
+  A) Las deudas y obligaciones contraídas por la empresa
+  B) Las aportaciones de capital hechas por los socios
+  C) El conjunto de bienes y derechos de la empresa
+  D) Las reservas acumuladas durante los ejercicios
+
+Respuesta Correcta: C
+Explicación: El activo representa el conjunto de bienes y derechos de la empresa y determina su capacidad productiva. (Fuente: Página 6, Sección: 4. Patrimonio de la empresa y su representación)
+-------------------------------------------------
+
+Pregunta 4: ¿Cómo se define el patrimonio neto de una empresa?
+  A) Suma de bienes y derechos de cobro
+  B) Resto de activos una vez deducidos todos sus pasivos
+  C) Conjunto de deudas a corto y largo plazo
+  D) Total de la tesorería disponible en bancos y caja
+
+Respuesta Correcta: B
+Explicación: El patrimonio neto es el resto de activos una vez deducidos todos sus pasivos. (Fuente: Página 6, Sección: 4. Patrimonio de la empresa y su representación)
+-------------------------------------------------
+
+Pregunta 5: En la representación de una cuenta contable, ¿qué se registra habitualmente en el 'haber'?
+  A) Operaciones que implican un ingreso
+  B) Todos los débitos realizados
+  C) Operaciones que implican una salida o disminución
+  D) Aumentos de elementos de activo
+
+Respuesta Correcta: C
+Explicación: En el haber se registran aquellas operaciones que implican una salida o una disminución. (Fuente: Página 6, Sección: 4. Patrimonio de la empresa y su representación)
+-------------------------------------------------
+
+Pregunta 6: ¿Cuál de los siguientes elementos forma parte del activo corriente?
+  A) Maquinaria
+  B) Mercaderías
+  C) Locales
+  D) Vehículos
+
+Respuesta Correcta: B
+Explicación: Forman parte del activo corriente elementos como mercaderías, dinero en banco y caja. (Fuente: Página 8, Sección: 6. El balance)
+-------------------------------------------------
+
+Pregunta 7: ¿Qué representa la estructura financiera de la empresa?
+  A) El destino de los recursos financieros y las inversiones
+  B) El origen de los fondos o recursos para hacer frente a la inversión
+  C) La capacidad productiva de la maquinaria
+  D) El conjunto de edificios y terrenos en propiedad
+
+Respuesta Correcta: B
+Explicación: La estructura financiera refleja el origen de los fondos o recursos con los que se ha hecho frente a la estructura económica. (Fuente: Página 9, Sección: 7. Estructura económica y financiera de la empresa)
+-------------------------------------------------
+
+Pregunta 8: Según el cuadro de cuentas del PGC, ¿qué nivel de codificación corresponde a la 'subcuenta'?
+  A) Un dígito
+  B) Dos dígitos
+  C) Tres dígitos
+  D) Cuatro dígitos
+
+Respuesta Correcta: D
+Explicación: La subcuenta está codificada con cuatro dígitos y es el nivel más específico. (Fuente: Página 10, Sección: 8. El cuadro de cuentas)
+-------------------------------------------------
+
+Pregunta 9: El grupo 4 del cuadro de cuentas del Plan General Contable se refiere a:
+  A) Inmovilizado material
+  B) Acreedores y deudores por operaciones varias
+  C) Financiación básica
+  D) Cuentas financieras
+
+Respuesta Correcta: B
+Explicación: Los acreedores y los deudores pertenecen al grupo 4 del cuadro de cuentas. (Fuente: Página 10, Sección: 8. El cuadro de cuentas)
+-------------------------------------------------
+
+Pregunta 10: ¿Cuál de estos libros contables es obligatorio según el Código de Comercio?
+  A) Libro mayor
+  B) Libro de caja
+  C) Libro diario
+  D) Libro de banco
+
+Respuesta Correcta: C
+Explicación: El libro diario es uno de los tres libros contables obligatorios según el Código de Comercio. (Fuente: Página 11, Sección: 9. Libros contables y documentos obligatorios)
+-------------------------------------------------
+
+Pregunta 11: ¿Qué documento contable recoge los acuerdos tomados por la Junta General de Accionistas?
+  A) Libro de inventario
+  B) Cuentas anuales
+  C) Libro de actas
+  D) Memoria económica
+
+Respuesta Correcta: C
+Explicación: Las empresas tendrán que llevar un libro de actas para recoger los acuerdos tomados por la Junta General de Accionistas. (Fuente: Página 11, Sección: 9. Libros contables y documentos obligatorios)
+-------------------------------------------------
+
+Pregunta 12: En una cuenta de activo como la de 'Caja', ¿dónde se anotan los aumentos de valor?
+  A) En el debe
+  B) En el haber
+  C) En el pasivo
+  D) En el patrimonio neto
+
+Respuesta Correcta: A
+Explicación: Al ser una cuenta de activo, los aumentos se anotan en el debe. (Fuente: Página 12, Sección: 10. Caso práctico 2)
+-------------------------------------------------
+
+Pregunta 13: ¿Qué situación describe a una empresa con 'equilibrio total'?
+  A) El activo corriente es igual al pasivo corriente
+  B) Todo el activo está financiado por patrimonio neto
+  C) Las deudas a corto plazo financian el activo fijo
+  D) El pasivo no corriente es mayor que el patrimonio neto
+
+Respuesta Correcta: B
+Explicación: El equilibrio total ocurre cuando todo el activo está financiado por patrimonio neto, sin financiación ajena. (Fuente: Página 13, Sección: 11. Modelo de balance de Pymes)
+-------------------------------------------------
+
+Pregunta 14: Se define como 'hecho contable' a:
+  A) Cualquier reunión de los socios de la empresa
+  B) Toda operación que afecta a la composición del patrimonio con carácter económico
+  C) La firma de un contrato de trabajo con un empleado
+  D) El diseño de un nuevo logotipo para la empresa
+
+Respuesta Correcta: B
+Explicación: Cada operación que afecta a la composición del patrimonio de la empresa y que tiene carácter económico es un hecho contable. (Fuente: Página 13, Sección: 12. La mecánica contable)
+-------------------------------------------------
+
+Pregunta 15: ¿Qué tipo de cuenta contable registra los ingresos y gastos generados en la actividad normal de la empresa?
+  A) Cuentas Patrimoniales
+  B) Cuentas de Pasivo
+  C) Cuentas de Gestión
+  D) Cuentas de Activo No Corriente
+
+Respuesta Correcta: C
+Explicación: Las cuentas de gestión recogen los ingresos y gastos que se van generando cada día en la actividad normal. (Fuente: Página 13, Sección: 12. La mecánica contable)
+-------------------------------------------------
+
+Pregunta 16: ¿Cuál es la fórmula básica que define la cuenta de pérdidas y ganancias?
+  A) Activo - Pasivo = Patrimonio
+  B) Bienes + Derechos = Obligaciones
+  C) Ingreso - Gasto = Ganancias
+  D) Debe - Haber = Saldo
+
+Respuesta Correcta: C
+Explicación: La cuenta de pérdidas y ganancias se rige por la fórmula Ingreso - Gasto = Ganancias. (Fuente: Página 14, Sección: 13. La cuenta de pérdidas y ganancias)
+-------------------------------------------------
+
+Pregunta 17: ¿Cómo se denomina al gasto anual derivado del uso de un activo de inversión?
+  A) Aprovisionamiento
+  B) Amortización
+  C) Subvención
+  D) Tributo
+
+Respuesta Correcta: B
+Explicación: El gasto anual por el uso de un activo se denomina amortización. (Fuente: Página 14, Sección: 13. La cuenta de pérdidas y ganancias)
+-------------------------------------------------
+
+Pregunta 18: Para que la información contable sea 'clara', debe cumplir con el requisito de ser:
+  A) Correcta en sus datos
+  B) Suministrada en tiempo y forma
+  C) Entendible por todos
+  D) Presentada sin prejuicios
+
+Respuesta Correcta: C
+Explicación: La característica de claridad implica que los datos sean entendibles por todos. (Fuente: Página 5, Sección: 3. El Plan General Contable)
+-------------------------------------------------
+
+Pregunta 19: ¿A qué subgrupo del cuadro de cuentas pertenece el código (40) Proveedores?
+  A) A la cuenta
+  B) Al grupo
+  C) A la subcuenta
+  D) Al subgrupo
+
+Respuesta Correcta: D
+Explicación: El subgrupo está codificado con dos dígitos, por ejemplo, el código (40) Proveedores. (Fuente: Página 10, Sección: 8. El cuadro de cuentas)
+-------------------------------------------------
+
+Pregunta 20: En el balance de situación, ¿cómo se ordenan las obligaciones?
+  A) Por orden alfabético
+  B) Según su liquidez
+  C) Según su exigibilidad
+  D) Por el volumen de la deuda
+
+Respuesta Correcta: C
+Explicación: Las obligaciones se ordenan según su exigibilidad (deudas a l/p y deudas a c/p). (Fuente: Página 6, Sección: 4. Patrimonio de la empresa y su representación)
+-------------------------------------------------
+
+Pregunta 21: ¿Qué organismo oficial es el responsable del Plan General de Contabilidad en España?
+  A) Agencia Estatal Tributaria
+  B) Instituto de Contabilidad y Auditoría de Cuentas (ICAC)
+  C) Registro Mercantil Central
+  D) Banco de España
+
+Respuesta Correcta: B
+Explicación: El Instituto de Contabilidad y Auditoría de Cuentas es el responsable del Plan General de Contabilidad. (Fuente: Página 4, Sección: 3. El Plan General Contable)
+-------------------------------------------------
+
+Pregunta 22: ¿Qué comprende el pasivo no corriente?
+  A) Deudas con proveedores pagaderas a 60 días
+  B) Compromisos de devolución en un periodo superior a un año
+  C) Aportaciones de los socios al capital social
+  D) Dinero disponible en la caja de la empresa
+
+Respuesta Correcta: B
+Explicación: El pasivo no corriente incluye obligaciones con un compromiso de devolución en un periodo superior a un año. (Fuente: Página 8, Sección: 6. El balance)
+-------------------------------------------------
+
+Pregunta 23: El fondo de maniobra se utiliza para evitar el riesgo de:
+  A) Exceso de beneficios
+  B) Insolvencia
+  C) Inflación
+  D) Sobrecapacidad productiva
+
+Respuesta Correcta: B
+Explicación: El fondo de maniobra permite disponer de un fondo de seguridad para evitar el riesgo de insolvencia. (Fuente: Página 9, Sección: 7. Estructura económica y financiera de la empresa)
+-------------------------------------------------
+
+Pregunta 24: ¿Cuál es el plazo que tienen las empresas para elaborar la cuenta de pérdidas y ganancias tras terminar el ejercicio?
+  A) Un mes
+  B) Seis meses
+  C) Tres meses
+  D) Doce meses
+
+Respuesta Correcta: C
+Explicación: Las empresas cuentan con un periodo de tres meses para elaborar la cuenta de pérdidas y ganancias y otros estados financieros. (Fuente: Página 15, Sección: 13. La cuenta de pérdidas y ganancias)
+-------------------------------------------------
+
+Pregunta 25: Si una empresa financia materias primas con un crédito bancario a largo plazo, se encuentra en una situación de:
+  A) Equilibrio total
+  B) Insolvencia
+  C) Falta de liquidez
+  D) Máxima solvencia
+
+Respuesta Correcta: C
+Explicación: La falta de liquidez se da cuando parte de los activos corrientes (como materias primas) se financian con pasivos no corrientes. (Fuente: Página 13, Sección: 11. Modelo de balance de Pymes)
+-------------------------------------------------
+
+Pregunta 26: En el sistema de partida doble, ¿qué documento refleja todos los movimientos que aparecen en el libro diario por cada cuenta individual?
+  A) Libro de actas
+  B) Libro mayor
+  C) Balance de situación
+  D) Memoria
+
+Respuesta Correcta: B
+Explicación: El libro mayor refleja todos los movimientos que aparecen en el libro diario recogido por cada cuenta. (Fuente: Página 11, Sección: 9. Libros contables y documentos obligatorios)
+-------------------------------------------------
+
+Pregunta 27: ¿Qué característica de la información contable asegura que los datos sean correctos?
+  A) Relevancia
+  B) Fiabilidad
+  C) Integridad
+  D) Objetividad
+
+Respuesta Correcta: B
+Explicación: La fiabilidad significa que los datos contables sean correctos. (Fuente: Página 5, Sección: 3. El Plan General Contable)
+-------------------------------------------------
+
+Pregunta 28: La suma total del activo en un balance debe ser siempre igual a:
+  A) La suma del Pasivo Corriente
+  B) La suma del Patrimonio Neto y el Pasivo
+  C) La suma de los Ingresos y Gastos
+  D) La suma del Activo No Corriente
+
+Respuesta Correcta: B
+Explicación: El balance representa el equilibrio donde el Total Activo es igual al Total PN y Pasivo. (Fuente: Página 13, Sección: 11. Modelo de balance de Pymes)
+-------------------------------------------------
+
+Pregunta 29: ¿Qué elemento del cuadro de cuentas tiene asignado el código (570)?
+  A) Bancos
+  B) Hacienda Pública
+  C) Caja
+  D) Sueldos y salarios
+
+Respuesta Correcta: C
+Explicación: El código (570) corresponde a la cuenta de Caja. (Fuente: Página 10, Sección: 8. El cuadro de cuentas)
+-------------------------------------------------
+
+Pregunta 30: Las deudas que deben pagarse en un plazo igual o inferior a un año se clasifican como:
+  A) Pasivo no corriente
+  B) Patrimonio neto
+  C) Pasivo corriente
+  D) Activo corriente
+
+Respuesta Correcta: C
+Explicación: El pasivo corriente incluye obligaciones con un plazo de devolución igual o inferior a un año. (Fuente: Página 8, Sección: 6. El balance)
+-------------------------------------------------
+

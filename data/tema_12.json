@@ -1,0 +1,335 @@
+{
+    "title": "SIMULACIÓN EMPRESARIAL - TEMA 12",
+    "items": [
+        {
+            "question": "¿Cómo se define la contabilidad según el documento?",
+            "options": [
+                "Una técnica de marketing para atraer inversores",
+                "Un sistema que informa sobre el patrimonio y los resultados de la empresa",
+                "Un método para evadir impuestos legalmente",
+                "Una herramienta exclusiva para grandes multinacionales"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La contabilidad es el sistema que informa sobre el patrimonio de la empresa y sobre los resultados obtenidos. (Fuente: Página 4, Sección: 2. ¿Qué es la contabilidad?)"
+        },
+        {
+            "question": "¿Para qué sirve principalmente la contabilidad a los agentes externos como los bancos?",
+            "options": [
+                "Para decidir si conceder o no financiación",
+                "Para diseñar campañas publicitarias",
+                "Para elegir el color del logotipo de la empresa",
+                "Para contratar personal de limpieza"
+            ],
+            "correctAnswer": 0,
+            "explanation": "La contabilidad sirve a agentes externos como acreedores y bancos para decidir si otorgar o no financiación. (Fuente: Página 4, Sección: 2. ¿Qué es la contabilidad?)"
+        },
+        {
+            "question": "¿Qué significan las siglas PGC en el ámbito contable español?",
+            "options": [
+                "Plan General de Compras",
+                "Presupuesto Global de Capital",
+                "Plan General Contable",
+                "Programa de Gestión Comercial"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El PGC es el Plan General Contable, que constituye el marco normativo que regula la contabilidad en España. (Fuente: Página 5, Sección: 3. El Plan General Contable (PGC))"
+        },
+        {
+            "question": "¿A qué empresas va dirigido específicamente el PGC de PYMES?",
+            "options": [
+                "Solo a empresas con más de 500 trabajadores",
+                "A empresas que no superan ciertos límites de activos, cifra de negocios y trabajadores",
+                "A fundaciones sin ánimo de lucro exclusivamente",
+                "A cualquier empresa que cotice en bolsa"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El PGC de PYMES va dirigido a empresas que no superen límites de activo (2.850.000€), cifra de negocios (5.700.000€) y trabajadores (50). (Fuente: Página 5, Sección: 3. El Plan General Contable (PGC))"
+        },
+        {
+            "question": "En el marco conceptual del PGC, ¿qué principio obliga a valorar los elementos por su precio de adquisición?",
+            "options": [
+                "Principio de devengo",
+                "Principio de empresa en funcionamiento",
+                "Principio de precio de adquisición",
+                "Principio de uniformidad"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El principio de precio de adquisición obliga a que los elementos del activo se valoren por su precio de compra o coste de producción. (Fuente: Página 5, Sección: 3. El Plan General Contable (PGC))"
+        },
+        {
+            "question": "¿Qué componente del patrimonio representa los bienes y derechos de la empresa?",
+            "options": [
+                "Patrimonio Neto",
+                "Activo",
+                "Pasivo",
+                "Cifra de ventas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Activo constituye todos los bienes y derechos de los que la empresa es titular. (Fuente: Página 6, Sección: 4. El patrimonio: Activo, Pasivo y Patrimonio Neto)"
+        },
+        {
+            "question": "¿Cuál es la ecuación fundamental del patrimonio?",
+            "options": [
+                "Activo = Pasivo - Patrimonio Neto",
+                "Activo = Pasivo + Patrimonio Neto",
+                "Pasivo = Activo + Patrimonio Neto",
+                "Patrimonio Neto = Activo + Pasivo"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La fórmula fundamental es Activo = Pasivo + Patrimonio Neto. (Fuente: Página 6, Sección: 4. El patrimonio: Activo, Pasivo y Patrimonio Neto)"
+        },
+        {
+            "question": "¿Qué representa el Pasivo en una empresa?",
+            "options": [
+                "El dinero que nos deben los clientes",
+                "Las máquinas y furgonetas de reparto",
+                "Las obligaciones o deudas que tiene la empresa",
+                "Los beneficios acumulados de años anteriores"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El Pasivo son todas las obligaciones o deudas que tiene la empresa (fuentes de financiación ajena). (Fuente: Página 6, Sección: 4. El patrimonio: Activo, Pasivo y Patrimonio Neto)"
+        },
+        {
+            "question": "En el balance de situación, el dinero depositado en cuentas corrientes se clasifica como:",
+            "options": [
+                "Activo no corriente",
+                "Pasivo corriente",
+                "Activo corriente (Disponible)",
+                "Patrimonio Neto"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El dinero en efectivo o bancos se incluye en el Activo corriente bajo la denominación de 'Disponible'. (Fuente: Página 7, Sección: 5. El balance de situación)"
+        },
+        {
+            "question": "¿Cuál es la diferencia entre el Activo no corriente y el Activo corriente?",
+            "options": [
+                "El no corriente se queda en la empresa más de un año; el corriente se renueva en menos de un año",
+                "El no corriente son las deudas; el corriente son los bienes",
+                "El no corriente es dinero en efectivo; el corriente es maquinaria",
+                "No hay ninguna diferencia, son términos intercambiables"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Activo no corriente: elementos que permanecerán más de un año (maquinaria, locales). Activo corriente: se renuevan en menos de un año (mercaderías, dinero). (Fuente: Página 7, Sección: 5. El balance de situación)"
+        },
+        {
+            "question": "Los préstamos a devolver en un periodo mayor a un año se clasifican en el balance como:",
+            "options": [
+                "Pasivo corriente",
+                "Pasivo no corriente",
+                "Activo no corriente",
+                "Fondo de maniobra"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Pasivo no corriente recoge las deudas con vencimiento superior a un año. (Fuente: Página 7, Sección: 5. El balance de situación)"
+        },
+        {
+            "question": "¿Qué documento contable informa del resultado del ejercicio (beneficios o pérdidas)?",
+            "options": [
+                "El Balance de Situación",
+                "La Cuenta de Pérdidas y Ganancias",
+                "El Libro de Inventarios",
+                "La Memoria Contable"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La Cuenta de Pérdidas y Ganancias recoge los ingresos y gastos y nos informa si ha habido beneficio o pérdida. (Fuente: Página 8, Sección: 6. La gestión contable)"
+        },
+        {
+            "question": "En contabilidad, ¿qué significa el método de la 'partida doble'?",
+            "options": [
+                "Que se deben pagar los impuestos dos veces",
+                "Que toda anotación en el DEBE tiene su contrapartida por igual valor en el HABER",
+                "Que se deben llevar dos libros de contabilidad distintos",
+                "Que el beneficio siempre debe ser el doble que el gasto"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Toda anotación contable supone la existencia de una partida (DEBE) y una contrapartida (HABER) por igual valor. (Fuente: Página 8, Sección: 6. La gestión contable)"
+        },
+        {
+            "question": "¿En qué libro se registran cronológicamente, día a día, las operaciones de la empresa?",
+            "options": [
+                "Libro Diario",
+                "Libro Mayor",
+                "Libro de Actas",
+                "Libro de Cuentas Anuales"
+            ],
+            "correctAnswer": 0,
+            "explanation": "En el Libro Diario se anotan cronológicamente y día a día todas las operaciones. (Fuente: Página 9, Sección: 7. Registro de las operaciones contables: Libros oficiales)"
+        },
+        {
+            "question": "¿Cuál es la función del Libro Mayor?",
+            "options": [
+                "Registrar el nombre de todos los accionistas",
+                "Recoger las operaciones de cada cuenta de forma individualizada",
+                "Presentar los impuestos ante la Agencia Tributaria",
+                "Guardar las facturas originales de los proveedores"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El Libro Mayor recoge las anotaciones de las cuentas de forma individual, permitiendo ver su saldo en cualquier momento. (Fuente: Página 9, Sección: 7. Registro de las operaciones contables: Libros oficiales)"
+        },
+        {
+            "question": "¿Qué libro contable es obligatorio legalmente según el Código de Comercio?",
+            "options": [
+                "Libro Mayor",
+                "Libro Diario",
+                "Libro de visitas",
+                "Catálogo de productos"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Son libros obligatorios para el empresario el Libro Diario y el Libro de Inventarios y Cuentas Anuales. (Fuente: Página 9, Sección: 7. Registro de las operaciones contables: Libros oficiales)"
+        },
+        {
+            "question": "¿Cuándo se deben depositar las Cuentas Anuales en el Registro Mercantil?",
+            "options": [
+                "En el plazo de un mes tras su aprobación",
+                "Cada diez años",
+                "Solo cuando la empresa entra en quiebra",
+                "El mismo día que se cierra el ejercicio"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Las cuentas anuales se depositan en el Registro Mercantil en el plazo de un mes desde su aprobación. (Fuente: Página 9, Sección: 7. Registro de las operaciones contables: Libros oficiales)"
+        },
+        {
+            "question": "Si una empresa tiene más gastos que ingresos, el resultado del ejercicio será:",
+            "options": [
+                "Positivo",
+                "Equilibrado",
+                "Negativo (Pérdida)",
+                "Un dividendo amortizable"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Cuando los gastos son mayores que los ingresos, el resultado es negativo (pérdidas). (Fuente: Página 8, Sección: 6. La gestión contable)"
+        },
+        {
+            "question": "En el activo corriente, ¿a qué se refiere el término 'Existencias'?",
+            "options": [
+                "Al mobiliario de la oficina",
+                "A las furgonetas usadas para el reparto",
+                "A las mercaderías o productos destinados a la venta",
+                "A las deudas de los clientes por ventas ya realizadas"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las Existencias incluyen artículos que la empresa compra para vender o producir otros productos. (Fuente: Página 7, Sección: 5. El balance de situación)"
+        },
+        {
+            "question": "¿Qué tipo de activo es una 'patente' o un 'programa informático'?",
+            "options": [
+                "Activo material",
+                "Activo intangible (Inmaterial)",
+                "Activo financiero",
+                "Activo corriente"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El inmovilizado inmaterial incluye elementos no físicos pero con valor, como patentes y programas informáticos. (Fuente: Página 7, Sección: 5. El balance de situación)"
+        },
+        {
+            "question": "El mobiliario, la maquinaria y los locales se agrupan en el balance como:",
+            "options": [
+                "Inmovilizado material",
+                "Existencias",
+                "Pasivo exigible",
+                "Realizable"
+            ],
+            "correctAnswer": 0,
+            "explanation": "El inmovilizado material lo constituyen los elementos físicos o tangibles (maquinaria, mobiliario, locales). (Fuente: Página 7, Sección: 5. El balance de situación)"
+        },
+        {
+            "question": "En el cuadro de cuentas del PGC, ¿qué grupo recoge las cuentas de 'Ingresos'?",
+            "options": [
+                "Grupo 1",
+                "Grupo 4",
+                "Grupo 7",
+                "Grupo 6"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El grupo 7 del PGC recoge las ventas e ingresos. (Fuente: Página 10, Sección: Anexo I)"
+        },
+        {
+            "question": "En el cuadro de cuentas del PGC, ¿qué grupo recoge las cuentas de 'Gastos'?",
+            "options": [
+                "Grupo 2",
+                "Grupo 5",
+                "Grupo 6",
+                "Grupo 3"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El grupo 6 del PGC recoge las compras y gastos. (Fuente: Página 10, Sección: Anexo I)"
+        },
+        {
+            "question": "¿Qué representa el saldo de una cuenta contable?",
+            "options": [
+                "La suma total del DEBE sin restar nada",
+                "La diferencia entre la suma del DEBE y la suma del HABER",
+                "El número de veces que se ha usado la cuenta",
+                "El valor de mercado de la empresa en ese momento"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El saldo es la diferencia entre la suma del debe y la suma del haber. (Fuente: Página 8, Sección: 6. La gestión contable)"
+        },
+        {
+            "question": "¿Qué información obligatoria debe acompañar a las cuentas anuales para ampliar y comentar la información del balance?",
+            "options": [
+                "La Memoria",
+                "El Libro Diario",
+                "La Declaración de la Renta",
+                "El catálogo de proveedores"
+            ],
+            "correctAnswer": 0,
+            "explanation": "La memoria completa, amplía y comenta la información contenida en los otros documentos de las cuentas anuales. (Fuente: Página 10, Sección: 8. Cuentas anuales)"
+        },
+        {
+            "question": "¿Cómo se llama el proceso de enviar las cuentas al Registro Mercantil para que cualquier ciudadano pueda verlas?",
+            "options": [
+                "Legalización de libros",
+                "Depósito de cuentas",
+                "Auditoría externa",
+                "Liquidación de haberes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El depósito de cuentas en el Registro Mercantil se realiza para dar publicidad a la situación económica de la empresa. (Fuente: Página 9, Sección: 7. Registro de las operaciones contables: Libros oficiales)"
+        },
+        {
+            "question": "¿Cuál es la función del balance de comprobación (sumas y saldos)?",
+            "options": [
+                "Verificar que no hay errores de cuadre en la contabilidad",
+                "Decidir el despido de trabajadores con bajo rendimiento",
+                "Calcular el precio de venta de los nuevos productos",
+                "Gestionar el inventario físico del almacén"
+            ],
+            "correctAnswer": 0,
+            "explanation": "El balance de comprobación de sumas y saldos sirve para verificar la corrección del Libro Diario y el Libro Mayor. (Fuente: Página 9, Sección: 7. Registro de las operaciones contables: Libros oficiales)"
+        },
+        {
+            "question": "¿Qué principio contable indica que los efectos de las transacciones se registrarán cuando ocurran, independientemente de la fecha de pago o cobro?",
+            "options": [
+                "Principio de prudencia",
+                "Principio de devengo",
+                "Principio de importancia relativa",
+                "Principio de no compensación"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El principio de devengo establece que los ingresos y gastos se registran cuando ocurren, sin importar cuándo se cobren o paguen. (Fuente: Página 5, Sección: 3. El Plan General Contable (PGC))"
+        },
+        {
+            "question": "En el balance, el capital aportado por los socios y las reservas se incluyen en:",
+            "options": [
+                "Pasivo corriente",
+                "Activo no corriente",
+                "Patrimonio Neto",
+                "Inversiones reales"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El Patrimonio Neto lo constituyen los fondos propios (capital, reservas y beneficios no distribuidos). (Fuente: Página 6, Sección: 4. El patrimonio: Activo, Pasivo y Patrimonio Neto)"
+        },
+        {
+            "question": "La cuenta 'Proveedores' y la cuenta 'Deudas con entidades de crédito' suelen formar parte del:",
+            "options": [
+                "Activo corriente",
+                "Pasivo",
+                "Patrimonio Neto",
+                "Activo no corriente"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Los proveedores y las deudas con entidades de crédito son obligaciones y por tanto forman parte del Pasivo. (Fuente: Página 7, Sección: 5. El balance de situación)"
+        }
+    ]
+}

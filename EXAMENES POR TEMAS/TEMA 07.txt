@@ -1,0 +1,303 @@
+SIMULACIÓN EMPRESARIAL - TEMA 07
+=================================================
+
+Pregunta 1: ¿Qué herramienta de gestión es considerada por el 83% de los altos ejecutivos como líder para impulsar el crecimiento empresarial?
+  A) Las fusiones y adquisiciones.
+  B) La asignación de recursos.
+  C) La excelencia operativa.
+  D) La formación continua.
+
+Respuesta Correcta: B
+Explicación: Según una investigación de McKinsey, el 83% de los altos ejecutivos consideran la asignación de recursos como la herramienta líder para el crecimiento. (Fuente: Página 4, Sección: Asignación de recursos humanos)
+-------------------------------------------------
+
+Pregunta 2: En el proceso de acogida, ¿cuándo debe realizarse la formación para acelerar la adaptación al puesto y manejo de herramientas?
+  A) Antes de firmar el contrato de trabajo.
+  B) Durante el primer mes de trabajo.
+  C) En los primeros días de trabajo.
+  D) Al finalizar el periodo de prueba.
+
+Respuesta Correcta: C
+Explicación: La formación para acelerar la adaptación al puesto y recursos tendrá que hacerse en los primeros días de trabajo. (Fuente: Página 4, Sección: Asignación de recursos humanos)
+-------------------------------------------------
+
+Pregunta 3: De las fuentes de la relación laboral, ¿cuál tiene la jerarquía superior tras la Constitución Española y las normas comunitarias?
+  A) Los convenios colectivos.
+  B) El contrato de trabajo.
+  C) Los Convenios de la OIT.
+  D) Las costumbres laborales.
+
+Respuesta Correcta: C
+Explicación: En la jerarquía de las fuentes legales, los Convenios de la OIT se sitúan por encima de las leyes orgánicas y ordinarias. (Fuente: Página 5, Sección: Contratación del personal de la empresa)
+-------------------------------------------------
+
+Pregunta 4: ¿Cuál es el plazo máximo para registrar un contrato de trabajo en el Servicio de Empleo Público Estatal (SEPE)?
+  A) 15 días naturales.
+  B) 30 días hábiles.
+  C) 5 días desde la firma.
+  D) 10 días.
+
+Respuesta Correcta: D
+Explicación: El registro del contrato en el Servicio de Empleo Público Estatal debe realizarse en el plazo de 10 días por vía telemática. (Fuente: Página 5, Sección: Contratación del personal de la empresa)
+-------------------------------------------------
+
+Pregunta 5: ¿Qué modelo de la Seguridad Social debe utilizar la empresa para su inscripción inicial?
+  A) Modelo TA6.
+  B) Modelo 111.
+  C) Modelo TC1.
+  D) Modelo 190.
+
+Respuesta Correcta: A
+Explicación: La inscripción de la empresa en la Seguridad Social se realiza mediante el Modelo TA6. (Fuente: Página 5, Sección: Contratación del personal de la empresa)
+-------------------------------------------------
+
+Pregunta 6: ¿A qué edad puede un menor firmar un contrato de trabajo si cuenta con autorización de sus padres o tutores?
+  A) A partir de los 14 años.
+  B) Entre los 16 y 18 años.
+  C) Únicamente si tiene 17 años.
+  D) A partir de los 15 años.
+
+Respuesta Correcta: B
+Explicación: Pueden firmar contratos los mayores de 16 y menores de 18 si tienen autorización de los padres o tutores. (Fuente: Página 6, Sección: Elección del contrato y trámites de contratación)
+-------------------------------------------------
+
+Pregunta 7: ¿Cuál de los siguientes contratos se clasifica como un contrato de duración determinada?
+  A) Contrato para la formación y el aprendizaje.
+  B) Contrato a tiempo parcial.
+  C) Contrato eventual por circunstancias de la producción.
+  D) Contrato en prácticas.
+
+Respuesta Correcta: C
+Explicación: El contrato eventual por circunstancias de la producción es una modalidad de duración determinada. (Fuente: Página 6, Sección: Elección del contrato y trámites de contratación)
+-------------------------------------------------
+
+Pregunta 8: ¿Qué condición impide legalmente establecer un periodo de prueba en un contrato?
+  A) Que el contrato sea indefinido.
+  B) Que el trabajador ya haya desempeñado las mismas funciones anteriormente.
+  C) Que el trabajador sea mayor de 45 años.
+  D) Que el contrato sea a tiempo parcial.
+
+Respuesta Correcta: B
+Explicación: El periodo de prueba no se podrá establecer cuando el trabajador haya ya desempeñado las mismas funciones con anterioridad. (Fuente: Página 6, Sección: Elección del contrato y trámites de contratación)
+-------------------------------------------------
+
+Pregunta 9: En el marco del autoempleo, ¿cómo se define la responsabilidad de un empresario individual o autónomo?
+  A) Limitada al capital social aportado.
+  B) Limitada a los bienes afectos a la actividad.
+  C) Ilimitada, respondiendo con bienes presentes y futuros.
+  D) Subsidiaria respecto a la sociedad.
+
+Respuesta Correcta: C
+Explicación: En el caso del autónomo, la responsabilidad que asume es ilimitada, respondiendo con todos sus bienes presentes y futuros. (Fuente: Página 8, Sección: El autoempleo)
+-------------------------------------------------
+
+Pregunta 10: ¿Dónde debe realizarse obligatoriamente el alta en el Régimen Especial de Trabajadores Autónomos (RETA)?
+  A) En la Agencia Tributaria.
+  B) En la Tesorería General de la Seguridad Social.
+  C) En el Servicio de Empleo Público Estatal.
+  D) En el Registro Mercantil.
+
+Respuesta Correcta: B
+Explicación: El alta en el RETA debe hacerse en la Tesorería General de la Seguridad Social por vía electrónica. (Fuente: Página 8, Sección: El autoempleo)
+-------------------------------------------------
+
+Pregunta 11: ¿Cuál es el límite legal máximo permitido para el pago del salario en especie?
+  A) 20% del salario total.
+  B) 50% del salario total.
+  C) 10% del salario total.
+  D) 30% del salario total.
+
+Respuesta Correcta: D
+Explicación: La ley limita a un 30% el salario en especie sobre el total de las percepciones. (Fuente: Página 8, Sección: La gestión económica del personal. Costes sociales)
+-------------------------------------------------
+
+Pregunta 12: ¿Qué concepto de cotización cubre el Fondo de Garantía Salarial (FOGASA)?
+  A) Contingencias comunes.
+  B) Recaudación conjunta.
+  C) Contingencias profesionales.
+  D) Horas extraordinarias.
+
+Respuesta Correcta: B
+Explicación: El concepto de recaudación conjunta incluye desempleo, formación profesional y el fondo de garantía salarial. (Fuente: Página 9, Sección: La gestión económica del personal. Costes sociales)
+-------------------------------------------------
+
+Pregunta 13: ¿Qué contingencia cubre específicamente el accidente de trabajo y la enfermedad profesional?
+  A) Contingencias comunes.
+  B) Mejoras sociales.
+  C) Contingencias profesionales.
+  D) Recaudación conjunta.
+
+Respuesta Correcta: C
+Explicación: Las Contingencias Profesionales cubren el accidente de trabajo y la enfermedad profesional. (Fuente: Página 9, Sección: La gestión económica del personal. Costes sociales)
+-------------------------------------------------
+
+Pregunta 14: ¿Qué tipo de medio de pago está expresamente prohibido para abonar el salario en dinero?
+  A) Transferencia bancaria.
+  B) Talón bancario.
+  C) Pagarés o vales.
+  D) Moneda de curso legal.
+
+Respuesta Correcta: C
+Explicación: Queda prohibido el pago mediante pagarés, vales o cupones. (Fuente: Página 9, Sección: Costes salariales)
+-------------------------------------------------
+
+Pregunta 15: ¿Cómo se clasifican las pagas extras dentro de la estructura salarial?
+  A) Complementos por cantidad o calidad.
+  B) Complementos de vencimiento periódico superior al mes.
+  C) Percepciones extrasalariales.
+  D) Complementos personales.
+
+Respuesta Correcta: B
+Explicación: Las pagas extras y la participación en beneficios son complementos de vencimiento periódico superior al mes. (Fuente: Página 10, Sección: Costes salariales)
+-------------------------------------------------
+
+Pregunta 16: Los suplementos por gastos de transporte o dietas de viaje se consideran:
+  A) Percepciones extrasalariales.
+  B) Salario base.
+  C) Complementos del puesto de trabajo.
+  D) Salario en especie.
+
+Respuesta Correcta: A
+Explicación: Las cantidades percibidas como suplementos por gastos (dietas, transporte) son percepciones extrasalariales. (Fuente: Página 10, Sección: Costes salariales)
+-------------------------------------------------
+
+Pregunta 17: ¿Qué porcentaje medio sobre el total supone el coste de la Seguridad Social para una empresa?
+  A) Entre el 10 y 15%.
+  B) Entre el 20 y 25%.
+  C) Entre el 30 y 35%.
+  D) Entre el 40 y 45%.
+
+Respuesta Correcta: C
+Explicación: El coste de la Seguridad Social a pagar por la empresa supone una media entre el 30 y 35% del total. (Fuente: Página 10, Sección: Costes salariales)
+-------------------------------------------------
+
+Pregunta 18: Dentro del inventario de recursos, ¿qué son las mercaderías?
+  A) Productos semielaborados para transformación.
+  B) Productos destinados a la venta sin transformación.
+  C) Herramientas y utillaje de la empresa.
+  D) Materias primas principales.
+
+Respuesta Correcta: B
+Explicación: Las mercaderías son productos destinados a la venta sin transformación por parte de la empresa. (Fuente: Página 10, Sección: Recursos financieros, materiales y tecnológicos)
+-------------------------------------------------
+
+Pregunta 19: ¿Qué elemento se considera una inversión de naturaleza intangible?
+  A) Equipos para proceso de la información.
+  B) Propiedad industrial (patentes y marcas).
+  C) Instalaciones técnicas.
+  D) Vehículos industriales.
+
+Respuesta Correcta: B
+Explicación: La propiedad industrial, que incluye patentes y marcas, es una inversión de naturaleza intangible. (Fuente: Página 12, Sección: Elaboración de cuadro, asignando los recursos correspondientes. Inversiones)
+-------------------------------------------------
+
+Pregunta 20: ¿Qué concepto define el valor añadido de una empresa como la cartera de clientes o el nombre comercial?
+  A) Derechos de traspaso.
+  B) Propiedad industrial.
+  C) Fondo de comercio.
+  D) Leasing inmobiliario.
+
+Respuesta Correcta: C
+Explicación: El fondo de comercio lo constituye todo aquello que aporta valor añadido como la cartera de clientes o la marca. (Fuente: Página 12, Sección: Elaboración de cuadro, asignando los recursos correspondientes. Inversiones)
+-------------------------------------------------
+
+Pregunta 21: El importe pagado por el derecho a arrendar un local que ya está funcionando se denomina:
+  A) Derecho de traspaso.
+  B) Fianza legal.
+  C) Canon de entrada.
+  D) Fondo de maniobra.
+
+Respuesta Correcta: A
+Explicación: El derecho de traspaso es el importe que paga el empresario por el derecho a arrendar un local ya funcionando. (Fuente: Página 12, Sección: Elaboración de cuadro, asignando los recursos correspondientes. Inversiones)
+-------------------------------------------------
+
+Pregunta 22: ¿Cómo se denominan las aportaciones del emprendedor que no son dinero, como vehículos o maquinaria?
+  A) Aportaciones dinerarias.
+  B) Recursos ajenos.
+  C) Aportaciones no dinerarias.
+  D) Subvenciones de capital.
+
+Respuesta Correcta: C
+Explicación: Las aportaciones no dinerarias incluyen la puesta a disposición de vehículos, maquinaria u ordenadores. (Fuente: Página 13, Sección: Necesidades de financiación)
+-------------------------------------------------
+
+Pregunta 23: Las subvenciones que no requieren ser devueltas se denominan:
+  A) Préstamos bonificados.
+  B) Financiación reembolsable.
+  C) Fondos de capital riesgo.
+  D) No reembolsables.
+
+Respuesta Correcta: D
+Explicación: Las ayudas y subvenciones suelen ser no reembolsables, aportando recursos sin obligación de devolución. (Fuente: Página 13, Sección: Necesidades de financiación)
+-------------------------------------------------
+
+Pregunta 24: ¿Qué instrumento financiero permite disponer de efectivo hasta una cantidad límite, pagando intereses solo por lo dispuesto?
+  A) Préstamo a largo plazo.
+  B) Póliza de crédito.
+  C) Factoring.
+  D) Confirming.
+
+Respuesta Correcta: B
+Explicación: La póliza de crédito permite ir disponiendo de efectivo hasta una cantidad determinada, liquidando intereses por lo dispuesto. (Fuente: Página 14, Sección: Fuentes de financiación)
+-------------------------------------------------
+
+Pregunta 25: ¿Quién es el inversor particular que se convierte en socio temporal de una startup?
+  A) Business angel.
+  B) Crowdfunder.
+  C) Socio industrial.
+  D) Gestor de capital riesgo.
+
+Respuesta Correcta: A
+Explicación: El Business angel es un inversor particular que se convierte en socio temporal de una startup. (Fuente: Página 14, Sección: Fuentes de financiación)
+-------------------------------------------------
+
+Pregunta 26: El sistema de financiación colectiva a través de plataformas online se conoce como:
+  A) Leasing.
+  B) Renting.
+  C) Crowdfunding.
+  D) Factoring.
+
+Respuesta Correcta: C
+Explicación: El crowdfunding o micromecenazgo es la financiación colectiva a través de plataformas de múltiples inversores. (Fuente: Página 14, Sección: Fuentes de financiación)
+-------------------------------------------------
+
+Pregunta 27: ¿Qué servicio proporciona instalaciones y servicios a emprendedores a bajo coste o de forma gratuita?
+  A) Sociedades de garantía recíproca.
+  B) Viveros o incubadoras de empresas.
+  C) Plataformas de confirming.
+  D) Entidades de factoring.
+
+Respuesta Correcta: B
+Explicación: Los viveros o incubadoras de empresas proporcionan servicios e instalaciones a emprendedores de forma gratuita o bajo coste. (Fuente: Página 14, Sección: Fuentes de financiación)
+-------------------------------------------------
+
+Pregunta 28: ¿Cuál es el periodo máximo de duración de un contrato de trabajo en prácticas según el texto?
+  A) 1 año.
+  B) 3 años.
+  C) 2 años.
+  D) 6 meses.
+
+Respuesta Correcta: C
+Explicación: La duración del contrato en prácticas oscilará entre los 6 meses y los 2 años. (Fuente: Página 11, Sección: Caso práctico 2)
+-------------------------------------------------
+
+Pregunta 29: ¿Qué porcentaje mínimo del salario de un trabajador equivalente debe cobrar un empleado en prácticas el primer año?
+  A) El 50%.
+  B) El 60%.
+  C) El 75%.
+  D) El 100%.
+
+Respuesta Correcta: B
+Explicación: La retribución no podrá ser inferior al 60% del salario de un trabajador equivalente durante el primer año. (Fuente: Página 11, Sección: Caso práctico 2)
+-------------------------------------------------
+
+Pregunta 30: ¿Cómo se llama el sistema telemático habitual para dar de alta a trabajadores en la Seguridad Social?
+  A) Sistema RED.
+  B) Portal SEPE.
+  C) Sede IRPF.
+  D) Sistema SILTRA.
+
+Respuesta Correcta: A
+Explicación: Lo habitual es realizar el alta de trabajadores de forma telemática a través del sistema RED. (Fuente: Página 11, Sección: Caso práctico 2)
+-------------------------------------------------
+

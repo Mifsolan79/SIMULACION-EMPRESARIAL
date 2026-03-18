@@ -1,0 +1,335 @@
+{
+    "title": "SIMULACIÓN EMPRESARIAL - TEMA 11",
+    "items": [
+        {
+            "question": "¿Cuál de las siguientes actividades NO se menciona explícitamente como parte del plan de producción o prestación de servicios?",
+            "options": [
+                "Fabricación",
+                "Investigación de mercados",
+                "Transporte",
+                "Almacenamiento"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Al establecer el plan de producción se consideran: fabricación, transporte, almacenamiento y comercialización. (Fuente: Página 4, Sección: 2. La función de producción)"
+        },
+        {
+            "question": "En la fórmula de la función de producción Y = f(L,K), ¿qué representa la variable 'L'?",
+            "options": [
+                "Localización de la empresa",
+                "Liderazgo directivo",
+                "Cantidad de capital",
+                "Cantidad de trabajo"
+            ],
+            "correctAnswer": 3,
+            "explanation": "En la fórmula Y = f (L,K), L representa la cantidad de trabajo. (Fuente: Página 4, Sección: 2. La función de producción)"
+        },
+        {
+            "question": "Dentro del modelo SCAMPER para generar ideas, ¿qué significa la letra 'A'?",
+            "options": [
+                "Aprovisionar",
+                "Adaptar",
+                "Almacenar",
+                "Amortizar"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El acrónimo SCAMPER incluye la palabra Adaptar un elemento a una necesidad. (Fuente: Página 5, Sección: 3. Transformar una idea en un producto real)"
+        },
+        {
+            "question": "¿Cómo se define el concepto de 'Prototipar' según el texto?",
+            "options": [
+                "Crear un producto de prueba para comprobar su funcionamiento y aceptación",
+                "Eliminar intermediarios en la cadena de distribución",
+                "Sustituir software antiguo por hardware moderno",
+                "Diseñar exclusivamente el envase final del producto"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Prototipar es crear un producto de prueba para que sea usado y comprobar su funcionamiento y aceptación. (Fuente: Página 5, Sección: 3. Transformar una idea en un producto real)"
+        },
+        {
+            "question": "En la gestión de inventarios, ¿en qué consiste el método FIFO?",
+            "options": [
+                "Las existencias compradas más recientemente salen antes",
+                "Se calcula un promedio entre el valor inicial y el final",
+                "Las primeras existencias en ser utilizadas son las de mayor antigüedad",
+                "Se valoran las existencias según el precio de mercado actual"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Método de valoración FIFO: las primeras que van siendo utilizadas son las de mayor antigüedad en el almacén. (Fuente: Página 6, Sección: 4. Gestión de inventarios y función de producción)"
+        },
+        {
+            "question": "¿Qué tipo de existencias se definen como productos adquiridos para vender sin que se transformen?",
+            "options": [
+                "Materias primas",
+                "Mercaderías",
+                "Productos semiterminados",
+                "Residuos"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mercaderías son aquellos productos que la empresa adquiere para vender sin que se transformen ni pasen por ninguna fase productiva. (Fuente: Página 6, Sección: 4. Gestión de inventarios y función de producción)"
+        },
+        {
+            "question": "¿Por qué se considera más complejo gestionar la calidad en empresas de servicios que en las industriales?",
+            "options": [
+                "Por la falta de maquinaria especializada",
+                "Porque no se pueden documentar los procesos",
+                "Por el mayor coste de las materias primas",
+                "Porque la duración del contacto con el cliente es mayor"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Resulta más complejo gestionar la calidad en empresas de servicios... ya que la duración del contacto con el cliente es mayor y el riesgo de cometer errores aumenta. (Fuente: Página 7, Sección: 6. Calidad en la empresa y función de producción)"
+        },
+        {
+            "question": "¿Cuál es un elemento clave dentro de un sistema de calidad según el documento?",
+            "options": [
+                "Eliminar por completo el servicio postventa",
+                "Evitar la documentación de procesos",
+                "Control documental y sistematización de procesos",
+                "Ignorar la política de calidad de la dirección"
+            ],
+            "correctAnswer": 2,
+            "explanation": "El control documental es clave: los procesos deben estar procedimentados o sistematizados para seguir las normas. (Fuente: Página 7, Sección: 6. Calidad en la empresa y función de producción)"
+        },
+        {
+            "question": "Los gastos de alquiler y la depreciación de equipos se clasifican como:",
+            "options": [
+                "Costes variables",
+                "Costes fijos",
+                "Costes directos",
+                "Costes de distribución"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Costes fijos son aquellos a los que la empresa tiene que hacer frente independientemente de la cantidad producida, como alquiler o depreciación. (Fuente: Página 8, Sección: 7. Análisis de costes)"
+        },
+        {
+            "question": "¿Qué caracteriza a los costes indirectos?",
+            "options": [
+                "Son aplicables directamente al producto",
+                "No son necesarios para la empresa",
+                "Son comunes a otras áreas de la empresa, como administración",
+                "Fluctúan según la cantidad producida"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Costes indirectos: siendo necesarios, son comunes a otras áreas de la empresa. Ejemplo: gastos de administración. (Fuente: Página 8, Sección: 7. Análisis de costes)"
+        },
+        {
+            "question": "¿Cómo se denominan los costes derivados del empleo de recursos de capital ajenos?",
+            "options": [
+                "Costes financieros",
+                "Costes de amortización",
+                "Costes de recursos humanos",
+                "Costes de los impuestos"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Costes financieros: derivados del empleo de recursos de capital ajenos (ej. préstamos bancarios). (Fuente: Página 9, Sección: 8. Tipos y clasificación de costes)"
+        },
+        {
+            "question": "Aproximadamente, ¿qué porcentaje del sueldo suponen las cotizaciones a la Seguridad Social en los gastos de personal?",
+            "options": [
+                "15%",
+                "50%",
+                "35%",
+                "10%"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Las cotizaciones de la Seguridad Social suponen un porcentaje en torno al 35% aproximadamente del sueldo. (Fuente: Página 9, Sección: 8. Tipos y clasificación de costes)"
+        },
+        {
+            "question": "Gráficamente, ¿cómo se representan los costes fijos en el corto plazo?",
+            "options": [
+                "Una línea recta horizontal",
+                "Una curva ascendente",
+                "Una línea vertical",
+                "Una curva descendente"
+            ],
+            "correctAnswer": 0,
+            "explanation": "En la representación gráfica, los costes fijos es una línea recta horizontal. (Fuente: Página 10, Sección: 9. Coste total: coste fijo y variable)"
+        },
+        {
+            "question": "Al realizar cálculos a largo plazo, ¿qué ocurre con los costes fijos?",
+            "options": [
+                "Se mantienen siempre idénticos",
+                "También varían (ej. incrementos de alquiler)",
+                "Desaparecen del balance",
+                "Se convierten en ingresos"
+            ],
+            "correctAnswer": 1,
+            "explanation": "En cálculos a largo plazo, los costes fijos también varían, como el alquiler que irá incrementándose con el tiempo. (Fuente: Página 10, Sección: 9. Coste total: coste fijo y variable)"
+        },
+        {
+            "question": "¿Cuál es el desafío principal de las nuevas empresas al fijar precios?",
+            "options": [
+                "Vender al precio más alto posible sin importar la demanda",
+                "Encontrar el equilibrio para ser competitivos sin bajar demasiado el margen de beneficios",
+                "Igualar siempre el precio al coste de producción exacto",
+                "Eliminar todos los costes fijos antes de vender"
+            ],
+            "correctAnswer": 1,
+            "explanation": "El desafío está en encontrar el equilibrio para vender a un precio competitivo, pero sin bajar demasiado el margen de beneficios. (Fuente: Página 11, Sección: 10. Fijación del precio de venta)"
+        },
+        {
+            "question": "¿Qué es el umbral de rentabilidad o punto muerto?",
+            "options": [
+                "El punto donde los beneficios superan a los costes fijos",
+                "El nivel donde la empresa tiene pérdidas máximas",
+                "El equilibrio donde se cubren gastos pero no hay beneficios ni pérdidas",
+                "La cantidad mínima de materias primas en el almacén"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Punto muerto es el nivel en el que la empresa empezaría a no tener pérdidas, pero tampoco beneficios. (Fuente: Página 11, Sección: 11. Umbral de rentabilidad o punto muerto)"
+        },
+        {
+            "question": "En la fórmula del punto muerto Q = CF / (P - CVME), ¿qué representa 'P'?",
+            "options": [
+                "Producción total",
+                "Precio de venta",
+                "Presupuesto disponible",
+                "Pérdidas acumuladas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "En la fórmula Q = CF / P - CVME, P es el precio de venta. (Fuente: Página 11, Sección: 11. Umbral de rentabilidad o punto muerto)"
+        },
+        {
+            "question": "En la gráfica del punto muerto, si la producción está por debajo de Q*:",
+            "options": [
+                "La empresa obtendrá beneficios",
+                "Los ingresos son iguales a los costes totales",
+                "La empresa incurrirá en pérdidas",
+                "No existen costes variables"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Por debajo del punto muerto (Q*), la empresa incurrirá en pérdidas. (Fuente: Página 12, Sección: 11. Umbral de rentabilidad o punto muerto)"
+        },
+        {
+            "question": "¿Dónde aparecen reflejadas las inversiones en el balance de situación de la empresa?",
+            "options": [
+                "En el pasivo corriente",
+                "En el activo",
+                "En el patrimonio neto únicamente",
+                "En la cuenta de pérdidas y ganancias exclusivamente"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las inversiones aparecen en el activo del balance de la empresa. (Fuente: Página 12, Sección: 12. Asignación de recursos. Inversión)"
+        },
+        {
+            "question": "Una inversión realizada para comprar maquinaria nueva se clasifica como:",
+            "options": [
+                "Inversión financiera",
+                "Inversión en I+D+i",
+                "Inversión productiva",
+                "Inversión obligatoria"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Inversiones productivas son las que se realizan para producir, por ejemplo, la compra de maquinaria. (Fuente: Página 13, Sección: 12. Asignación de recursos. Inversión)"
+        },
+        {
+            "question": "¿Cómo se llaman las inversiones destinadas a fabricar nuevos productos?",
+            "options": [
+                "Inversiones para la renovación",
+                "Inversiones para la innovación",
+                "Inversiones para la expansión",
+                "Inversiones obligatorias"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Inversiones para la innovación se realizan para fabricar nuevos productos. (Fuente: Página 13, Sección: 12. Asignación de recursos. Inversión)"
+        },
+        {
+            "question": "¿Qué herramienta se menciona para gestionar las tareas y el cronograma de un proyecto?",
+            "options": [
+                "Diagrama de Gantt",
+                "Método FIFO",
+                "Fórmula de la productividad",
+                "Análisis de costes indirectos"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Se debe trabajar mediante Excel, el diagrama de Gantt u otros programas para las tareas y el cronograma. (Fuente: Página 13, Sección: 12. Asignación de recursos. Inversión)"
+        },
+        {
+            "question": "Según el texto, la función de producción es una relación entre:",
+            "options": [
+                "Ventas y marketing",
+                "Calidad y precio de venta",
+                "Cantidad de factores (capital y trabajo) y cantidad de producto elaborado",
+                "Materias primas y residuos"
+            ],
+            "correctAnswer": 2,
+            "explanation": "La función de producción relaciona la cantidad de factores (capital y trabajo) con la cantidad de producto elaborado. (Fuente: Página 4, Sección: 2. La función de producción)"
+        },
+        {
+            "question": "¿Qué sucede con el crecimiento de la producción al aumentar el número de trabajadores?",
+            "options": [
+                "Aumenta de forma exponencial e infinita",
+                "Es positivo pero decreciente",
+                "Se mantiene constante siempre",
+                "Es negativo desde el principio"
+            ],
+            "correctAnswer": 1,
+            "explanation": "La función en su representación es positiva pero decreciente; el crecimiento de la producción no irá aumentando en la misma proporción. (Fuente: Página 4, Sección: 2. La función de producción)"
+        },
+        {
+            "question": "En el sistema SCAMPER, ¿qué ejemplo se da para 'Eliminar'?",
+            "options": [
+                "Eliminar intermediarios",
+                "Eliminar el control de calidad",
+                "Eliminar el departamento de administración",
+                "Eliminar el uso de maquinaria"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Dentro del modelo SCAMPER, Eliminar se refiere a quitar intermediarios o cualquier otro elemento. (Fuente: Página 5, Sección: 3. Transformar una idea en un producto real)"
+        },
+        {
+            "question": "¿Qué herramienta tecnológica actual ayuda a las empresas a tener información de inventarios a tiempo real?",
+            "options": [
+                "Libros de contabilidad manuales",
+                "Aplicaciones informáticas y dispositivos electrónicos",
+                "El diagrama de flujo de residuos",
+                "Únicamente el teléfono móvil"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Las empresas usan aplicaciones informáticas ayudadas de dispositivos electrónicos para tener información en tiempo real. (Fuente: Página 5, Sección: 4. Gestión de inventarios y función de producción)"
+        },
+        {
+            "question": "Los costes derivados del desgaste de maquinaria por su uso se denominan:",
+            "options": [
+                "Costes de distribución",
+                "Costes de amortización",
+                "Costes financieros",
+                "Costes variables puros"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Costes de amortización son los derivados de la depreciación de bienes y el desgaste de la maquinaria por el uso. (Fuente: Página 9, Sección: 8. Tipos y clasificación de costes)"
+        },
+        {
+            "question": "Los costes de transporte y envío de mercancía se clasifican como:",
+            "options": [
+                "Costes de recursos humanos",
+                "Costes financieros",
+                "Costes de distribución o venta",
+                "Costes fijos de administración"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Costes de distribución o venta son los generados por acciones comerciales y envío de mercancía (ej. transporte). (Fuente: Página 9, Sección: 8. Tipos y clasificación de costes)"
+        },
+        {
+            "question": "¿Cuál es un ejemplo de coste variable en una empresa?",
+            "options": [
+                "El alquiler del local",
+                "Las materias primas",
+                "Los impuestos locales fijos",
+                "El gasto de seguridad contratado"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Algunos costes variables pueden ser las materias primas, gastos comerciales y embalajes. (Fuente: Página 10, Sección: 9. Coste total: coste fijo y variable)"
+        },
+        {
+            "question": "Si una empresa fija sus precios basándose en lo que los clientes están dispuestos a pagar, está usando el método:",
+            "options": [
+                "En función de la competencia",
+                "En función del coste de producción",
+                "En función de la demanda",
+                "Sistema de fijación obligatoria"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Fijación en función de la demanda: fijando los precios en función de lo que estén dispuestos a pagar los clientes. (Fuente: Página 11, Sección: 10. Fijación del precio de venta)"
+        }
+    ]
+}

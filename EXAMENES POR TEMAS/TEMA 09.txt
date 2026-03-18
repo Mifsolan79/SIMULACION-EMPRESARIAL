@@ -1,0 +1,303 @@
+Simulacion empresarial. Tema 9
+=================================================
+
+Pregunta 1: ¿Cómo se define el tipo de mercado denominado 'Oligopolio' según el documento?
+  A) Aparición de un posicionamiento diferenciado entre empresas.
+  B) Existencia de un único proveedor del producto.
+  C) Pocos competidores se encuentran en un mismo mercado.
+  D) Gran cantidad de ofertantes del mismo producto o servicio.
+
+Respuesta Correcta: C
+Explicación: El oligopolio se define cuando pocos competidores se encuentran en un mismo mercado. (Fuente: Página 4, Sección: Definición del mercado y de las acciones frente a la competencia)
+-------------------------------------------------
+
+Pregunta 2: Dentro del análisis de la competencia, ¿qué elemento ayuda a orientar la fijación del precio de los artículos propios?
+  A) El tamaño de la empresa competidora.
+  B) El nivel de precios de la competencia.
+  C) La localización de los competidores.
+  D) Los servicios de postventa ofrecidos.
+
+Respuesta Correcta: B
+Explicación: Estudiar el nivel de precios de los competidores sirve de orientación a la hora de fijar el precio de nuestros propios artículos. (Fuente: Página 4, Sección: Definición del mercado y de las acciones frente a la competencia)
+-------------------------------------------------
+
+Pregunta 3: Cuando una empresa de nueva creación se ve obligada a aumentar su volumen de producción para disminuir costes, ¿a qué barrera de entrada se enfrenta?
+  A) Economía de escala.
+  B) Diferenciación de la competencia.
+  C) Inversión económica elevada.
+  D) Costes de cambio de los clientes.
+
+Respuesta Correcta: A
+Explicación: La economía de escala ocurre cuando las empresas existentes disminuyen costes aumentando el volumen, obligando a la nueva empresa a seguir el mismo patrón. (Fuente: Página 5, Sección: Barreras para entrar en el mercado)
+-------------------------------------------------
+
+Pregunta 4: ¿Cuál de las siguientes es una estrategia recomendada para superar las barreras de entrada al mercado?
+  A) Entrar en una guerra de precios agresiva.
+  B) Ignorar la tecnología actual del mercado.
+  C) Segmentar bien el público objetivo.
+  D) Reducir la inversión en imagen de marca.
+
+Respuesta Correcta: C
+Explicación: Definir el grupo al que nos dirigimos y establecer acciones específicas para ellos es una forma de superar barreras. (Fuente: Página 5, Sección: Barreras para entrar en el mercado)
+-------------------------------------------------
+
+Pregunta 5: En el marketing mix, ¿cómo se define la publicidad?
+  A) Incentivos a corto plazo para fomentar la compra inmediata.
+  B) Comunicación directa para obtener una respuesta inmediata.
+  C) Mejora de la imagen mediante un buen ambiente empresarial.
+  D) Presentación y promoción no personal pagada por un patrocinador identificado.
+
+Respuesta Correcta: D
+Explicación: La publicidad se trata de forma pagada de presentación y promoción no personal de ideas, bienes o servicios. (Fuente: Página 6, Sección: La comunicación)
+-------------------------------------------------
+
+Pregunta 6: ¿Qué herramienta de marketing busca crear relaciones directas con el cliente a través de un equipo de comerciales?
+  A) Relaciones públicas.
+  B) Fuerza de ventas.
+  C) Marketing directo.
+  D) Promoción de ventas.
+
+Respuesta Correcta: B
+Explicación: La fuerza de ventas la constituye el equipo de comerciales y busca crear relaciones directas con el cliente. (Fuente: Página 6, Sección: La comunicación)
+-------------------------------------------------
+
+Pregunta 7: ¿Qué es el 'Mailing' dentro de las fórmulas de marketing directo?
+  A) Envío de información al domicilio sin conocer al cliente.
+  B) Venta realizada exclusivamente a través del teléfono.
+  C) Correo postal o electrónico masivo con información personalizada.
+  D) Publicidad a través de medios interactivos como podcasts.
+
+Respuesta Correcta: C
+Explicación: El mailing consiste en el correo postal o electrónico masivo con información personalizada para los clientes. (Fuente: Página 6, Sección: La comunicación)
+-------------------------------------------------
+
+Pregunta 8: En el proceso comunicativo publicitario, ¿quién es el encargado de elaborar el mensaje y diseñar los soportes?
+  A) La empresa anunciante.
+  B) Los medios de comunicación.
+  C) Los potenciales clientes.
+  D) Las agencias de publicidad.
+
+Respuesta Correcta: D
+Explicación: Las agencias de publicidad son las encargadas de elaborar el mensaje publicitario, su diseño y soportes. (Fuente: Página 7, Sección: Plan de publicidad)
+-------------------------------------------------
+
+Pregunta 9: ¿Cuál es la fase final del proceso comunicativo publicitario?
+  A) Fase de investigación y recolección.
+  B) Fase de control y evaluación.
+  C) Fase de creación y elaboración.
+  D) Fase de lanzamiento de campaña.
+
+Respuesta Correcta: B
+Explicación: La tercera y última fase es la de control y evaluación para verificar la calidad y el efecto de la publicidad. (Fuente: Página 8, Sección: Plan de publicidad)
+-------------------------------------------------
+
+Pregunta 10: ¿Qué tipo de publicidad se utiliza para dar a conocer novedades en un producto o lanzamientos nuevos?
+  A) Publicidad informativa.
+  B) Publicidad persuasiva.
+  C) Publicidad indirecta.
+  D) Publicidad de recordatorio.
+
+Respuesta Correcta: A
+Explicación: La publicidad informativa se usa cuando vamos a comunicar sobre novedades o dar a conocer nuevos productos. (Fuente: Página 8, Sección: Tipos de publicidad)
+-------------------------------------------------
+
+Pregunta 11: ¿Por qué la publicidad online es considerada la mejor opción para pequeñas empresas en sus inicios?
+  A) Porque tiene un alcance nacional garantizado.
+  B) Porque sus costes son muy asumibles y permite segmentar.
+  C) Porque no requiere ningún tipo de diseño creativo.
+  D) Porque sustituye por completo a la fuerza de ventas.
+
+Respuesta Correcta: B
+Explicación: Es la mejor opción para pequeñas empresas por tener costes asumibles y permitir la segmentación de clientes. (Fuente: Página 9, Sección: Tipos de publicidad)
+-------------------------------------------------
+
+Pregunta 12: ¿Qué técnica publicitaria consiste en destacar el producto en el mismo punto de venta?
+  A) Telemarketing.
+  B) Publicidad exterior.
+  C) Merchandising.
+  D) Mecenazgo.
+
+Respuesta Correcta: C
+Explicación: El merchandising es la técnica de realizar acciones para destacar el producto en el lugar de ventas. (Fuente: Página 9, Sección: Publicidad en el lugar de ventas. Merchandising)
+-------------------------------------------------
+
+Pregunta 13: ¿En qué consiste el 'merchandising visual'?
+  A) Ofrecer regalos promocionales en ferias comerciales.
+  B) Destacar productos online mediante imágenes atractivas.
+  C) Posicionar productos en lugares estratégicos como a la altura de los ojos.
+  D) Pagar para que actores consuman productos en series de TV.
+
+Respuesta Correcta: C
+Explicación: El merchandising visual destaca el producto posicionándolo estratégicamente, por ejemplo, en línea con los ojos. (Fuente: Página 10, Sección: Publicidad en el lugar de ventas. Merchandising)
+-------------------------------------------------
+
+Pregunta 14: ¿Cuál es el objetivo principal de un plan de relaciones públicas?
+  A) Incrementar las ventas a corto plazo mediante regalos.
+  B) Mejorar la imagen de la empresa y el reconocimiento de marca.
+  C) Diseñar los envases y etiquetas de los productos.
+  D) Controlar exclusivamente la red de distribución logística.
+
+Respuesta Correcta: B
+Explicación: El objetivo principal es conseguir que la marca sea reconocida y que la sociedad tenga una buena imagen de la empresa. (Fuente: Página 10, Sección: Plan de relaciones públicas)
+-------------------------------------------------
+
+Pregunta 15: ¿Qué término define la capacidad de una empresa para conseguir el compromiso a largo plazo del público?
+  A) Mailing.
+  B) Deepfake.
+  C) Soporte.
+  D) Engagement.
+
+Respuesta Correcta: D
+Explicación: El engagement define la capacidad de la empresa de conseguir el compromiso del público con la marca a largo plazo. (Fuente: Página 10, Sección: Plan de relaciones públicas)
+-------------------------------------------------
+
+Pregunta 16: ¿Cuál de las siguientes actividades de relaciones públicas suele ser gratuita para la empresa?
+  A) Mecenazgo de eventos culturales.
+  B) Comunicados de prensa y aparición de noticias.
+  C) Patrocinio de equipos deportivos.
+  D) Contratación de vallas publicitarias.
+
+Respuesta Correcta: B
+Explicación: Actividades como comunicados de prensa o aparición de noticias reportan impacto sin producir costes. (Fuente: Página 10, Sección: Plan de relaciones públicas)
+-------------------------------------------------
+
+Pregunta 17: En el plan de relaciones públicas, ¿cuál es el paso posterior al diseño del plan?
+  A) La evaluación de impacto.
+  B) La puesta en marcha y calendarización.
+  C) El análisis de la competencia.
+  D) La reformulación de acciones.
+
+Respuesta Correcta: B
+Explicación: Tras el diseño del plan viene la puesta en marcha, planificando acciones y haciendo una calendarización. (Fuente: Página 11, Sección: Plan de relaciones públicas)
+-------------------------------------------------
+
+Pregunta 18: ¿Cuál es una característica común de todas las acciones de promoción de ventas?
+  A) Son siempre de carácter gratuito para la empresa.
+  B) Se dirigen exclusivamente a los clientes finales.
+  C) Ofrecen mejoras de tipo económico o material.
+  D) Tienen objetivos de posicionamiento a muy largo plazo.
+
+Respuesta Correcta: C
+Explicación: Todas las acciones de promoción tienen como característica común que ofrecen mejoras económicas o materiales. (Fuente: Página 12, Sección: Plan de promoción de ventas)
+-------------------------------------------------
+
+Pregunta 19: ¿Cuál es un objetivo específico de la promoción de ventas relacionado con el inventario?
+  A) Mejorar el clima laboral de los vendedores.
+  B) Liquidación de productos próximos a su fecha de caducidad.
+  C) Diseñar nuevos logotipos para la empresa.
+  D) Aumentar el precio de venta al público.
+
+Respuesta Correcta: B
+Explicación: Uno de los objetivos es la liquidación de productos caducos, obsoletos o con mucho stock almacenado. (Fuente: Página 12, Sección: Plan de promoción de ventas)
+-------------------------------------------------
+
+Pregunta 20: ¿Qué paso es fundamental antes de generar nuevas promociones en el plan de promoción de ventas?
+  A) Calcular el coste final del producto.
+  B) Segmentar a la clientela a la que nos vamos a dirigir.
+  C) Contratar una agencia de publicidad externa.
+  D) Eliminar todos los canales de distribución.
+
+Respuesta Correcta: B
+Explicación: La segmentación de la clientela es el paso número 3, previo a la generación de nuevas promociones (paso 4). (Fuente: Página 12, Sección: Plan de promoción de ventas)
+-------------------------------------------------
+
+Pregunta 21: Las rebajas de 'vuelta al cole' o Navidad son ejemplos de:
+  A) Promociones con frecuencia fija semanal.
+  B) Promociones permanentes por puntos.
+  C) Promociones de carácter estacional.
+  D) Promociones basadas en sorteos.
+
+Respuesta Correcta: C
+Explicación: Las promociones estacionales son las que se aplican en rebajas, vuelta al cole, navidades, etc. (Fuente: Página 13, Sección: Tipos de promoción. Instrumentos)
+-------------------------------------------------
+
+Pregunta 22: ¿En qué categoría de técnica de promoción entran los 'packs familiares'?
+  A) Promociones basadas en el producto.
+  B) Promociones centradas en el precio.
+  C) Promociones con regalos.
+  D) Promociones basadas en sorteos.
+
+Respuesta Correcta: B
+Explicación: Los packs familiares o ventas asociadas se clasifican dentro de las promociones centradas en el precio. (Fuente: Página 13, Sección: Tipos de promoción. Instrumentos)
+-------------------------------------------------
+
+Pregunta 23: Si una empresa ofrece 'más producto por el mismo precio', ¿qué tipo de promoción está realizando?
+  A) Promoción basada en el producto.
+  B) Promoción basada en recompensas.
+  C) Promoción de carácter estacional.
+  D) Promoción de marketing directo.
+
+Respuesta Correcta: A
+Explicación: Ofrecer más producto por el mismo precio es una técnica de promoción basada en el producto. (Fuente: Página 13, Sección: Tipos de promoción. Instrumentos)
+-------------------------------------------------
+
+Pregunta 24: ¿Qué efecto general suele producir la reducción de precios en una promoción de ventas?
+  A) Disminución de la afluencia de público.
+  B) Pérdida inmediata de la imagen de marca.
+  C) Incremento de las ventas y atracción de nuevo público.
+  D) Reducción del stock de productos asociados.
+
+Respuesta Correcta: C
+Explicación: Generalmente, cuando se reducen los precios se incrementan las ventas y se atrae nuevo público. (Fuente: Página 14, Sección: Efectos de la promoción y costes)
+-------------------------------------------------
+
+Pregunta 25: ¿Qué empresas tienen más posibilidades de ampliar ventas mediante promociones según el texto?
+  A) Empresas monopolísticas.
+  B) Empresas con gran cuota de mercado.
+  C) Pequeñas empresas con menor cuota de mercado.
+  D) Empresas que no realizan publicidad impresa.
+
+Respuesta Correcta: C
+Explicación: Las pequeñas empresas y aquellas con menor cuota de mercado tienen más posibilidades de ampliar ventas con promociones. (Fuente: Página 14, Sección: Efectos de la promoción y costes)
+-------------------------------------------------
+
+Pregunta 26: Al calcular el coste de una acción de promoción, ¿qué gasto de personal debe incluirse?
+  A) Solo el gasto de los gerentes de la empresa.
+  B) El personal necesario para llevar a cabo la actividad promocional.
+  C) Únicamente el personal de las agencias de transporte.
+  D) No se debe incluir el gasto de personal en el coste de promoción.
+
+Respuesta Correcta: B
+Explicación: Se debe sumar el gasto del personal necesario para llevar a cabo estas actividades promocionales. (Fuente: Página 14, Sección: Efectos de la promoción y costes)
+-------------------------------------------------
+
+Pregunta 27: ¿Qué factor complejo de medir debe considerarse al evaluar el plan de promociones a medio y largo plazo?
+  A) El número de folletos impresos.
+  B) El coste de los regalos promocionales.
+  C) La mejora del posicionamiento como marca.
+  D) El precio exacto del lanzamiento.
+
+Respuesta Correcta: C
+Explicación: La mejora del posicionamiento de marca es un factor complejo de medir que debe contemplarse a largo plazo. (Fuente: Página 14, Sección: Efectos de la promoción y costes)
+-------------------------------------------------
+
+Pregunta 28: La 'Competencia Perfecta' se caracteriza por:
+  A) Existencia de un único proveedor.
+  B) Pocos competidores diferenciados.
+  C) Gran cantidad de ofertantes del mismo producto o servicio.
+  D) Superespecialización de un mercado homogéneo.
+
+Respuesta Correcta: C
+Explicación: La competencia perfecta consta de gran cantidad de ofertantes del mismo producto o servicio. (Fuente: Página 4, Sección: Definición del mercado y de las acciones frente a la competencia)
+-------------------------------------------------
+
+Pregunta 29: ¿A qué se refiere el término 'Product Placement' mencionado en el texto?
+  A) Colocación de productos en el lineal del supermercado.
+  B) Envío de muestras gratuitas por correo postal.
+  C) Emplazamiento de productos en series y programas de televisión.
+  D) Organización de ferias y eventos comerciales.
+
+Respuesta Correcta: C
+Explicación: El placement es el emplazamiento de productos en televisión para incitar al consumo. (Fuente: Página 10, Sección: Publicidad en el lugar de ventas. Merchandising)
+-------------------------------------------------
+
+Pregunta 30: ¿Cuál es un elemento fundamental del mensaje en el plan de publicidad?
+  A) Debe ser largo y detallado para no dejar dudas.
+  B) Debe definirse de forma clara y sencilla.
+  C) Debe evitar el uso de imágenes para no distraer.
+  D) Debe ser igual al de toda la competencia.
+
+Respuesta Correcta: B
+Explicación: El mensaje debe definirse de forma clara y sencilla para que llegue al público objetivo. (Fuente: Página 8, Sección: Plan de publicidad)
+-------------------------------------------------
+

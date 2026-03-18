@@ -1,0 +1,303 @@
+SIMULACIÓN EMPRESARIAL - TEMA 3
+=================================================
+
+Pregunta 1: ¿En qué tipo de planificación se determina la misión, la visión y los valores de la organización?
+  A) Planificación operativa
+  B) Planificación estratégica
+  C) Planificación táctica
+  D) Planificación normativa
+
+Respuesta Correcta: B
+Explicación: En la planificación estratégica se determina la misión, la visión y los valores, las estrategias a seguir y las políticas. (Fuente: Página 5, Sección: 2. Análisis en el marco de la planificación estratégica)
+-------------------------------------------------
+
+Pregunta 2: Dentro de las funciones de la administración, ¿cuál consiste en agrupar las actividades necesarias para desarrollar los planes?
+  A) Planificar
+  B) Dirigir
+  C) Organizar
+  D) Coordinar
+
+Respuesta Correcta: C
+Explicación: Organizar consiste en agrupar las actividades que se van a necesitar para desarrollar los planes y establecer las relaciones del equipo. (Fuente: Página 5, Sección: 2. Análisis en el marco de la planificación estratégica)
+-------------------------------------------------
+
+Pregunta 3: ¿A qué factor del macroentorno pertenecen los avances que mejoran los procesos de comercialización y gestión de la información?
+  A) Factores tecnológicos
+  B) Factores económicos
+  C) Factores socioculturales
+  D) Factores jurídicos
+
+Respuesta Correcta: A
+Explicación: Los factores tecnológicos son aquellos avances tecnológicos que mejoran los procesos de producción, comercialización, gestión de la información, etc. (Fuente: Página 6, Sección: 3. Análisis externo: entorno general y específico)
+-------------------------------------------------
+
+Pregunta 4: ¿Cuál de los siguientes elementos forma parte del microentorno o entorno específico?
+  A) Legislación nacional
+  B) Factores demográficos
+  C) La competencia
+  D) Políticas de importación
+
+Respuesta Correcta: C
+Explicación: El microentorno incluye los clientes, proveedores y la competencia. (Fuente: Página 6, Sección: 3. Análisis externo: entorno general y específico)
+-------------------------------------------------
+
+Pregunta 5: En un análisis PEST, ¿qué factor estudia la distribución de la población por sexo y edad y los nuevos estilos de vida?
+  A) Económico
+  B) Político
+  C) Tecnológico
+  D) Social
+
+Respuesta Correcta: D
+Explicación: En los factores sociales se estudian la distribución por sexo y edad, los nuevos estilos de vida y variaciones demográficas. (Fuente: Página 7, Sección: 4. Análisis del entorno PEST)
+-------------------------------------------------
+
+Pregunta 6: ¿Cuál es el primer paso para realizar un análisis PEST según el manual?
+  A) Identificar las amenazas
+  B) Tomar las medidas adecuadas
+  C) Entender los factores PEST
+  D) Identificar las oportunidades
+
+Respuesta Correcta: C
+Explicación: El primer paso de los cinco indicados es entender los factores PEST (Políticos, Económicos, Sociales y Tecnológicos). (Fuente: Página 7, Sección: 4. Análisis del entorno PEST)
+-------------------------------------------------
+
+Pregunta 7: ¿Cómo se definen los recursos que incluyen maquinaria, mobiliario y recursos financieros?
+  A) Recursos intangibles
+  B) Recursos humanos
+  C) Recursos tangibles
+  D) Recursos de apoyo
+
+Respuesta Correcta: C
+Explicación: Los recursos tangibles son los activos (maquinaria, mobiliario, edificios) y recursos financieros que aparecen en la contabilidad. (Fuente: Página 9, Sección: 6. Análisis interno. La cadena de valor)
+-------------------------------------------------
+
+Pregunta 8: ¿Qué característica diferencia a los recursos intangibles de los tangibles respecto a su uso?
+  A) Se desgastan más rápido
+  B) No sufren desgaste por el uso y pueden ganar valor
+  C) Son siempre cuantificables en el balance
+  D) Tienen un soporte físico necesario
+
+Respuesta Correcta: B
+Explicación: A diferencia de los recursos tangibles, los intangibles pueden ir ganando valor y calidad ya que no se produce un desgaste por el uso. (Fuente: Página 9, Sección: 6. Análisis interno. La cadena de valor)
+-------------------------------------------------
+
+Pregunta 9: En la cadena de valor de Porter, ¿qué actividades proporcionan valor de forma directa al cliente?
+  A) Actividades de apoyo
+  B) Actividades secundarias
+  C) Actividades de infraestructura
+  D) Actividades primarias
+
+Respuesta Correcta: D
+Explicación: Las actividades primarias son las que proporcionan valor de forma directa al cliente. (Fuente: Página 9, Sección: 6. Análisis interno. La cadena de valor)
+-------------------------------------------------
+
+Pregunta 10: ¿Qué eje de la matriz DAFO se refiere a los puntos fuertes y ventajas competitivas internas?
+  A) Oportunidades
+  B) Fortalezas
+  C) Amenazas
+  D) Debilidades
+
+Respuesta Correcta: B
+Explicación: Las fortalezas son los puntos fuertes y ventajas competitivas que sirven para explotar oportunidades. (Fuente: Página 10, Sección: 7. Análisis DAFO)
+-------------------------------------------------
+
+Pregunta 11: ¿Qué tipo de estrategia DAFO resulta de combinar oportunidades externas con debilidades internas?
+  A) Estrategias adaptativas
+  B) Estrategias ofensivas
+  C) Estrategias defensivas
+  D) Estrategias de supervivencia
+
+Respuesta Correcta: A
+Explicación: Las estrategias adaptativas resultan de combinar oportunidades con debilidades. (Fuente: Página 10, Sección: 7. Análisis DAFO)
+-------------------------------------------------
+
+Pregunta 12: Una estrategia defensiva en el DAFO es el resultado de la interacción entre:
+  A) Una debilidad y una amenaza
+  B) Una fortaleza y una oportunidad
+  C) Una amenaza posible y un punto fuerte
+  D) Una oportunidad y una debilidad
+
+Respuesta Correcta: C
+Explicación: Las estrategias defensivas son el resultado de una interacción entre una amenaza posible y un punto fuerte. (Fuente: Página 10, Sección: 7. Análisis DAFO)
+-------------------------------------------------
+
+Pregunta 13: ¿Qué porcentaje aproximado del tejido empresarial de la Unión Europea representan las Pymes?
+  A) El 50 %
+  B) El 75 %
+  C) El 99 %
+  D) El 66 %
+
+Respuesta Correcta: C
+Explicación: En la Unión Europea las pequeñas y medianas empresas (Pymes) suman el 99 % del total del tejido empresarial. (Fuente: Página 11, Sección: 8. La influencia de la Unión Europea)
+-------------------------------------------------
+
+Pregunta 14: ¿En qué tres ejes se basa la estrategia de la UE para facilitar el crecimiento de las Pymes tras la crisis del coronavirus?
+  A) Investigación, Reducción de precios y Exportación
+  B) Transición sostenible/digital, acceso a mercados/burocracia y financiación
+  C) Banca, servicios y turismo
+  D) Contratación, formación y marketing
+
+Respuesta Correcta: B
+Explicación: Se basa en: transición sostenible y digital, mejor acceso a los mercados y reducción de trámites, y mejora de acceso a financiación. (Fuente: Página 11, Sección: 8. La influencia de la Unión Europea)
+-------------------------------------------------
+
+Pregunta 15: ¿Qué concepto define lo que la empresa hace en la actualidad, su actividad y su propuesta de valor?
+  A) Visión
+  B) Valores
+  C) Misión
+  D) Estrategia
+
+Respuesta Correcta: C
+Explicación: La misión concreta comunica qué es lo que hace la empresa, su actividad y su propuesta de valor. (Fuente: Página 12, Sección: 9. Objetivos empresariales. Misión, visión y valores)
+-------------------------------------------------
+
+Pregunta 16: Los principios éticos o creencias sobre los que se asienta la cultura de una empresa se denominan:
+  A) Objetivos
+  B) Valores
+  C) Misión
+  D) Visión
+
+Respuesta Correcta: B
+Explicación: Los valores son principios éticos, creencias o cualidades sobre los que se asienta la cultura de la empresa. (Fuente: Página 12, Sección: 9. Objetivos empresariales. Misión, visión y valores)
+-------------------------------------------------
+
+Pregunta 17: ¿Cómo se denominan las empresas que, además del beneficio económico, buscan objetivos como la protección del medio ambiente o atención a colectivos vulnerables?
+  A) Grandes corporaciones
+  B) Empresas industriales
+  C) Empresas sociales
+  D) Cooperativas de crédito
+
+Respuesta Correcta: C
+Explicación: Las empresas sociales se crean con la intención de alcanzar objetivos sociales más integrales que van más allá del beneficio económico. (Fuente: Página 12, Sección: 9. Objetivos empresariales. Misión, visión y valores)
+-------------------------------------------------
+
+Pregunta 18: Dentro de los elementos humanos de la empresa, ¿quiénes son los encargados de la toma de decisiones?
+  A) Los accionistas
+  B) Los directivos
+  C) La plantilla
+  D) Los proveedores
+
+Respuesta Correcta: B
+Explicación: Los directivos ocupan los puestos encargados de la toma de decisiones. (Fuente: Página 13, Sección: 11. Elementos que caracterizan sector empresarial y la actividad empresarial)
+-------------------------------------------------
+
+Pregunta 19: ¿A qué categoría de elementos pertenecen las materias primas y el dinero en caja?
+  A) Capital no corriente
+  B) Capital inmaterial
+  C) Capital humano
+  D) Capital corriente
+
+Respuesta Correcta: D
+Explicación: El capital corriente son los elementos cambiantes en continuo movimiento, como materias primas o dinero en caja. (Fuente: Página 13, Sección: 11. Elementos que caracterizan sector empresarial y la actividad empresarial)
+-------------------------------------------------
+
+Pregunta 20: ¿Qué elemento inmaterial define el conjunto de valores y creencias que dirigen el comportamiento de las personas en la empresa?
+  A) La imagen
+  B) La organización
+  C) La cultura
+  D) El entorno
+
+Respuesta Correcta: C
+Explicación: La cultura es el conjunto de valores y creencias de una empresa que definen el comportamiento de las personas. (Fuente: Página 13, Sección: 11. Elementos que caracterizan sector empresarial y la actividad empresarial)
+-------------------------------------------------
+
+Pregunta 21: Según su finalidad, ¿cómo se clasifican los productos que son materias primas o equipos de producción?
+  A) Productos de consumo duradero
+  B) Productos industriales
+  C) Productos de consumo fungible
+  D) Servicios complementarios
+
+Respuesta Correcta: B
+Explicación: Según su finalidad, los productos se dividen en de consumo e industriales (materias primas, componentes, equipo). (Fuente: Página 14, Sección: 12. Características del producto/servicio)
+-------------------------------------------------
+
+Pregunta 22: ¿Qué característica de los servicios indica que no pueden ser almacenados para su venta posterior?
+  A) Intangibilidad
+  B) Inseparabilidad
+  C) Variabilidad
+  D) Caducidad
+
+Respuesta Correcta: D
+Explicación: La caducidad implica que los servicios no pueden ser almacenados para su utilización o venta. (Fuente: Página 14, Sección: 12. Características del producto/servicio)
+-------------------------------------------------
+
+Pregunta 23: La estrategia de Porter que consiste en producir de forma más eficiente y a menor coste que la competencia se llama:
+  A) Diferenciación de productos
+  B) Liderazgo de costes
+  C) Ámbito competitivo
+  D) Ecorediseño
+
+Respuesta Correcta: B
+Explicación: La estrategia de liderazgo de costes consiste en producir a menor coste que la competencia y más eficientemente. (Fuente: Página 14, Sección: 12. Características del producto/servicio)
+-------------------------------------------------
+
+Pregunta 24: ¿Cómo define la Comisión Europea la Responsabilidad Social Corporativa?
+  A) Como una obligación legal estricta de pagar impuestos verdes
+  B) Como la integración voluntaria de dimensiones sociales y ambientales en el negocio
+  C) Como una técnica de marketing para aumentar ventas
+  D) Como el cumplimiento mínimo de las leyes laborales
+
+Respuesta Correcta: B
+Explicación: La RSC es un concepto a través del cual la empresa integra de forma voluntaria las dimensiones social y ambiental. (Fuente: Página 15, Sección: 13. La responsabilidad social corporativa)
+-------------------------------------------------
+
+Pregunta 25: ¿Qué ámbito de la RSE incluye medidas de conciliación familiar y fomento del aprendizaje?
+  A) Responsabilidad con el entorno social
+  B) Responsabilidad respecto al mercado
+  C) Responsabilidad respecto a las personas empleadas
+  D) Responsabilidad medioambiental
+
+Respuesta Correcta: C
+Explicación: La responsabilidad respecto a los trabajadores obliga a tomar medidas de conciliación y fomentar el aprendizaje. (Fuente: Página 15, Sección: 13. La responsabilidad social corporativa)
+-------------------------------------------------
+
+Pregunta 26: ¿Qué documento de 2001 constituyó el primer impulso a las políticas de RSE en Europa?
+  A) La Agenda 2030
+  B) El Libro Blanco de la Industria
+  C) El Libro Verde
+  D) El Tratado de la Unión
+
+Respuesta Correcta: C
+Explicación: La publicación del Libro Verde (18 de julio de 2001) constituyó un primer impulso a las políticas de RSE. (Fuente: Página 15, Sección: 13. La responsabilidad social corporativa)
+-------------------------------------------------
+
+Pregunta 27: En la planificación operativa, ¿cuál es el objetivo principal?
+  A) Definir la misión de la empresa
+  B) Aprobar el uso de recursos para cumplir compromisos
+  C) Establecer objetivos específicos por área
+  D) Corregir desviaciones del presupuesto
+
+Respuesta Correcta: B
+Explicación: En la planificación operativa se aprueban las decisiones de cómo utilizar y aprovechar los recursos para cumplir los compromisos. (Fuente: Página 5, Sección: 2. Análisis en el marco de la planificación estratégica)
+-------------------------------------------------
+
+Pregunta 28: Los factores del entorno que no son controlables pero deben conocerse para definir la estrategia pertenecen al:
+  A) Entorno específico
+  B) Análisis interno
+  C) Marco de valores
+  D) Organigrama
+
+Respuesta Correcta: A
+Explicación: El entorno específico o microentorno contiene factores que no son controlables pero deben conocerse para definir la estrategia. (Fuente: Página 6, Sección: 3. Análisis externo: entorno general y específico)
+-------------------------------------------------
+
+Pregunta 29: ¿Qué componente de la matriz DAFO se refiere a factores externos que pueden perjudicar el crecimiento?
+  A) Debilidades
+  B) Fortalezas
+  C) Oportunidades
+  D) Amenazas
+
+Respuesta Correcta: D
+Explicación: Las amenazas son factores del entorno que pueden afectar a la implantación de una estrategia o el crecimiento. (Fuente: Página 10, Sección: 7. Análisis DAFO)
+-------------------------------------------------
+
+Pregunta 30: ¿Qué nombre recibe la capacidad de un producto para adaptarse a nuevos hábitos de uso o mercados?
+  A) Calidad perceptiva
+  B) Flexibilidad del producto
+  C) Diferenciación
+  D) Garantía de servicio
+
+Respuesta Correcta: B
+Explicación: La flexibilidad del producto es la capacidad de adaptarse a nuevos hábitos de uso, tendencias o mercados. (Fuente: Página 14, Sección: 12. Características del producto/servicio)
+-------------------------------------------------
+

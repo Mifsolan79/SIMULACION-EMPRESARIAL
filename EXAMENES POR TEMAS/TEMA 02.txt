@@ -1,0 +1,303 @@
+SIMULACIÓN EMPRESARIAL - TEMA 2: DESARROLLO DE LA IDEA DE NEGOCIO
+=================================================
+
+Pregunta 1: ¿En qué momento se debe realizar la definición y valoración de la idea de negocio?
+  A) Después de obtener la financiación necesaria.
+  B) Simultáneamente a la puesta en marcha de la empresa.
+  C) Anterior al comienzo del desarrollo del plan de empresa.
+  D) Una vez finalizado el plan de producción.
+
+Respuesta Correcta: C
+Explicación: La definición de la idea y su valoración debe ser anterior al comienzo del proceso de desarrollo del plan de empresa. (Fuente: Página 4, Sección: Introducción y contextualización práctica)
+-------------------------------------------------
+
+Pregunta 2: ¿Cuál de las siguientes es una cualidad personal característica de una persona emprendedora según el texto?
+  A) Evitar cualquier tipo de riesgo económico.
+  B) Capacidad para asumir riesgos.
+  C) Dependencia total de las decisiones de los socios.
+  D) Falta de motivación por el estilo de vida empresarial.
+
+Respuesta Correcta: B
+Explicación: Entre las cualidades personales se encuentran el liderazgo, tener ilusión, capacidad para organizar y capacidad para asumir riesgos. (Fuente: Página 5, Sección: La persona emprendedora y la idea. Fuentes de ideas)
+-------------------------------------------------
+
+Pregunta 3: Al analizar a los socios en una iniciativa grupal, ¿qué es lo ideal según el manual?
+  A) Que todos tengan exactamente la misma formación y experiencia.
+  B) Que actúen como un lastre para frenar decisiones arriesgadas.
+  C) Buscar socios que cubran carencias y tengan aptitudes que mejoren el proyecto.
+  D) Evitar pedirles recursos o contactos para no generar deudas.
+
+Respuesta Correcta: C
+Explicación: Lo ideal es buscar socios que tengan cualidades y aptitudes que mejoren las posibilidades del proyecto y cubran carencias. (Fuente: Página 5, Sección: La persona emprendedora y la idea. Fuentes de ideas)
+-------------------------------------------------
+
+Pregunta 4: ¿Qué describe fundamentalmente una idea de negocio?
+  A) Un balance de situación inicial.
+  B) Un organigrama jerárquico de la empresa.
+  C) La descripción de un bien o servicio que da respuesta a una necesidad del mercado.
+  D) Un contrato legal entre socios y proveedores.
+
+Respuesta Correcta: C
+Explicación: La idea de negocio es la descripción de un bien o servicio que dan respuesta a una necesidad del mercado. (Fuente: Página 5, Sección: 2.1. La idea)
+-------------------------------------------------
+
+Pregunta 5: Según el método del triángulo, ¿cuáles son las tres variables que deben confluir para que surja una empresa?
+  A) Capital, tecnología y mano de obra.
+  B) Recursos de los promotores, recursos del entorno y necesidades de clientes.
+  C) Legislación, marketing y contabilidad.
+  D) Socios, bancos y administraciones públicas.
+
+Respuesta Correcta: B
+Explicación: Cualquier empresa debe surgir bajo la confluencia cruzada de los recursos de los promotores, los recursos del entorno y las necesidades e intereses de los potenciales clientes. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)
+-------------------------------------------------
+
+Pregunta 6: Dentro del método del triángulo, ¿qué vértice ocupa el lugar clave?
+  A) La formación de los promotores.
+  B) Las infraestructuras del entorno.
+  C) Las necesidades e intereses de los potenciales clientes.
+  D) Los recursos económicos iniciales.
+
+Respuesta Correcta: C
+Explicación: El vértice clave del triángulo lo ocupan las necesidades e intereses de los potenciales clientes. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)
+-------------------------------------------------
+
+Pregunta 7: ¿En qué consiste la técnica del brainstorming o lluvia de ideas?
+  A) En realizar un análisis financiero riguroso antes de proponer conceptos.
+  B) En anotar todas las ideas que surjan sin evaluación ni censura previa.
+  C) En seleccionar una única idea y descartar el resto inmediatamente.
+  D) En copiar modelos de negocio exitosos de la competencia.
+
+Respuesta Correcta: B
+Explicación: Consiste en anotar todas las ideas que surjan, sin evaluación ni censura y luego se valoran conforme a una metodología. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)
+-------------------------------------------------
+
+Pregunta 8: ¿Quién desarrolló originalmente la técnica del brainstorming?
+  A) Alex Osterwalder.
+  B) Alex Osborn.
+  C) Adam Smith.
+  D) Philip Kotler.
+
+Respuesta Correcta: B
+Explicación: El Brainstorming fue desarrollado por Alex Osborn en los años 30. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)
+-------------------------------------------------
+
+Pregunta 9: ¿Cuál es un factor determinante al elegir una idea de negocio relacionado con las perspectivas económicas?
+  A) Expectativas de alta rentabilidad.
+  B) Complejidad de la legislación.
+  C) Inexistencia de competencia.
+  D) Mínimo esfuerzo del promotor.
+
+Respuesta Correcta: A
+Explicación: Se deben tener en cuenta las expectativas de alta rentabilidad, contando con buenas perspectivas en ventas. (Fuente: Página 6, Sección: 3.1. Factores que determinan la elección)
+-------------------------------------------------
+
+Pregunta 10: Al delimitar la idea de negocio, ¿cómo debe ser formulada?
+  A) De forma extensa y con lenguaje altamente técnico.
+  B) De forma clara, simple y directa.
+  C) Únicamente mediante gráficos financieros.
+  D) De manera ambigua para no dar pistas a la competencia.
+
+Respuesta Correcta: B
+Explicación: La idea debe poder ser formulada de forma clara, simple y directa para que lo entienda todo el mundo. (Fuente: Página 7, Sección: 4. Técnicas de delimitación y evaluación de la idea)
+-------------------------------------------------
+
+Pregunta 11: ¿Qué característica debe tener la idea respecto a su proyección temporal?
+  A) Debe ser un negocio rápido y oportunista.
+  B) Debe orientarse exclusivamente al corto plazo.
+  C) Ha de tener proyección hacia el futuro a largo plazo.
+  D) Debe ser estática y no adaptarse a los cambios.
+
+Respuesta Correcta: C
+Explicación: La idea ha de tener proyección hacia el futuro a largo plazo y adaptarse con flexibilidad a los cambios. (Fuente: Página 7, Sección: 4. Técnicas de delimitación y evaluación de la idea)
+-------------------------------------------------
+
+Pregunta 12: ¿Cuál es una ventaja de emprender mencionada en el texto?
+  A) Reducción de la jornada laboral desde el primer día.
+  B) Ausencia total de riesgos económicos.
+  C) Proporcionar más estabilidad en el empleo.
+  D) Eliminación de los trámites legales.
+
+Respuesta Correcta: C
+Explicación: Entre las ventajas se señala que proporciona más estabilidad en el empleo y mayor autonomía. (Fuente: Página 7, Sección: 4.1. Ventajas e inconvenientes de las propuestas de negocio)
+-------------------------------------------------
+
+Pregunta 13: ¿Qué inconveniente debe estar preparada para afrontar una persona emprendedora?
+  A) Excesivo tiempo libre.
+  B) Un porcentaje de incertidumbre.
+  C) La falta total de prestigio social.
+  D) Bajo nivel de responsabilidad.
+
+Respuesta Correcta: B
+Explicación: Las desventajas incluyen mayor dedicación, riesgo económico e incertidumbre. (Fuente: Página 8, Sección: 4.1. Ventajas e inconvenientes de las propuestas de negocio)
+-------------------------------------------------
+
+Pregunta 14: ¿Qué principio básico de autoempleo se menciona en relación con el plan de empresa?
+  A) Gastar dinero rápidamente para ganar mercado.
+  B) Invertir tiempo antes de invertir dinero.
+  C) Contratar personal antes de definir la idea.
+  D) Evitar la redacción de documentos escritos.
+
+Respuesta Correcta: B
+Explicación: Existe un principio básico en autoempleo que afirma que antes de invertir dinero hay que invertir tiempo. (Fuente: Página 9, Sección: 6. El plan de empresa. Concepto y utilidad)
+-------------------------------------------------
+
+Pregunta 15: Como herramienta de comunicación, ¿para qué sirve el plan de empresa?
+  A) Para ocultar información a los socios.
+  B) Para poner en común con los socios cuestiones importantes de forma objetiva.
+  C) Para evitar tener que hablar con las entidades bancarias.
+  D) Para sustituir los contratos laborales legales.
+
+Respuesta Correcta: B
+Explicación: Sirve para poner en común con los socios cuestiones importantes y hacer un diseño por escrito, compartido y unificado. (Fuente: Página 9, Sección: 6. El plan de empresa. Concepto y utilidad)
+-------------------------------------------------
+
+Pregunta 16: ¿Por qué el plan de empresa es una herramienta de marketing?
+  A) Porque es el catálogo de productos de la empresa.
+  B) Porque sirve para captar clientes finales exclusivamente.
+  C) Porque es imprescindible para obtener financiación de inversores o entidades.
+  D) Porque sustituye a las campañas de publicidad en redes sociales.
+
+Respuesta Correcta: C
+Explicación: Es una herramienta de marketing porque es imprescindible para obtener financiación, valorando la viabilidad ante inversores. (Fuente: Página 9, Sección: 6. El plan de empresa. Concepto y utilidad)
+-------------------------------------------------
+
+Pregunta 17: ¿Qué característica debe tener la información contenida en un plan de empresa?
+  A) Debe ser antigua para conocer la historia del sector.
+  B) Debe ser actual y proceder de fuentes fiables.
+  C) Debe ser abstracta para permitir cambios rápidos.
+  D) Debe omitir los datos tecnológicos por ser complejos.
+
+Respuesta Correcta: B
+Explicación: La información debe ser clara, concisa, actual y proceder de fuentes fiables. (Fuente: Página 10, Sección: 7. Recomendación para la elaboración de un plan de empresa)
+-------------------------------------------------
+
+Pregunta 18: En la estructura del plan de empresa, ¿qué incluye el 'Plan de recursos humanos'?
+  A) La localización física de la maquinaria.
+  B) El organigrama y las funciones de cada persona.
+  C) Las estrategias de venta y canales de distribución.
+  D) El balance de gastos e ingresos financieros.
+
+Respuesta Correcta: B
+Explicación: Incluye organizar el organigrama de la empresa, las funciones y concretar el perfil de los trabajadores. (Fuente: Página 11, Sección: 8. Estructura del plan de empresa)
+-------------------------------------------------
+
+Pregunta 19: ¿Cuál es la recomendación respecto a las ayudas y subvenciones en el plan de empresa?
+  A) Considerarlas como la base de la financiación.
+  B) No deben considerarse parte de la financiación inicial por su incertidumbre.
+  C) Incluirlas como ingresos fijos mensuales.
+  D) Solicitarlas antes de definir la idea de negocio.
+
+Respuesta Correcta: B
+Explicación: Las subvenciones no deben considerarse parte de la financiación, ya que se desconoce si se obtendrán. (Fuente: Página 11, Sección: 8. Estructura del plan de empresa)
+-------------------------------------------------
+
+Pregunta 20: ¿Cuántos módulos o bloques componen el Modelo CANVAS?
+  A) 5 bloques.
+  B) 7 bloques.
+  C) 9 bloques.
+  D) 12 bloques.
+
+Respuesta Correcta: C
+Explicación: El Modelo Canvas sintetiza el modelo de negocio concentrando la viabilidad en 9 módulos. (Fuente: Página 12, Sección: 9. Modelo CANVAS, otra forma de diseñar el modelo de negocio)
+-------------------------------------------------
+
+Pregunta 21: En el Modelo CANVAS, ¿cuál es el bloque que identifica la necesidad que vamos a solucionar?
+  A) Segmento de clientes.
+  B) Propuesta de valor.
+  C) Flujo de ingresos.
+  D) Actividades clave.
+
+Respuesta Correcta: B
+Explicación: La propuesta de valor es la parte central e identifica cuál es la necesidad que vamos a solucionar. (Fuente: Página 12, Sección: 9. Modelo CANVAS, otra forma de diseñar el modelo de negocio)
+-------------------------------------------------
+
+Pregunta 22: ¿A qué se refiere el bloque 'Asociaciones clave' en el modelo CANVAS?
+  A) A los empleados internos de la empresa.
+  B) A los agentes necesarios para hacer posible el funcionamiento del modelo.
+  C) A la relación afectiva entre los socios promotores.
+  D) A la publicidad en medios de comunicación.
+
+Respuesta Correcta: B
+Explicación: Las asociaciones clave son aquellos agentes necesarios para hacer posible el funcionamiento del modelo de negocio. (Fuente: Página 12, Sección: 9. Modelo CANVAS, otra forma de diseñar el modelo de negocio)
+-------------------------------------------------
+
+Pregunta 23: ¿Qué significa que un plan de negocio debe ser 'conciso'?
+  A) Que debe tener al menos 200 páginas.
+  B) Que debe primar la calidad frente a la cantidad, aportando datos necesarios.
+  C) Que solo debe incluir gráficos sin texto explicativo.
+  D) Que debe redactarse en un solo párrafo.
+
+Respuesta Correcta: B
+Explicación: Ser conciso implica primar la calidad frente a la cantidad, midiendo la extensión y aportando datos necesarios. (Fuente: Página 14, Sección: 11. Claves para un plan de negocio sólido)
+-------------------------------------------------
+
+Pregunta 24: Para que un plan de negocio sea comprensible, ¿qué se debe evitar?
+  A) El uso de tablas y gráficos.
+  B) El lenguaje excesivamente técnico que no entiendan todos los públicos.
+  C) Dividir el texto en encabezados claros.
+  D) Mencionar la propuesta de valor.
+
+Respuesta Correcta: B
+Explicación: El lenguaje excesivamente técnico a veces no es comprensible; los inversores y otros públicos tienen que entenderlo. (Fuente: Página 14, Sección: 11. Claves para un plan de negocio sólido)
+-------------------------------------------------
+
+Pregunta 25: ¿Qué elemento debe incluirse al inicio de un plan de empresa bien estructurado?
+  A) La bibliografía consultada.
+  B) Un resumen ejecutivo y un índice.
+  C) El contrato de alquiler del local.
+  D) Las facturas de los proveedores.
+
+Respuesta Correcta: B
+Explicación: Un plan bien estructurado comenzará con un resumen ejecutivo y un índice que contenga todos los apartados. (Fuente: Página 15, Sección: 12. Cómo escribir y exponer el plan de empresa)
+-------------------------------------------------
+
+Pregunta 26: ¿Cuál es el objetivo principal de utilizar la herramienta 'Elevator Pitch'?
+  A) Vender el producto directamente en el primer encuentro.
+  B) Generar interés y lograr una posterior entrevista o reunión.
+  C) Despedir a los empleados que no rinden.
+  D) Negociar el precio de las materias primas.
+
+Respuesta Correcta: B
+Explicación: El objetivo del elevator pitch no es vender sino, sobre todo, generar interés y lograr una posterior entrevista. (Fuente: Página 15, Sección: 13. Elevator pitch)
+-------------------------------------------------
+
+Pregunta 27: Dentro de la estructura de un elevator pitch, ¿qué se debe explicar al responder '¿Qué reto voy a resolver?'?
+  A) El currículum vitae de todos los socios.
+  B) La necesidad o problema resumido en una frase que atrape.
+  C) La lista completa de precios de la empresa.
+  D) La dirección exacta de la oficina.
+
+Respuesta Correcta: B
+Explicación: Hay que resumir el reto en una frase utilizando técnicas de marketing con frases que atrapen. (Fuente: Página 16, Sección: 13. Elevator pitch)
+-------------------------------------------------
+
+Pregunta 28: ¿Qué se debe comunicar al explicar '¿Por qué soy la mejor opción?' en un discurso breve?
+  A) Que somos los únicos que existen en el mundo.
+  B) Convencer de que la propuesta aporta más valor y diferenciación que la competencia.
+  C) Indicar que tenemos el presupuesto más bajo posible.
+  D) Mostrar fotos del equipo de trabajo.
+
+Respuesta Correcta: B
+Explicación: Consiste en convencer de que la propuesta es la mejor comparada con la competencia, aportando valor y diferenciación. (Fuente: Página 16, Sección: 13. Elevator pitch)
+-------------------------------------------------
+
+Pregunta 29: ¿Qué factor del entorno puede ser un recurso según el método del triángulo?
+  A) La formación previa del promotor.
+  B) Recursos naturales (montes, etc.) u ociosos.
+  C) Las deudas bancarias personales.
+  D) La ilusión del emprendedor.
+
+Respuesta Correcta: B
+Explicación: Los recursos del entorno incluyen fundamentalmente los ociosos e infrautilizados, como recursos naturales o socioculturales. (Fuente: Página 6, Sección: 3. Selección de ideas de negocio)
+-------------------------------------------------
+
+Pregunta 30: ¿Cuál es la utilidad del plan de empresa como 'herramienta de diseño'?
+  A) Para elegir los colores del logotipo.
+  B) Para tomar decisiones sobre áreas, procesos y necesidades de forma sistemática.
+  C) Para decorar la oficina física.
+  D) Para diseñar la página web únicamente.
+
+Respuesta Correcta: B
+Explicación: Sirve para tomar decisiones sobre la futura empresa y conformar su estructura analizando cada aspecto detalladamente. (Fuente: Página 9, Sección: 6. El plan de empresa. Concepto y utilidad)
+-------------------------------------------------
+

@@ -1,0 +1,303 @@
+SIMULACIÓN EMPRESARIAL - TEMA 5
+=================================================
+
+Pregunta 1: ¿Cuál es un factor determinante para elegir la forma jurídica si la actividad conlleva riesgos elevados?
+  A) El número de empleados contratados
+  B) La responsabilidad frente a terceros
+  C) La ubicación de la sede social
+  D) La fecha de inicio de actividades
+
+Respuesta Correcta: B
+Explicación: La responsabilidad frente a terceros es determinante según el tipo de actividad y riesgos, pudiendo optar por sociedades con responsabilidad acotada. (Fuente: Página 5, Sección: 2. La persona jurídica y sus formas. Criterios para la toma de decisiones)
+-------------------------------------------------
+
+Pregunta 2: ¿En qué régimen de la Seguridad Social debe afiliarse un empresario individual?
+  A) Régimen General
+  B) Régimen de Autónomos
+  C) Régimen Especial de Minería
+  D) Régimen de Cooperativistas
+
+Respuesta Correcta: B
+Explicación: El empresario individual debe afiliarse al régimen de seguridad social de Autónomos. (Fuente: Página 6, Sección: 3. El empresario individual)
+-------------------------------------------------
+
+Pregunta 3: ¿Cuál es el capital social mínimo para constituir una Sociedad Anónima?
+  A) 3.000 €
+  B) 12.000 €
+  C) 60.000 €
+  D) 100.000 €
+
+Respuesta Correcta: C
+Explicación: La Sociedad Anónima requiere un capital social mínimo de 60.000 €, siendo común para actividades que necesitan grandes aportaciones. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)
+-------------------------------------------------
+
+Pregunta 4: ¿Qué elemento identifica a la empresa a efectos del Registro Mercantil y del tráfico jurídico?
+  A) La Razón o denominación social
+  B) El logotipo comercial
+  C) El eslogan publicitario
+  D) El nombre de fantasía
+
+Respuesta Correcta: A
+Explicación: La razón o denominación social es el nombre e identificación de la empresa para efectos del Registro Mercantil y tráfico jurídico. (Fuente: Página 9, Sección: 6. Identificación de la empresa. Denominación, logotipos y anagramas)
+-------------------------------------------------
+
+Pregunta 5: En el ámbito de la identificación de productos, ¿qué es un producto según la visión actual?
+  A) Exclusivamente bienes físicamente tangibles
+  B) Solo aquellos bienes que se pueden inventariar
+  C) Cualquier material o bienes inmateriales que satisfagan necesidades
+  D) Únicamente servicios prestados por personas físicas
+
+Respuesta Correcta: C
+Explicación: Actualmente se denomina producto a cualquier material o bienes inmateriales que satisfagan las necesidades del consumidor, incluyendo servicios o ideas. (Fuente: Página 10, Sección: 7. Identificación de los productos y servicios)
+-------------------------------------------------
+
+Pregunta 6: ¿Dónde debe realizarse el registro de marcas y patentes en España?
+  A) En el Registro Civil
+  B) En el Ayuntamiento de la localidad
+  C) En el Registro de la Propiedad Inmobiliaria
+  D) En la Oficina Española de Patentes y Marcas (OEPM)
+
+Respuesta Correcta: D
+Explicación: El registro tanto de marcas como de patentes ha de hacerse en la Oficina Española de Patentes y Marcas (OEPM). (Fuente: Página 10, Sección: 8. Marcas. Utilidad y estrategias de utilización)
+-------------------------------------------------
+
+Pregunta 7: ¿Cómo se denomina la estrategia donde una empresa utiliza una imagen diferente para cada uno de sus productos?
+  A) Estrategia de marca única
+  B) Estrategia de marca individual
+  C) Estrategia de marca blanca
+  D) Estrategia de marca ajena
+
+Respuesta Correcta: B
+Explicación: La estrategia de marca individual ocurre cuando una empresa crea una imagen diferente para cada uno de los productos de su marca. (Fuente: Página 11, Sección: 8. Marcas. Utilidad y estrategias de utilización)
+-------------------------------------------------
+
+Pregunta 8: ¿Cuál es la principal ventaja de situar una empresa en una zona tematizada o parque tecnológico?
+  A) Evitar el pago de impuestos locales
+  B) La ausencia de competencia directa
+  C) Beneficiarse de las sinergias al estar cerca de otras empresas del sector
+  D) La obligación de contratar solo mano de obra local
+
+Respuesta Correcta: C
+Explicación: Situar la empresa en zonas tematizadas permite beneficiarse de las sinergias de estar cerca de otras empresas del sector. (Fuente: Página 14, Sección: 12. Búsqueda y selección de lugares)
+-------------------------------------------------
+
+Pregunta 9: ¿Qué zonas forman habitualmente las tres secciones principales de un almacén?
+  A) Ventas, Marketing y Dirección
+  B) Recepción, Almacenamiento y Expediciones
+  C) Producción, Empaquetado y Calidad
+  D) Atención al cliente, Logística y Finanzas
+
+Respuesta Correcta: B
+Explicación: Las seis secciones de un almacén suelen agruparse en tres zonas: recepción, almacenamiento y expediciones. (Fuente: Página 15, Sección: 13. Distribución interna de espacios)
+-------------------------------------------------
+
+Pregunta 10: ¿Qué normativa rige al empresario individual en materia de derechos y obligaciones?
+  A) El Estatuto de los Trabajadores
+  B) La Ley de Propiedad Intelectual
+  C) El Código Civil
+  D) El Derecho Administrativo
+
+Respuesta Correcta: C
+Explicación: El empresario individual se rige por el Código de Comercio en materia mercantil y el Código Civil en materia de derechos y obligaciones. (Fuente: Página 6, Sección: 3. El empresario individual)
+-------------------------------------------------
+
+Pregunta 11: ¿Cuál es el capital social mínimo general para una Sociedad de Responsabilidad Limitada?
+  A) 500 €
+  B) 1.500 €
+  C) 3.000 €
+  D) 60.000 €
+
+Respuesta Correcta: C
+Explicación: El capital social mínimo para una Sociedad de Responsabilidad Limitada son 3.000 €. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)
+-------------------------------------------------
+
+Pregunta 12: ¿Qué es un anagrama según el texto?
+  A) Un contrato de alquiler de marca
+  B) Un símbolo constituido por letras que crea una palabra que se lee como tal
+  C) El nombre legal inscrito en el Registro Mercantil
+  D) La dirección física de la oficina central
+
+Respuesta Correcta: B
+Explicación: El anagrama se refiere a un símbolo o emblema constituido por letras con las que se crea una nueva palabra que se lee como tal. (Fuente: Página 9, Sección: 6. Identificación de la empresa. Denominación, logotipos y anagramas)
+-------------------------------------------------
+
+Pregunta 13: ¿Qué característica define a la Sociedad Colectiva?
+  A) Los socios tienen responsabilidad limitada al capital aportado
+  B) Es una organización que descansa en la comunidad de trabajo
+  C) No requiere inscripción en ningún registro
+  D) Solo puede estar formada por un socio
+
+Respuesta Correcta: B
+Explicación: La Sociedad Colectiva es una organización mercantil que descansa en la comunidad de trabajo, con responsabilidad ilimitada de los socios. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)
+-------------------------------------------------
+
+Pregunta 14: Un factor que determina la localización de la empresa relacionado con el transporte es:
+  A) La fiscalidad del IRPF
+  B) La infraestructura y comunicaciones
+  C) El logotipo de la empresa
+  D) El capital social inicial
+
+Respuesta Correcta: B
+Explicación: Las comunicaciones son importantes para el acceso de clientes, proveedores y distribuidores, afectando costes de transporte. (Fuente: Página 13, Sección: 11. Localización de la empresa. Factores que determinan su localización)
+-------------------------------------------------
+
+Pregunta 15: ¿Cuál de las siguientes es una característica del empresario individual?
+  A) Responsabilidad limitada al capital aportado
+  B) Necesidad de un capital mínimo de 3.000 €
+  C) Responsabilidad personal e ilimitada frente a terceros
+  D) Obligatoriedad de inscribirse en el Registro Mercantil
+
+Respuesta Correcta: C
+Explicación: En el caso del empresario individual, la responsabilidad es personal e ilimitada frente a terceros. (Fuente: Página 6, Sección: 3. El empresario individual)
+-------------------------------------------------
+
+Pregunta 16: ¿Qué son las 'Marcas Blancas'?
+  A) Marcas de lujo con alto precio
+  B) Marcas utilizadas por grandes superficies para abaratar costes
+  C) Marcas que no están registradas en la OEPM
+  D) Marcas que solo venden servicios informáticos
+
+Respuesta Correcta: B
+Explicación: Las marcas blancas las utilizan las grandes superficies para abaratar costes y diferenciarse, aunque los productos sean de otros fabricantes. (Fuente: Página 12, Sección: 9. Creación y establecimiento de marcas propias. Utilización de marcas ajenas)
+-------------------------------------------------
+
+Pregunta 17: ¿Qué entidad ofrece mapeos y directorios de polígonos industriales para ayudar en la localización empresarial?
+  A) La Agencia Tributaria
+  B) Las Cámaras de Comercio
+  C) La Seguridad Social
+  D) El Registro de la Propiedad Industrial
+
+Respuesta Correcta: B
+Explicación: Las Cámaras de Comercio cuentan con mapeos, directorios e información de los distintos polígonos y zonas industriales. (Fuente: Página 14, Sección: 12. Búsqueda y selección de lugares)
+-------------------------------------------------
+
+Pregunta 18: ¿Cuál de estas formas jurídicas NO es una Sociedad de Capital?
+  A) Sociedad Limitada
+  B) Sociedad Anónima
+  C) Sociedad Colectiva
+  D) Sociedad Limitada Nueva Empresa
+
+Respuesta Correcta: C
+Explicación: La Sociedad Colectiva se clasifica como Sociedad Personalista, no de Capital. (Fuente: Página 5, Sección: 2. La persona jurídica y sus formas. Criterios para la toma de decisiones)
+-------------------------------------------------
+
+Pregunta 19: ¿Qué es la Comunidad de Bienes?
+  A) Una sociedad mercantil con capital mínimo
+  B) Un contrato donde una propiedad pertenece de forma indivisa a varias personas
+  C) Una organización regulada exclusivamente por el Código de Comercio
+  D) Una sociedad que limita siempre la responsabilidad de los comuneros
+
+Respuesta Correcta: B
+Explicación: La Comunidad de Bienes se fundamenta en un contrato por el que una propiedad o derecho pertenece de forma indivisa a varias personas. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)
+-------------------------------------------------
+
+Pregunta 20: ¿Qué caracteriza a una franquicia en relación con las marcas?
+  A) Es la creación de una marca blanca
+  B) Es un ejemplo de utilización de marca ajena mediante pago de canon
+  C) Es una estrategia de marca única obligatoria
+  D) Es el registro de un logotipo en la OEPM
+
+Respuesta Correcta: B
+Explicación: Las franquicias constituyen un ejemplo de utilización de marca ajena mediante el pago de un alquiler o canon por uso. (Fuente: Página 12, Sección: 9. Creación y establecimiento de marcas propias. Utilización de marcas ajenas)
+-------------------------------------------------
+
+Pregunta 21: ¿Quiénes tienen prohibido por ley ejercer como empresarios individuales?
+  A) Los menores emancipados
+  B) Los graduados en administración de empresas
+  C) Magistrados, jueces y militares
+  D) Personas extranjeras residentes
+
+Respuesta Correcta: C
+Explicación: La legislación impide esta forma jurídica a personas en cargos como magistrados, jueces, fiscales, militares o sacerdotes. (Fuente: Página 6, Sección: 3. El empresario individual)
+-------------------------------------------------
+
+Pregunta 22: En el diseño de espacios de trabajo, ¿qué factor NO es mencionado como obligatorio a tener en cuenta?
+  A) Normativa de cada sector empresarial
+  B) Legislación en prevención de riesgos laborales
+  C) Normativa de salud laboral
+  D) Color de las paredes según el marketing
+
+Respuesta Correcta: D
+Explicación: Se debe considerar la normativa del sector, la prevención de riesgos y la salud laboral, no se menciona el color por marketing como norma legal. (Fuente: Página 15, Sección: 13. Distribución interna de espacios)
+-------------------------------------------------
+
+Pregunta 23: ¿A qué se refiere el término 'Régimen Fiscal' como criterio de elección?
+  A) Al número de socios fundadores
+  B) A la tributación en el Impuesto de Sociedades o IRPF
+  C) Al coste de la escritura notarial
+  D) Al registro del nombre comercial
+
+Respuesta Correcta: B
+Explicación: La tributación en el Impuesto de sociedades o en el IRPF es un factor determinante según la actividad. (Fuente: Página 5, Sección: 2. La persona jurídica y sus formas. Criterios para la toma de decisiones)
+-------------------------------------------------
+
+Pregunta 24: ¿Qué ventaja principal ofrece el teletrabajo para las empresas según el texto?
+  A) Elimina la necesidad de registrar la marca
+  B) Reduce la responsabilidad ilimitada
+  C) Permite eliminar el espacio físico y vender en mercado global 24h (tiendas online)
+  D) Evita el cumplimiento del Código de Comercio
+
+Respuesta Correcta: C
+Explicación: Las tiendas online suponen un beneficio porque eliminan el espacio físico y permiten vender en un mercado global 24 horas. (Fuente: Página 14, Sección: 12. Búsqueda y selección de lugares)
+-------------------------------------------------
+
+Pregunta 25: ¿Qué sociedades permiten el acceso de los trabajadores a los medios de producción?
+  A) Sociedades Comanditarias
+  B) Sociedades Civiles
+  C) Sociedades Laborales y Cooperativas
+  D) Sociedades de Responsabilidad Limitada
+
+Respuesta Correcta: C
+Explicación: Las sociedades laborales y cooperativas permiten y facilitan el acceso de los trabajadores a los medios de producción. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)
+-------------------------------------------------
+
+Pregunta 26: ¿Cuál es la diferencia principal entre nombre y logotipo en una marca?
+  A) El nombre es obligatorio y el logotipo no
+  B) El nombre es lo que se dice y el logotipo es el grafismo que se ve
+  C) El nombre se registra en el Registro Mercantil y el logo en el Civil
+  D) No existe diferencia, son términos sinónimos
+
+Respuesta Correcta: B
+Explicación: En la marca se diferencia el nombre (la parte que decimos) y el logotipo (la parte que vemos o grafismo). (Fuente: Página 10, Sección: 8. Marcas. Utilidad y estrategias de utilización)
+-------------------------------------------------
+
+Pregunta 27: ¿Qué es una Cooperativa de segundo grado?
+  A) Aquella formada por un mínimo de 3 personas físicas
+  B) Aquella integrada por un mínimo de 2 personas jurídicas y cooperativas
+  C) Una sociedad que no necesita inscribirse en el Registro de Cooperativas
+  D) Aquella donde el capital mínimo son 60.000 €
+
+Respuesta Correcta: B
+Explicación: Las cooperativas de segundo grado están integradas por cooperativas, con un mínimo de 2 personas jurídicas y cooperativas de cooperativas. (Fuente: Página 7, Sección: 4. Las sociedades. Clasificación de los diferentes tipos de sociedades)
+-------------------------------------------------
+
+Pregunta 28: ¿Por qué es importante la proximidad a centros de investigación para empresas de alta tecnología?
+  A) Para reducir el Impuesto de Sociedades
+  B) Para consultas, ayudas y actividades conjuntas de I+D
+  C) Para facilitar el acceso de transportes pesados
+  D) Para evitar el registro de patentes
+
+Respuesta Correcta: B
+Explicación: En sectores de alta tecnología, la proximidad a centros de investigación es fundamental para consultas y actividades conjuntas de I+D. (Fuente: Página 13, Sección: 11. Localización de la empresa. Factores que determinan su localización)
+-------------------------------------------------
+
+Pregunta 29: ¿Qué debe acompañar siempre a la Razón Social en los Estatutos?
+  A) El logotipo a color
+  B) El mapa de localización del local
+  C) Las siglas del tipo societario (S.A., S.R.L., etc.)
+  D) La lista de todos los empleados
+
+Respuesta Correcta: C
+Explicación: La denominación social se incluye en los Estatutos y se acompaña de las siglas del tipo societario (ej. S.A, S.R.L.). (Fuente: Página 9, Sección: 6. Identificación de la empresa. Denominación, logotipos y anagramas)
+-------------------------------------------------
+
+Pregunta 30: ¿Qué característica debe tener un logotipo efectivo según el texto?
+  A) Debe ser complejo y con muchos colores
+  B) Sencillo, fácil de recordar y versátil
+  C) Debe incluir obligatoriamente el CIF de la empresa
+  D) No debe poder reproducirse en formato digital
+
+Respuesta Correcta: B
+Explicación: El logotipo debe ser sencillo y fácil de recordar, captar la atención y ser versátil para cualquier formato. (Fuente: Página 9, Sección: 6. Identificación de la empresa. Denominación, logotipos y anagramas)
+-------------------------------------------------
+
